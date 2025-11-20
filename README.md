@@ -7,7 +7,7 @@ The project combines human-coded engagement scores with outputs from multiple la
 
 ## 📁 Data Files
 
-The `data/`, `results_filtered/` and 'samples/' folders contain several zipped CSV files.  
+The `data/`, `results_filtered/` and `samples/` folders contain the CSV files.  
 Large CSVs are stored as ZIP files due to GitHub’s 100MB file limit.
 
 ### **Main data files:**
@@ -15,7 +15,7 @@ Large CSVs are stored as ZIP files due to GitHub’s 100MB file limit.
 | File | Description |
 |------|-------------|
 | **data/pair_metadata_w_scores.zip** | Metadata for each majority–dissent pair, including human coder information, case details, and coder scores. |
-| **data/30_pairs_w_all_scores.zip** | Full scoring dataset containing human ratings + LLM-generated engagement scores (GPT-5, DeepSeek, Anthropic). |
+| **data/30_pairs_w_all_scores.csv** | Full scoring dataset containing human ratings + LLM-generated engagement scores (GPT-5, DeepSeek, Anthropic). |
 
 Unzip these files locally to access the full CSVs.
 
@@ -31,10 +31,10 @@ Case-level metadata and human coder scores.
 |--------|---------|
 | `case_key` | Internal ID linking cases across datasets. |
 | `case_name` | Full case name from the Supreme Court opinion. |
-| `case_name_abbreviation` | Shortened Bluebook-style case name. |
+| `case_name_abbreviation` | Shortened case name. |
 | `decision_date` | Date the Supreme Court issued the decision. |
 | `opinion_type` | `"majority"` or `"dissent"` (this dataset contains dissents). |
-| `dissent_ind` | 1 if the row is a dissent. |
+| `dissent_ind` | dissent index fir each case (used to track different dissenting opinions for the same case). |
 | `justice` | Justice authoring the opinion. |
 | `vote_majority` | Number of justices in the majority. |
 | `vote_minority` | Number of dissenting justices. |
@@ -44,12 +44,7 @@ Case-level metadata and human coder scores.
 | `party_winning` | Whether the petitioning party won. |
 | `majVotes`, `minVotes` | Vote counts for majority/dissent. |
 | `naturalCourt` | SCDB natural court identifier. |
-| **Human coder scores:** |
-| `cb_score`, `eg_score`, `jm_score`, `st_score`, `sz_score`, `rs_score` | Engagement scores (1–5) from six human coders. |
-| `cb_reasoning`, `eg_reasoning`, `jm_reasoning`, … | Rationale written by each coder. |
-| `score_mean` | Average of the six human scores. |
-| **Binary variable:** |
-| `binaryRA` | 1 = “talking with”; 0 = “talking past” (thresholded from human mean score). |
+
 
 ---
 
