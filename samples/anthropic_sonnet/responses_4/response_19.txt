@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissents demonstrate strong engagement with the majority's reasoning. Justice Scalia's dissent directly challenges the majority's core legal framework, addressing the same NLRB cases (Station KKHI, Service Electric, Leveld Wholesale), the same statutory provisions, and the same factual record. He systematically rebuts the majority's arguments about replacement workers' union sentiments, challenges the majority's interpretation of the union's unconditional offer to return to work, and critiques the majority's reasoning about conflicts of interest between strikers and replacements. Justice Blackmun's separate dissent also engages directly with the majority's analysis, particularly regarding the Board's inconsistency with prior cases like Service Electric and Leveld Wholesale. Both dissents use the same precedents, statutory framework, and factual record as the majority, providing detailed rebuttals rather than alternative frameworks. The dissents are 'talking with' the majority by directly confronting its legal reasoning, factual interpretations, and policy conclusions point-by-point."
+}
+```

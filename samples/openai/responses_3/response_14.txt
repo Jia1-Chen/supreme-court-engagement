@@ -1,0 +1,3 @@
+Official Citation: 481 U.S. 520
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s Miranda/Edwards/Innis framework, applies the same “functional equivalent of interrogation” test, and disputes the majority’s factual and legal premises (intent vs. perceptions, lack of subterfuge, security justifications, voluntariness/coercion). It cites the same precedents and record evidence, offering point-by-point rebuttals. Apart from a brief certiorari aside, it is a thorough dialogue with the majority’s reasoning."}

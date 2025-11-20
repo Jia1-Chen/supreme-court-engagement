@@ -1,0 +1,6 @@
+Official Citation: 556 U.S. 332
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing its interpretation of Belton and Chimel, critiquing the new two-part rule, discussing stare decisis factors such as reliance and workability, and using the same precedents to provide a detailed rebuttal. It systematically responds to key points without ignoring them, demonstrating meaningful dialogue."
+}

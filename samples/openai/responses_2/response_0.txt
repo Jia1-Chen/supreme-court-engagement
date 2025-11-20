@@ -1,0 +1,6 @@
+Official Citation: 448 U.S. 98
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages the majority’s core holdings. It contests the Rakas-based ‘legitimate expectation of privacy’ analysis, arguing that ownership/possessory interests in the seized effects suffice under the Fourth Amendment, and cites many of the same precedents (Rakas, Jones, Simmons, Jeffers, Salvucci) to rebut the majority’s reading. It also addresses the attenuation issue by disputing the majority’s characterization of the admission as ‘spontaneous’ and tracing a direct causal chain from the assumed illegal detention to the illegal purse search to the admission. However, it does not walk through Brown v. Illinois’s attenuation factors in detail and does not engage the search-incident-to-arrest point (which it would render moot). Overall, substantial but not thorough factor-by-factor engagement."
+}

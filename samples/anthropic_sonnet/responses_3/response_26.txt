@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. Justice Scalia systematically addresses each of the majority's three reasons for denying attorney's fees recovery: (1) he directly challenges the majority's characterization of the right as 'implied' versus 'express,' citing the same statutory provisions; (2) he rebuts the negative inference drawn from other fee provisions in SARA; and (3) he confronts the majority's core argument about the meaning of 'enforcement activities.' The dissent cites the same statutory sections (§107, §101(25)), engages with the same precedents (Runyon, Alyeska), and provides a detailed alternative interpretation of the identical statutory language. Rather than introducing independent legal frameworks, the dissent stays focused on the precise textual and interpretive questions the majority addresses, offering point-by-point counterarguments throughout."
+}
+```

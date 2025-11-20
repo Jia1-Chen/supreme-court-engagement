@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the market participant exception established in Alexandria Scrap. It addresses the majority's key distinction between 'market participant' and 'market regulator,' challenges the majority's interpretation of Alexandria Scrap, and provides detailed rebuttals to the majority's four arguments defending South Dakota's policy. While the dissent also raises broader policy concerns about protectionism and federalism, it maintains substantial engagement with the majority's specific legal framework and precedents throughout."
+}
+```

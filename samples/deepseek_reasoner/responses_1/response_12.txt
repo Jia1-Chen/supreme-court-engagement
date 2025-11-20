@@ -1,0 +1,6 @@
+Official Citation: 512 U.S. 849
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Thomas demonstrates strong engagement by directly addressing the majority's key arguments, including statutory interpretation of §§ 848(q)(4)(B) and 2251, rebutting the reliance on §848(q)(9), and challenging the practical necessity rationale. It cites the same statutory provisions and legal frameworks, provides a detailed rebuttal, and systematically counters the majority's reasoning without shifting focus to unrelated issues."
+}

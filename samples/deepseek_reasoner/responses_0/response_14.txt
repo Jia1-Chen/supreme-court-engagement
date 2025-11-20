@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 5,
+  "reasoning": "The dissent strongly engages with the majority by directly addressing its key reasoning, citing the same precedents (Miranda, Innis, Edwards), and providing a detailed rebuttal on issues such as the existence of a psychological ploy, officer intent, and the application of the 'functional equivalent' test for interrogation, demonstrating meaningful dialogue rather than talking past."
+}

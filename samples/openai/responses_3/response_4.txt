@@ -1,0 +1,3 @@
+Official Citation: 422 U.S. 151
+
+{"score": 4, "reasoning": "Substantial engagement. The dissent squarely addresses the majority’s core reasoning on what constitutes a “performance,” engages the same precedents (Fortnightly, Teleprompter, Buck v. Jewell-LaSalle, Herbert), and argues Buck controls given the license terms and respondent’s multispeaker commercial use. It contends Aiken is more than a passive listener and that the CATV cases do not dictate the result. However, it also pivots to broader legislative appeals and does not directly grapple with the majority’s practical enforceability and multiple-tribute concerns, preventing a top score."}

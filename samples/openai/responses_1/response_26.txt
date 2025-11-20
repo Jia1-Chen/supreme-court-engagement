@@ -1,0 +1,3 @@
+Official Citation: 511 U.S. 809
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning point-by-point. It addresses the same statutory provisions (§107(a)(4)(B), §113, and §101(25)), the same precedents (Alyeska, Runyon), and specifically rebuts each of the majority’s three grounds: (1) the ‘implied right of action’ characterization and the explicitness requirement, (2) the negative inference from other fee-shifting provisions in SARA, and (3) the meaning of ‘enforcement activities.’ It also responds to the majority’s footnote regarding express versus implied actions. Though it focuses on litigation fees (the point of disagreement), the engagement on that issue is thorough and direct."}

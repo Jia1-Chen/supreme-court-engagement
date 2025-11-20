@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice White directly addresses the central issue: the majority's interpretation of Section 2 Seventh of the Railway Labor Act and whether courts can authorize carriers to deviate from collective bargaining agreements during strikes. The dissent acknowledges and responds to the majority's key argument about the carrier's duty to operate ('the majority recognizes, no such duty has been placed on the railroads'), engages with the same statutory provisions (Section 2 Seventh), and cites overlapping precedent (Steele v. Louisville). The dissent also directly challenges the majority's judicial exception to the statute's 'unequivocal language.' While the dissent introduces some broader policy concerns about congressional intent and the prolongation of strikes, these points support rather than replace its direct engagement with the majority's legal reasoning. The dissent does not fully rebut every aspect of the majority's practical considerations about emergency operations, which prevents it from receiving a score of 5."
+}
+```

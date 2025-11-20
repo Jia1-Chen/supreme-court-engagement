@@ -1,0 +1,6 @@
+Official Citation: 511 U.S. 809
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing all three key arguments, rebutting the characterization of § 107 as an implied right of action, challenging the need for explicit 'attorney's fees' language, and countering the negative inference from other statutory provisions. It cites the same statutes and precedents, providing a detailed and focused rebuttal without shifting to unrelated issues."
+}

@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key legal arguments, citing the same precedents (Miranda, Innis, Edwards), and providing a detailed rebuttal of points such as the absence of psychological ploys, the officers' intent, and the suspect's perspective, demonstrating strong and thorough dialogue."
+}

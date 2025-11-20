@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+"score": 5,
+"reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. Justice Stevens directly challenges the majority's core distinction between 'quantity' and 'quality' of power, calling it 'nonexistent' and arguing that interruptibility affects the amount, not quality, of power. He addresses the majority's interpretation of specific statutory provisions (§5(d)(1)(A) and (B)), responds to the majority's use of legislative history, critiques the majority's reliance on administrative deference, and systematically rebuts the majority's arguments about the second quartile provisions. The dissent uses the same statutory language, precedents, and legislative history as the majority, providing point-by-point counterarguments rather than simply offering an alternative framework. This represents thorough, direct engagement characteristic of 'talking with' rather than 'talking past' the majority."
+}

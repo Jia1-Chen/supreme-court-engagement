@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key precedents (Fortnightly, Teleprompter, Buck v. Jewell-LaSalle), challenging the application of the broadcaster-viewer distinction, and rebutting the majority's functional analysis. It cites the same statutory framework and case law, but also introduces broader concerns about legislative action, which slightly shifts focus from a purely detailed rebuttal."
+}

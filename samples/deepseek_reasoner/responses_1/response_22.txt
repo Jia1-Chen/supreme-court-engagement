@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing the same FELA precedents, statutory interpretations, and key arguments about liability for statutory violations. It provides a detailed rebuttal, distinguishing the Safety Appliance and Boiler Inspection Acts based on congressional intent and highlighting the lack of a similar relationship with the Coast Guard regulation, demonstrating meaningful dialogue rather than talking past."
+}

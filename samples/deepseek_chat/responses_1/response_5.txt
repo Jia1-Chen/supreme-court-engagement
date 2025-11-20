@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly challenging the legal framework (Sixth vs. Fourteenth Amendment basis), critiquing the 'systematic exclusion' terminology given 15% female representation, and rebutting the practical implications of the fair-cross-section doctrine. However, it also shifts focus to broader concerns about administrative burdens and constitutional interpretation, preventing a perfect score."
+}

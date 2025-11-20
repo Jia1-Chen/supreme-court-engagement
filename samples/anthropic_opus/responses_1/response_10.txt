@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent extensively engages with the majority's reasoning on multiple fronts. Marshall directly addresses the majority's interpretation of the procedural history, disputes the necessity of reaching the constitutional question, and provides detailed counterarguments about the relationship between Logan Valley, Lloyd, and Marsh. He quotes and responds to specific passages from the majority opinion, particularly regarding whether the case requires constitutional adjudication and the proper interpretation of precedent. While the dissent also develops its own broader theory about First Amendment protections in shopping centers, this is done primarily through direct engagement with and rebuttal of the majority's analysis rather than talking past it."
+}
+```

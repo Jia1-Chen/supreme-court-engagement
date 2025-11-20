@@ -1,0 +1,3 @@
+Official Citation: 355 U.S. 225
+
+{"score": 4, "reasoning": "The dissent squarely contests the majority’s due process/notice holding and its act–versus–omission distinction, invoking the same strict-liability tradition (e.g., Balint) and even the Holmes passage the majority quotes. It argues that lack of awareness can constitutionally be punished and criticizes the majority’s constitutional line-drawing. However, it does not deeply engage the majority’s specific notice rationale (e.g., passive nonregistration, lack of opportunity to comply, or the Mullane-style notice discussion) or the ordinance’s mechanics, making the engagement substantial but not thorough."}

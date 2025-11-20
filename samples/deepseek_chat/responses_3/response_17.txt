@@ -1,0 +1,6 @@
+Official Citation: 556 U.S. 332
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the stare decisis argument, reliance interests, and the majority's reinterpretation of Belton. It critiques the majority's new two-part rule and questions its consistency with Chimel, while also highlighting practical concerns for law enforcement. However, it introduces broader concerns about the stability of search-incident-to-arrest doctrine and partially relies on separate arguments about police incentives, slightly reducing the focus on direct rebuttal of all majority points."
+}

@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Rehnquist thoroughly engages with the majority's reasoning by directly addressing key constitutional arguments, citing the same precedents (e.g., Maryland v. Wirtz and United States v. California), and providing a detailed rebuttal focused on state sovereignty under the Tenth Amendment. It critiques the majority's application of Commerce Clause power and offers a substantive counter-analysis, demonstrating strong dialogue rather than talking past."
+}

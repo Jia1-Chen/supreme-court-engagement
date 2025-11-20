@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Marshall directly addresses the majority's constitutional analysis, arguing against the overruling of Logan Valley and disputing the majority's interpretation of Lloyd Corp. v. Tanner. The dissent engages with the same precedents (Marsh, Logan Valley, Lloyd, Babcock & Wilcox) and provides detailed rebuttals to the majority's First Amendment conclusions. However, the dissent also introduces an independent argument that the Court should have decided the case on purely statutory grounds without reaching the constitutional question, and it provides its own statutory analysis under Section 7 of the NLRA. This dual approach—both challenging the majority's constitutional reasoning AND arguing the case should be decided on different grounds—prevents it from being a perfect score of 5. The dissent is in meaningful dialogue with the majority but also shifts focus to advocate for a different analytical framework (statutory-first approach)."
+}
+```

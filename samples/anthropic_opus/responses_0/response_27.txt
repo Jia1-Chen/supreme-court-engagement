@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's statutory interpretation arguments, particularly the meaning of 'damage' versus 'damages,' the legislative history, and the relationship between the immunity provision and its proviso. Justice Stevens systematically rebuts the majority's textual analysis, offers alternative interpretations of the same legislative materials, and addresses the majority's specific reasoning about the 'plain meaning' of the statute. While the dissent also introduces some broader policy concerns about the perverse results of the majority's interpretation, the core of the dissent is a direct point-by-point engagement with the majority's legal reasoning."
+}
+```

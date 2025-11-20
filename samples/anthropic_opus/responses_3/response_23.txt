@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments throughout. Souter systematically addresses the majority's three main defenses of the statute: (1) that the 'decency and respect' language is too imprecise to constitute viewpoint discrimination, (2) that compliance through diverse panels satisfies the statute, and (3) that the provision merely adds 'considerations' without mandating specific outcomes. The dissent quotes the same precedents (Rosenberger, Rust, Regan) and analyzes the same statutory language, providing detailed rebuttals to each point. While the dissent also develops its own broader First Amendment framework, it maintains consistent engagement with the majority's specific reasoning rather than talking past it."
+}
+```

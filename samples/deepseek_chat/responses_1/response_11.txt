@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Stevens' dissent demonstrates substantial engagement with the majority's reasoning by directly addressing its key arguments about the quantity/quality distinction, challenging the majority's interpretation of statutory language and legislative history, and providing specific counterarguments to the majority's analysis of Sections 5(d)(1)(A) and (B). The dissent systematically responds to the majority's points while maintaining focus on the core statutory interpretation dispute, though it also introduces some independent concerns about agency deference and legislative awareness."
+}
+```

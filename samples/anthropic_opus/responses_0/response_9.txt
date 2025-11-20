@@ -1,0 +1,8 @@
+Official Citation: 535 U.S. 789
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's core reasoning. While Justice Scalia acknowledges the majority's holding about contingent-fee agreements being 'presumptively reasonable,' he largely ignores the majority's detailed statutory analysis, legislative history, and policy arguments. Instead, he pivots to his own framework arguing that 'reasonable fee' must mean either ex ante or ex post assessment, not a hybrid. He dismisses the majority's approach as 'irrational' and 'incompatible' without directly addressing most of the majority's supporting arguments about Congress's intent, the 1990 amendments, or the distinction between fee-shifting and fee-from-recovery statutes. The dissent is essentially proposing an alternative interpretation rather than engaging substantively with the majority's reasoning."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by addressing the framing of the ordinance as a ban on live entertainment and citing shared precedents like Young v. American Mini Theatres, but it shifts focus to independent issues such as local community rights and the specific context of nude dancing, without thoroughly rebutting the majority's key points on overbreadth, narrow tailoring, and the lack of evidence for the Borough's justifications."
+}

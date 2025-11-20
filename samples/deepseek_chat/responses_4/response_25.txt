@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the key precedent (Alexandria Scrap), challenging the market participant doctrine application, and systematically rebutting the majority's arguments about protectionism, natural resources distinctions, and competitive effects. However, it also introduces broader constitutional principles about federalism and economic integration that extend beyond the majority's specific framework."
+}
+```

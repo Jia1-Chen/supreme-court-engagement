@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While Justice White acknowledges the majority's position that courts can authorize contract changes deemed 'reasonably necessary' for continued railroad operations during strikes, he doesn't meaningfully rebut the majority's detailed analysis about balancing the carrier's duty to operate with strike rights. Instead, the dissent focuses primarily on statutory interpretation of § 2 Seventh's 'unequivocal language' and broader separation of powers concerns about judicial intervention. The dissent largely talks past the majority's careful balancing test and public service rationale, offering an alternative interpretive framework rather than directly confronting the majority's specific legal arguments."
+}
+```

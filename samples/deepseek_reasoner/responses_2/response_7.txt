@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points such as the due process requirement of notice, the use of Holmes' quote, and the distinction between active and passive conduct. It cites the same precedents (e.g., United States v. Balint) and provides a rebuttal, but also introduces broader concerns about the decision's impact on other laws, which slightly shifts focus."
+}

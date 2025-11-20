@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement by directly addressing the majority's key arguments about viewpoint discrimination, statutory interpretation, and First Amendment principles. He systematically rebuts the majority's reasoning on whether §954(d)(1) constitutes viewpoint discrimination, challenges the majority's interpretation of 'taking into consideration,' and engages directly with the same precedents (Rosenberger, Rust, etc.). The dissent thoroughly analyzes the legislative history and statutory text that the majority relied upon, providing detailed counterarguments rather than introducing separate frameworks."
+}
+```

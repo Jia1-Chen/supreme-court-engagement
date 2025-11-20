@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's reasoning. While it directly addresses the majority's 'institutional good faith' test and criticizes it as unworkable, the dissent primarily advocates for its own interpretation of Donaldson rather than systematically rebutting the majority's statutory analysis, legislative history discussion, or policy arguments. The dissent focuses on proposing an alternative 'bright-line test' and relies heavily on Judge Friendly's opinion, rather than engaging with the majority's detailed examination of §7602's purposes and the interrelated nature of civil and criminal tax investigations."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority's reasoning by addressing the same precedents (Young v. American Mini Theatres) and First Amendment framework, but shifts focus to the specific context of nude dancing and community autonomy, rather than fully rebutting the majority's overbreadth and alternative channels analysis."
+}

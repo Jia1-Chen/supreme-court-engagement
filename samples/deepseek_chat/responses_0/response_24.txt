@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core legal reasoning about Section 2 Seventh of the Railway Labor Act, the carrier's right to self-help, and judicial authorization of contract changes. It systematically rebuts the majority's balancing of carrier duties against statutory constraints, cites the same precedents (Steele, Elgin), and challenges the majority's interpretation of congressional intent regarding strikes and compulsory arbitration."
+}

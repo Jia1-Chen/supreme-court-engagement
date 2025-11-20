@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 5,
+  "reasoning": "The dissent engages in strong, direct engagement with the majority's reasoning by challenging the legal foundation of the 'institutional good faith' test, citing the same precedents (Donaldson and Powell), and arguing that the majority's approach is unworkable and lacks statutory basis. It systematically rebuts the majority's key points while proposing a clear alternative standard."
+}

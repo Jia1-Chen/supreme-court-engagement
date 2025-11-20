@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about Belton's scope and application. Justice Alito systematically addresses the majority's interpretation of Belton, disputes their reading of precedent, and provides detailed rebuttals about stare decisis, officer reliance interests, and the practical implications of overruling established law. While the dissent does introduce some broader policy concerns about officer safety and workability, it fundamentally debates the same legal questions and precedents (Belton, Chimel, Thornton) that form the heart of the majority's analysis. Both opinions focus on the same central issue: whether and when vehicle searches incident to arrest are justified."
+}
+```

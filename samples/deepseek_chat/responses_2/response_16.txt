@@ -1,0 +1,6 @@
+Official Citation: 455 U.S. 586
+
+{
+  "score": 4,
+  "reasoning": "Justice Marshall's dissent demonstrates substantial engagement by directly addressing the majority's reliance on Ross v. Moffitt and its state action argument, citing the same precedent (Cuyler v. Sullivan) to rebut the majority's reasoning, while also introducing broader due process concerns."
+}

@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing key points such as the plain language of 'damage' versus 'damages,' rebutting the use of precedents like American Stevedores, and challenging the legislative history interpretation, while citing the same statutory framework and providing a detailed rebuttal."
+}

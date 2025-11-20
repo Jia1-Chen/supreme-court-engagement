@@ -1,0 +1,3 @@
+Official Citation: 421 U.S. 542
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly rebuts the majority’s core Commerce Clause/Tenth Amendment analysis, challenges the majority’s reliance on Maryland v. Wirtz and United States v. California, and articulates why those precedents should be limited or reconsidered. It addresses the Supremacy Clause rationale, the emergency justification, and the majority’s treatment of state sovereignty, while citing many of the same cases (Wirtz, California, Darby, Wickard, Heart of Atlanta). Although it introduces broader federalism and tax-immunity doctrines (e.g., New York v. United States, Hans), those are used to counter the majority’s approach rather than to shift topics, demonstrating meaningful dialogue."}

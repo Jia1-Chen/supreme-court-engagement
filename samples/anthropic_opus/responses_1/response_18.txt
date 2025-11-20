@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments, specifically addressing: (1) the plain meaning of 'any felony punishable under the CSA' in §924(c)(2); (2) the majority's reliance on the ordinary meaning of 'trafficking'; (3) the structural arguments about superfluity in §924(c)(1)(A); and (4) the anomalies each interpretation creates. The dissent methodically rebuts the majority's textual analysis and offers alternative readings of the same provisions. While it introduces some independent arguments (like the Commerce Clause analogy), the dissent primarily focuses on dismantling the majority's specific reasoning rather than talking past it."
+}
+```

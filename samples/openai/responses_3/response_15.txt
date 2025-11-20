@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages the majority’s reasoning on all key points. It debates the statutory text and structure (the meaning of “under,” whether §1229(a)(1) is definitional, and the role of §§1229(a)(2) and 1229(b)(1)), addresses the same cross-references and neighboring provisions (§1229a(b)(5), §1229a(b)(7)), and offers competing readings of legislative history (orders to show cause). It also squarely contests the majority’s rejection of Chevron deference and responds to the majority’s ‘common sense’ rationale. This is a thorough, line-by-line rebuttal using the same legal framework and precedents."
+}

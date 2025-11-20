@@ -1,0 +1,6 @@
+Official Citation: 447 U.S. 429
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's key arguments, including the application of the market participant doctrine from Hughes v. Alexandria Scrap Corp., the characterization of protectionism, and distinctions involving natural resources. It cites the same precedents and provides a detailed rebuttal, systematically challenging the majority's reasoning while maintaining a focused dialogue on the Commerce Clause implications."
+}

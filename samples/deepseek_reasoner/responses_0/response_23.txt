@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent thoroughly engages with the majority's reasoning by directly addressing key arguments, such as the claim that §954(d)(1) is not viewpoint-based, the interpretation of 'taking into consideration,' the role of diverse advisory panels, and the distinction from Rosenberger. He cites the same precedents (e.g., Rosenberger, Rust) and provides a detailed rebuttal rooted in statutory text, legislative history, and First Amendment principles, demonstrating a meaningful dialogue without ignoring the majority's points."
+}

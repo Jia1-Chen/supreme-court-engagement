@@ -1,0 +1,3 @@
+Official Citation: 511 U.S. 809
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly answers each of the majority’s core points: it contests the majority’s characterization of §107 as an implied cause of action, disputes the need for “magic words” to satisfy the American Rule’s explicitness requirement, rebuts the negative inference from other fee-shifting provisions, and offers a competing reading of “enforcement activities” in §101(25). It cites and analyzes the same statutory text and precedents and specifically responds to the majority’s footnote, showing thorough dialogue rather than talking past the majority."}

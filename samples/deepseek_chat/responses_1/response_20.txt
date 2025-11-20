@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement with the majority's reasoning by directly addressing key legal arguments, including the materiality standard under §1451(a), the interpretation of §1101(f)(6), and the majority's statutory analysis. He critiques the majority's narrow focus on naturalization-stage misrepresentations and rebuts their application of the materiality test, while also aligning with parts of the majority opinion. However, the dissent partially shifts focus to factual disputes and alternative grounds like the videotaped depositions, slightly reducing the depth of engagement on all majority points."
+}

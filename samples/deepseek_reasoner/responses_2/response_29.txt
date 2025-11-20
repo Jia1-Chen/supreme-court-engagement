@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by addressing the First Amendment protection of expression and citing shared precedents like Young v. American Mini Theatres, but it shifts focus to the as-applied challenge and community zoning powers, largely ignoring the majority's key arguments on overbreadth, narrow tailoring, and inadequate justifications for the ban on all live entertainment."
+}

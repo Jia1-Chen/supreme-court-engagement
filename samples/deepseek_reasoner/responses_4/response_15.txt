@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing key textual arguments (e.g., the meaning of 'under', cross-references to §1229(a)), statutory context, and practical concerns, cites the same precedents and statutory provisions, and provides a detailed rebuttal that demonstrates meaningful dialogue rather than ignoring or shifting focus away from the majority's points."
+}

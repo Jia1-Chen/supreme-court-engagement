@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points, such as the interpretation of Donaldson and the 'institutional good faith' test, and rebutting them with references to the same precedents (e.g., Donaldson, Powell, and Morgan Guaranty). However, it shifts focus to broader concerns about workability and statutory basis without thoroughly engaging with the majority's detailed analysis of legislative history and IRS institutional processes."
+}

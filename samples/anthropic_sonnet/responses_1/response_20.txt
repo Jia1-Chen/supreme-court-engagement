@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement with the majority's reasoning. He directly addresses the majority's key holdings on multiple fronts: (1) He agrees with Parts I, II-A, and III-A but systematically challenges the majority's application of the materiality standard; (2) He critiques the majority's decision to limit consideration to naturalization proceedings rather than including visa proceedings, directly responding to the majority's 'English literacy' hypothetical; (3) He challenges the majority's narrow interpretation of what constitutes 'misrepresented fact,' arguing the Court should consider both the true facts AND the fact that lies were told; (4) He disputes the need for remand on the 'testimony' and 'subjective intent' questions, arguing these are already established. While the dissent does introduce some independent concerns (particularly regarding the videotaped depositions), it primarily engages with the majority's specific legal reasoning, uses the same statutory framework, and provides detailed rebuttals to key points. The dissent is clearly 'talking with' rather than 'talking past' the majority, though it occasionally broadens the discussion beyond the majority's precise framing."
+}
+```

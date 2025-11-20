@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Stevens directly addresses the majority's reliance on common-law definitions of 'seizure' and arrest, challenges the majority's interpretation of key precedents (particularly Terry, Katz, and Mendenhall), and provides specific rebuttals to the majority's constitutional framework. The dissent argues the majority has departed from established Fourth Amendment jurisprudence and contests the majority's conclusion that submission is required for a seizure. While the dissent does introduce broader concerns about the implications for civil liberties and presents an alternative interpretive framework emphasizing post-Katz/Terry expansion of Fourth Amendment protections, these additions complement rather than replace direct engagement with the majority's specific arguments. The dissent explicitly responds to the majority's common-law analysis, its treatment of the Mendenhall test, and its distinction between completed and attempted seizures, making this a strong example of substantive dialogue between the opinions."
+}
+```

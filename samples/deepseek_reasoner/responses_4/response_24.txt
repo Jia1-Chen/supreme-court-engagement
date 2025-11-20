@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points, such as the interpretation of § 2 Seventh of the Railway Labor Act and the role of courts in permitting changes to collective bargaining agreements. It cites the same precedent (Steele v. Louisville & N. R. Co.) and provides a rebuttal based on statutory language and congressional intent. However, it also introduces broader policy concerns about strike prevention and court intervention, which slightly shifts focus beyond a purely detailed legal rebuttal."
+}

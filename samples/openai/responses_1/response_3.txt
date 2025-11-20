@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages the majority’s core holdings: extending Younger abstention to state civil proceedings and requiring exhaustion of state appellate remedies before a §1983 federal suit. It rebuts the majority’s comity/federalism rationale by invoking the Anti-Injunction Act’s history, Monroe v. Pape’s no-exhaustion rule, and Mitchum’s §1983 exception, and it cites many of the same precedents (Younger, Fenner, Stefanelli, Dombrowski, Mitchum). It also addresses the procedural posture and the nonjurisdictional nature of Younger. However, it does not specifically grapple with some particulars of the majority’s reasoning (e.g., the Ohio Supreme Court’s narrowing decision or the detailed duplication/comity concerns at the appellate stage), and focuses more on broader statutory purpose arguments. Hence, substantial but not complete engagement."
+}

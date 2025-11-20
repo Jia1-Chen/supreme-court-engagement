@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning on multiple fronts. It addresses the majority's interpretation of whether §107 creates an 'express' vs. 'implied' cause of action, rebuts the majority's argument about the need for 'explicit congressional authorization' for attorney's fees, responds to the negative inference drawn from other SARA provisions, and directly challenges the majority's interpretation of 'enforcement activities.' The dissent cites the same statutory provisions (§§107, 113, 101(25)) and precedent (Runyon, Alyeska) while offering alternative interpretations. While the dissent doesn't address every aspect of the majority opinion (e.g., the distinction between different types of legal services), it substantially engages with the key legal arguments rather than talking past them."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 140 S. Ct. 1308
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's key reasoning on whether §1342 implies a private right of action under the Tucker Act, citing shared precedents like Testan and contrasting with recent cases (e.g., Comcast, Hernández) to rebut the 'money-mandating' test. However, it shifts focus to broader concerns about judicial role and requests re-argument, which, while relevant, introduces independent issues beyond a thorough rebuttal of all majority points."
+}

@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's Sixth Amendment 'fair cross-section' framework while arguing it is actually an equal protection case in disguise. The dissent critiques the majority's use of the 15% threshold, challenges the distinction between 'exclusion' and 'underrepresentation,' and questions the practical implications of the majority's holding for state jury systems. It engages with Taylor v. Louisiana and other precedents cited by the majority. The dissent also addresses the majority's treatment of exemptions and state interests. While it does introduce broader concerns about judicial administration and practical consequences, these flow from its engagement with the majority's constitutional framework. The dissent's main strategy is to expose what it sees as inconsistencies in the majority's approach rather than proposing an entirely separate legal framework, which demonstrates meaningful dialogue with the majority opinion."
+}

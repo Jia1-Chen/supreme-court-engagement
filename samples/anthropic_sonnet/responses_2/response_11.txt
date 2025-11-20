@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. It directly addresses the majority's central distinction between 'quantity' and 'quality' of power, arguing this distinction is artificial since 'kilowatts are fungible' and interruptibility affects amount, not quality. The dissent systematically rebuts the majority's interpretation of §5(d)(1)(B), challenges the majority's reading of §5(d)(1)(A), disputes the majority's use of legislative history, and questions the deference given to the Administrator's interpretation. The dissent cites the same statutory provisions, engages with the same precedents, and provides point-by-point counter-arguments to the majority's key holdings. This is a textbook example of 'talking with' rather than 'talking past' the majority opinion."
+}

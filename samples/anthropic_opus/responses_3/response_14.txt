@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about what constitutes 'interrogation' under Rhode Island v. Innis. Both opinions focus on the same legal standard (whether police conduct was 'reasonably likely to elicit an incriminating response'), examine the same facts (the spousal meeting), and debate the same precedents (Miranda, Edwards, Innis). The dissent specifically rebuts the majority's three main arguments: (1) that there was no psychological ploy, (2) that legitimate security concerns justified the officer's presence, and (3) that Mauro wouldn't have felt coerced. While the dissent also raises broader concerns about deference to state court findings, the core of its argument directly addresses and challenges the majority's application of the interrogation standard to these facts."
+}
+```

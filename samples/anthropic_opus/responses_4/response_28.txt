@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about abstention doctrine and the proper exercise of federal diversity jurisdiction. Justice Clark specifically addresses the majority's 'exceptional circumstances' standard, disputes their characterization of efficiency and delay, and challenges their comity analysis. The dissent quotes the majority's language about 'added expense' and 'prolonged unlawful denial' to argue the opposite conclusion. While the dissent emphasizes practical administrative concerns more than the majority's focus on jurisdictional principles, it clearly responds to and rebuts the majority's key arguments rather than talking past them."
+}
+```

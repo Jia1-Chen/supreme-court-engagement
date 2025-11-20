@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages with the majority’s reliance on Taylor, challenges the use of the term “exclusion,” and critiques the ‘significant state interest’ standard by comparing it to equal protection doctrine. But it largely talks past the majority’s specific Sixth Amendment framework: it does not grapple with the three‑prong prima facie test, the statistical showing (15% vs ~54%), or the State’s burden to justify the exemption, and instead reframes the case as an equal protection problem and raises policy concerns. Thus, there is some engagement, but much of the dissent sidesteps the majority’s core reasoning."
+}

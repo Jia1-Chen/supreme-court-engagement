@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges the majority's overbreadth analysis and quotes Young v. American Mini Theatres (a case central to the majority's analysis), it largely talks past the majority by reframing the issue entirely. The majority focuses on the ordinance's total ban on all live entertainment as a First Amendment violation requiring strict scrutiny. The dissent, however, narrows the issue to just nude dancing in an adult bookstore and argues from a different framework emphasizing local community autonomy and traditional police powers. The dissent dismisses the majority's overbreadth concerns as 'overconcern about draftsmanship' and fundamentally disagrees about what constitutional framework should apply, treating this as a simple zoning matter rather than a First Amendment case requiring heightened scrutiny."
+}
+```

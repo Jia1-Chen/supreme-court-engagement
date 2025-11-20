@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the Segal v. Rochelle precedent and Local Loan Co. v. Hunt's 'fresh start' principle, arguing they support the trustee's position rather than the bankrupt's. It critiques the majority's application of these cases to the facts and highlights uncertainties in California law and the record. However, it also emphasizes procedural concerns about summary disposition and the crowded docket, which shifts some focus away from direct legal rebuttal."
+}

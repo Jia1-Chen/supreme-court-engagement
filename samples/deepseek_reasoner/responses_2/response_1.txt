@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by directly addressing key precedents like Segal v. Rochelle and Local Loan Co. v. Hunt, arguing they support the trustee's position rather than the bankrupt's, and raises factual nuances about vacation pay accrual after bankruptcy. However, it shifts focus to procedural criticisms (e.g., docket pressure and record opaqueness) and does not thoroughly rebut the majority's core reasoning on the fresh start purpose and the distinction for wage earners' survival needs."
+}

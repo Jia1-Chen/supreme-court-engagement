@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by systematically rebutting key points on statutory interpretation, ordinary meaning of 'illicit trafficking,' contextual analysis of § 924(c)(2), and anomaly concerns, while citing the same statutes, precedents, and INA provisions."
+}

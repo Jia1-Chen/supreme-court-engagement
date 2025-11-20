@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key arguments, such as the meaning of 'under' in the stop-time rule, the definitional nature of §1229(a)(1), and the practical implications. It rebuts the majority's textual analysis and cites the same statutory provisions, but also introduces broader concerns about Chevron deference and statutory history, which, while relevant, shift focus slightly from the majority's plain-text approach."
+}

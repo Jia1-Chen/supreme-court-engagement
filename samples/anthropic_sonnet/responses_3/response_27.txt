@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly challenges the majority's plain language interpretation by focusing on the distinction between 'damage' (property harm) and 'damages' (monetary compensation), arguing the majority misconstrued the statutory text. The dissent addresses the same § 702c provision, examines the same legislative history (though reaching opposite conclusions), and responds to the majority's analysis of the proviso's relationship to the immunity clause. It rebuts the majority's assertion that the plain language is unambiguous and challenges the majority's use of American Stevedores. The dissent also addresses the majority's structural arguments about the 1928 Act. While it introduces some independent concerns (like the absence of FTCA in 1928 and the barbaric implications of the majority's reading), these serve to reinforce its rebuttal rather than representing a separate analytical framework. This is strong engagement with one key distinction: the dissent believes the majority fundamentally misread the statutory term, but it argues this point directly rather than talking past the majority."
+}
+```

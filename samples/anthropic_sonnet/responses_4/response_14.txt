@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and direct engagement with the majority's reasoning. It explicitly addresses the majority's interpretation of Rhode Island v. Innis and the 'functional equivalent' of interrogation standard. The dissent challenges each of the majority's key points: (1) it disputes the majority's conclusion that no psychological ploy was used, (2) it directly rebuts the majority's reliance on the lack of 'ruse or subterfuge,' (3) it contests the majority's reading of the trial court's factual findings, and (4) it challenges the majority's assessment that Mauro did not feel coerced. The dissent cites the same precedents (Miranda, Innis, Edwards) and applies the same legal framework while reaching opposite conclusions. It specifically quotes and responds to the majority's assertions, making this a clear example of two opinions in direct dialogue rather than talking past each other."
+}
+```

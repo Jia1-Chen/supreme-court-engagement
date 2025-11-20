@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core arguments: it challenges the majority's textual interpretation of 'damage' versus 'damages', rebuts the legislative history analysis by showing the provision's context and lack of discussion on personal injury, and systematically counters the majority's reasoning on statutory scope and sovereign immunity, creating a thorough and meaningful dialogue."
+}

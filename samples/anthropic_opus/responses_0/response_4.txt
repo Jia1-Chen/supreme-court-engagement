@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges the majority's reliance on Fortnightly and Teleprompter and briefly addresses the 'passive beneficiary' analysis, it primarily focuses on adherence to Buck v. Jewell-LaSalle as binding precedent and emphasizes the need for Congressional action. The dissent doesn't substantively rebut the majority's core arguments about practical unenforceability, inequity of multiple licenses, or copyright policy balance. Instead, it takes a fundamentally different approach by arguing the Court should defer to existing precedent and await legislative resolution rather than engaging deeply with the majority's functional analysis."
+}
+```

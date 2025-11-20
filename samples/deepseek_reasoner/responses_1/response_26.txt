@@ -1,0 +1,6 @@
+Official Citation: 511 U.S. 809
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing all three key arguments: it rebuts the characterization of §107 as an implied right of action, counters the requirement for explicit fee authorization by arguing 'enforcement activities' naturally includes attorney's fees, and disputes the negative inference from other fee provisions. It cites the same statutory sections and precedents, providing a detailed and focused rebuttal."
+}

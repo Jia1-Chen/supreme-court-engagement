@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While Rehnquist acknowledges the majority's reliance on Maryland v. Wirtz and mentions the majority's Commerce Clause analysis, he primarily develops an independent constitutional framework based on federalism, state sovereignty, and the Tenth Amendment. The dissent focuses extensively on critiquing United States v. California (which the majority barely mentions) and develops alternative theories about intergovernmental tax immunity and the Eleventh Amendment that are not central to the majority's analysis. The dissent does briefly address the majority's economic rationale for including state employees, but quickly pivots to broader constitutional concerns about federal-state relations that go well beyond the majority's narrow Commerce Clause holding."
+}
+```

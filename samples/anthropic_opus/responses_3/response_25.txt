@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's key arguments and reasoning. It addresses the majority's market participant/regulator distinction, discusses the same Alexandria Scrap precedent extensively, and responds to the majority's specific arguments about cement not being a natural resource and South Dakota's investment risks. While the dissent also raises broader policy concerns about protectionism and federalism, it maintains substantial engagement with the majority's legal framework and specific points throughout, making this a clear example of 'talking with' rather than 'talking past.'"
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 140 S. Ct. 1308
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages with the majority's reasoning on the Tucker Act and the money-mandating test in Part IV, citing similar precedents and providing a rebuttal, but it explicitly avoids addressing the majority's key arguments in Parts I-III regarding the existence and non-repeal of the statutory obligation, shifting focus to independent concerns about inferring private rights of action."
+}

@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "Both dissents directly engage the majority on the core question: how the Board should treat striker replacements in assessing an employer’s good-faith doubt. They cite and analyze the same NLRB precedents (Station KKHI, Service Electric, Leveld Wholesale, Beacon Upholstery), debate the proper standard of review (substantial evidence vs. deference to Board policymaking), and confront the majority’s empirical and policy justifications. Scalia offers a detailed rebuttal of the majority’s no-presumption rationale (presumption vs. inference, APA factfinding, Chenery), and Blackmun focuses on unexplained inconsistency with prior Board decisions. The dissents are in sustained dialogue with the majority’s reasoning rather than shifting to unrelated issues."
+}

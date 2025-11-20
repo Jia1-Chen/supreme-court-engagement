@@ -1,0 +1,3 @@
+Official Citation: 512 U.S. 849
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning on when a §2254 ‘proceeding’ begins and whether §2251 stay authority exists before a habeas petition is filed. It responds point-by-point: interpreting the same statutory text (§848(q)(4)(B), §848(q)(9), §2251), invoking related habeas provisions (§2254(d), §2241(d)) and rules (Habeas Rules, Fed. R. Civ. P. 3, 81), critiquing the majority’s in pari materia approach and its reliance on practical necessity, and addressing the implications for federal stay power. This constitutes a detailed, text-focused rebuttal of the majority’s arguments."}

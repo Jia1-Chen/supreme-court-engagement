@@ -1,0 +1,3 @@
+Official Citation: 535 U.S. 789
+
+{"score": 4, "reasoning": "The dissent directly engages the majority’s core reasoning: it critiques the hybrid contingent-fee/reasonableness approach, argues for a lodestar baseline, and responds to the majority’s points about 1965’s enactment, the 1990 §406(a) amendment, and administrability. It cites overlapping precedents (e.g., Hensley, Dague) and addresses the same statutory phrase (“reasonable fee”). However, it does not fully grapple with some key majority distinctions—particularly the difference between fee-shifting statutes and §406(b)’s fee-from-recovery structure (and cases like Venegas), nor does it engage the legislative history and EAJA interplay to the same depth. Substantial but not exhaustive engagement."}

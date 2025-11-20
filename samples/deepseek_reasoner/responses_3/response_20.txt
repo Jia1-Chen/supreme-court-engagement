@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "The dissent by Justice White demonstrates substantial engagement with the majority opinion by directly addressing key legal arguments, such as the materiality standard under §1451(a) and the lack of a materiality requirement in §1101(f)(6). It rebuts the majority's narrowing of misrepresentations to naturalization proceedings only and challenges the application of the 'natural tendency to influence' test to Kungys' case. The dissent cites the same statutes and precedents, like Fedorenko, and provides detailed counter-arguments. However, it also introduces broader concerns, such as the admissibility of videotaped depositions, which shifts some focus away from the core reasoning."
+}

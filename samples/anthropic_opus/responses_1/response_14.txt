@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about what constitutes 'interrogation' under Rhode Island v. Innis. It addresses the majority's specific arguments about police intent, the absence of psychological ploys, and whether the police conduct was reasonably likely to elicit an incriminating response. The dissent contests the majority's factual characterizations (particularly about advance warning to Mauro) and rebuts the majority's three main justifications point-by-point. While the dissent does raise some broader concerns about federalism and this Court's review of state court findings, the primary focus remains on directly challenging the majority's application of the Innis standard to these facts."
+}
+```

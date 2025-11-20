@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and extensively engages with the majority's core reasoning about when a 'seizure' occurs under the Fourth Amendment. Stevens specifically addresses: (1) the majority's reliance on common law definitions of arrest, arguing this contradicts Katz and Terry precedents; (2) the majority's interpretation of the Mendenhall test as necessary but not sufficient; (3) the practical implications of requiring submission for a seizure to occur; and (4) the majority's distinction between touching and show of authority. While the dissent also raises broader policy concerns about police power and citizen protection, it systematically rebuts the majority's legal framework and precedent interpretation throughout, demonstrating substantial dialogue rather than talking past the majority."
+}
+```

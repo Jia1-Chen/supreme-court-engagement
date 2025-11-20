@@ -1,0 +1,3 @@
+Official Citation: 422 U.S. 151
+
+{"score": 4, "reasoning": "The dissent substantially engages the majority’s core reasoning. It addresses the same statutory question (whether Aiken “performed”), cites and contests the same precedents (Fortnightly, Teleprompter, Buck v. Jewell-LaSalle, Herbert v. Shanley), and offers a direct rebuttal by arguing Aiken was more than a passive listener due to his commercial, multispeaker use. It also responds to the majority’s framing that this would make every listener a performer. However, the dissent leans heavily on calls for congressional action and does not fully grapple with the majority’s administrability and multiple-licensing policy concerns, so the engagement, while significant, is not exhaustive."}

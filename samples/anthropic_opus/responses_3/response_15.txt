@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and extensively engages with the majority's statutory interpretation arguments. It addresses the majority's reading of 'under section 1229(a)', responds to the majority's contextual arguments about neighboring provisions (§§ 1229(a)(2) and 1229(b)(1)), and provides detailed rebuttals to the majority's 'common sense' reasoning. The dissent also directly quotes and responds to specific points from the majority opinion. While the dissent frames the dispute through the lens of Chevron deference (which the majority doesn't emphasize), it still substantively engages with nearly every interpretive argument the majority advances."
+}
+```

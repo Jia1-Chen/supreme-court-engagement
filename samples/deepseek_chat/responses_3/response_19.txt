@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent demonstrates substantial engagement with the majority opinion by directly addressing the majority's reasoning about striker replacements' union sentiments, citing the same precedents (Service Electric, Leveld Wholesale), and providing detailed rebuttals to the majority's empirical and policy arguments. However, the dissent also introduces broader administrative law concerns about factfinding versus policymaking that somewhat shift focus from the core legal dispute."
+}
+```

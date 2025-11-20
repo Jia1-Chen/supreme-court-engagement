@@ -1,0 +1,3 @@
+Official Citation: 452 U.S. 61
+
+{"score": 2, "reasoning": "The dissent largely reframes the case as an as‑applied challenge to nude dancing and emphasizes local autonomy and zoning power (Berman, Belle Terre), rather than engaging the majority’s overbreadth, narrow tailoring, and time/place/manner analyses. It cites Young only for a general zoning proposition without addressing the majority’s distinctions (dispersal vs. total exclusion, evidentiary support). It also relies on availability of entertainment in nearby cities, which the majority explicitly rejects and finds unsupported in the record. There is some minimal engagement on the idea of ‘minimal intrusion,’ but the dissent mostly talks past the majority’s central First Amendment reasoning."}

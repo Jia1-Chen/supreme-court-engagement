@@ -1,0 +1,3 @@
+Official Citation: 512 U.S. 849
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning on the same statutory provisions (§ 848(q)(4)(B) and § 2251), disputes when a ‘proceeding’ begins by citing § 2254(d), § 2241(d), Rule 3, and the Habeas Rules, critiques the majority’s reliance on § 848(q)(9), and addresses the stay-of-execution analysis and in pari materia approach. It also responds to the majority’s practical concerns by proposing alternative funding sources and emphasizing habeas/federalism limits. This is a thorough, point-by-point rebuttal within the same legal framework."}

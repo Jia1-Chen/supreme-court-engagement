@@ -1,0 +1,6 @@
+Official Citation: 455 U.S. 586
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's core reasoning, including the application of Ross v. Moffitt and the state action argument, while also introducing alternative due process grounds and citing relevant precedents like Cuyler v. Sullivan to rebut the majority's conclusions."
+}

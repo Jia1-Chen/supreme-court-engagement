@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Frankfurter directly addresses the majority's central holding that distinguishing between acts and omissions (feasance vs. nonfeasance) creates a constitutional line for due process. He explicitly challenges the majority's reliance on Holmes's 'blameworthiness' quote by providing fuller context, argues that the majority's rule contradicts extensive precedent upholding strict liability statutes (citing the same Balint case), and disputes the constitutional significance of the passive/active conduct distinction. He also addresses the harshness argument by comparing this case to other strict liability crimes with severer penalties. While the dissent takes a broader view of precedent and warns of sweeping implications, it directly rebuts the majority's key analytical framework rather than talking past it. The dissent loses one point because it somewhat overstates its case by calling this an 'isolated deviation' and declining to fully document all the legislation that might be affected, suggesting a degree of rhetorical distancing from full engagement with the majority's specific reasoning."
+}
+```

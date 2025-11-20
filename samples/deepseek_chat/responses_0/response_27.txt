@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core textual analysis, challenging the interpretation of 'damage' versus 'damages' with specific legal authorities, engaging with the same statutory language and legislative history, and systematically rebutting the majority's reasoning on sovereign immunity, statutory context, and legislative intent."
+}

@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core legal reasoning about §2 Seventh of the Railway Labor Act, specifically rebutting the majority's 'reasonably necessary' standard for court-authorized contract changes. It cites the same statutory provisions and precedents (Steele, Elgin), systematically challenges the majority's balancing of carrier self-help against statutory constraints, and argues the majority's approach effectively undermines congressional intent regarding strikes and bargaining procedures."
+}

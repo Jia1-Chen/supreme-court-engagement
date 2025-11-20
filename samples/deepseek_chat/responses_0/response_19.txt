@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent demonstrates substantial engagement with the majority opinion by directly addressing the majority's legal reasoning, challenging the Board's factual determinations, and pointing out inconsistencies in the Board's approach across different cases. The dissent specifically rebuts the majority's deference to the Board's empirical judgments, questions the rationality of the no-presumption approach, and highlights contradictions with the Board's own precedents regarding union-replacement conflicts. However, the dissent also introduces broader administrative law arguments about factfinding versus policymaking that extend beyond direct engagement with the majority's core reasoning."
+}
+```

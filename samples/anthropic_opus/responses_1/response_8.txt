@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's reasoning. Rehnquist directly addresses the majority's reliance on Maryland v. Wirtz and United States v. California, acknowledging these precedents are 'plausible on their facts' and understanding the majority's Commerce Clause rationale. However, the dissent shifts focus to broader constitutional concerns about federalism and state sovereignty under the Tenth Amendment, developing an extensive independent argument about intergovernmental immunity and the Framers' intent. While there is meaningful dialogue about the key precedents, much of the dissent is devoted to alternative constitutional frameworks rather than direct rebuttal of the majority's specific Commerce Clause analysis."
+}
+```

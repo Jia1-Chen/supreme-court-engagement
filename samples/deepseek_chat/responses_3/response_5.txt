@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Rehnquist's dissent substantially engages with the majority's reasoning by directly addressing the constitutional framework, critiquing the 'hybrid doctrine' that blends Sixth Amendment and equal protection analysis, and challenging the majority's use of 'systematic exclusion' terminology. The dissent responds to key majority arguments about statistical underrepresentation, engages with the same precedents (Taylor, Hoyt), and questions the practical implications of the Court's holding. However, it also introduces broader concerns about judicial administration and the future direction of jury selection jurisprudence that extend beyond direct rebuttal of the majority's specific reasoning."
+}
+```

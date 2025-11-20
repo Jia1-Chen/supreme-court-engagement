@@ -1,0 +1,8 @@
+Official Citation: 455 U.S. 586
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Marshall directly addresses the majority's reliance on Ross v. Moffitt, explaining why he believes that precedent was wrongly decided and why it shouldn't control here. More importantly, the dissent tackles the majority's core logic head-on: even accepting Ross v. Moffitt, Marshall argues there was a due process violation that the majority overlooks. The dissent also specifically rebuts the majority's state action argument in footnote 4, citing Cuyler v. Sullivan to demonstrate state involvement. While the dissent does introduce broader concerns about fairness and the importance of discretionary review, these are framed as responses to the majority's framework rather than independent arguments. The engagement is not quite a '5' because the dissent does devote significant attention to disagreeing with the underlying precedent (Ross) rather than exclusively focusing on the instant case's application, but it remains a thorough and direct engagement with the majority's key reasoning."
+}
+```

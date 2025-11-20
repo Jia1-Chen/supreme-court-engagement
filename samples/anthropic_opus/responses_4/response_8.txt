@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent demonstrates moderate engagement with the majority's reasoning. Rehnquist directly addresses the majority's reliance on Maryland v. Wirtz and United States v. California, the same key precedents used by the majority. He engages with the Commerce Clause analysis and the Tenth Amendment discussion that the majority raises. However, the dissent also shifts focus significantly to broader constitutional federalism concerns, spending considerable time on theoretical discussions about state sovereignty, tax immunity principles, and the Eleventh Amendment that go beyond the majority's narrower analysis. While there is meaningful dialogue about the core legal authorities, the dissent expands the discussion into wider constitutional territory not fully explored by the majority."
+}
+```

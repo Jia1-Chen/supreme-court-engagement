@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the key abstention doctrine arguments, specifically challenging the majority's conclusion about 'exceptional circumstances' and comity concerns. Justice Clark responds to the majority's points about parallel state proceedings, federal-state friction, and the practical consequences of splitting the case between state and federal courts. However, the dissent also introduces broader concerns about judicial efficiency and case management that go beyond direct rebuttal of the majority's legal analysis."
+}
+```

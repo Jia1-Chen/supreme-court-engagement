@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 4,
+  "reasoning": "Justice Rehnquist's dissent demonstrates substantial engagement by directly addressing the majority's reliance on Maryland v. Wirtz and United States v. California, critiquing the analytical foundations of these precedents, and challenging the majority's interpretation of the Tenth Amendment's role in limiting congressional power under the Commerce Clause. However, it also introduces broader federalism concerns and alternative constitutional frameworks that extend beyond the majority's specific reasoning."
+}

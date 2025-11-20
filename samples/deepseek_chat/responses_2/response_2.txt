@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning about statutory interpretation of §7602, challenging the 'institutional good faith' standard as unworkable, and advocating for the bright-line Donaldson test. It systematically rebuts the majority's legal framework while citing the same precedents and statutory provisions."
+}

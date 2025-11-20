@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the due process requirement of notice and the use of Holmes' quote on blameworthiness. It cites the same precedent (United States v. Balint) and challenges the majority's distinction between active and passive conduct, providing a meaningful rebuttal. However, it also introduces broader concerns about the decision's impact on other laws and does not fully address all aspects of the majority's reasoning, such as the specific nature of the ordinance as a law enforcement technique."
+}

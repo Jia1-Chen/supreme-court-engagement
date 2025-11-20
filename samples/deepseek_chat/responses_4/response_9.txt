@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing the core conflict between contingent-fee agreements and lodestar calculations, critiquing the majority's hybrid approach as unworkable, and providing detailed rebuttals to key points such as statutory interpretation and practical application. It cites the same precedents (e.g., Hensley) and statutory framework while systematically challenging the majority's conclusions."
+}

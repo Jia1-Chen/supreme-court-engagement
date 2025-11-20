@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent directly and thoroughly engages with the majority's reasoning by addressing key points such as the statute's viewpoint neutrality, its hortatory nature, and precedents like Rosenberger and Rust, providing a detailed rebuttal that demonstrates meaningful dialogue rather than ignoring or shifting focus from the majority's arguments."
+}

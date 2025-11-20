@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about striker replacements' union sentiments. Scalia systematically rebuts the majority's factual conclusions about replacement workers' interests, citing the same Board precedents (Station KKHI, Service Electric, Leveld Wholesale) and addressing the majority's specific arguments about economic concerns, union bargaining power, and policy considerations. While the dissent occasionally shifts to broader administrative law principles, it maintains substantial dialogue with the majority's reasoning throughout, making this a clear case of 'talking with' rather than 'talking past.'"
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "Both dissents directly engage the majority’s core reasoning. Justice Scalia contests the majority’s framing (deference vs. substantial-evidence review), addresses each of the majority’s empirical and policy points (economic motives of replacements, unions’ displacement demands, post-strike interests), and works through the same precedents (Station KKHI, Service Electric, Leveld, Celanese, Pennco) to rebut the no-presumption approach. Justice Blackmun likewise focuses on the Board’s unexplained inconsistency with Service Electric/Leveld and the need for reasoned explanation, engaging the majority’s tolerance for policy shifts. The dissents are in detailed dialogue with the majority’s legal framework and authorities, not talking past it."
+}

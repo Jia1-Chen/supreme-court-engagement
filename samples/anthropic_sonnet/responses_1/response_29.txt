@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Chief Justice Burger directly addresses the majority's central holdings: he acknowledges the First Amendment framework applied by the majority but argues for a different standard of review based on the locality's zoning power (citing the same Belle Terre case). He confronts the majority's overbreadth concern by arguing the case should be evaluated 'as applied' to nude dancing rather than as a total ban on live entertainment. He engages with the Young v. American Mini Theatres precedent that both opinions discuss, though he interprets it differently. The dissent does introduce its own emphasis on community character and local autonomy, but this is presented as a rebuttal to the majority's First Amendment analysis rather than a completely independent framework. The dissent doesn't address every technical point in the majority's opinion (such as the detailed discussion of adequate alternative channels), but it meaningfully challenges the majority's core reasoning about the level of scrutiny and the characterization of what is actually being restricted."
+}

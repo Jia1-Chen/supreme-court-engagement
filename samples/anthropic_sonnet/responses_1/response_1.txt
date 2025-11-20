@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Harlan directly addresses the majority's application of Segal v. Rochelle and Local Loan Co. v. Hunt, arguing that these precedents actually 'tend to support the position of the trustee rather than compel a decision for the bankrupt.' He works within the same legal framework and precedents as the majority but reaches an opposite conclusion about their application. The dissent also acknowledges the specific facts of both respondents' cases and the 'fresh start' principle central to the majority's analysis. However, rather than providing an exhaustive point-by-point rebuttal, the dissent primarily argues for full briefing and argument due to the complexity of the issue and unclear aspects of the record. This represents substantial but not complete engagement, as it critiques the summary disposition while engaging meaningfully with the substantive legal analysis."
+}
+```

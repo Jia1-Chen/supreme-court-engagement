@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's reasoning by challenging its reliance on Fortnightly and Teleprompter, distinguishing the facts from those cases, and emphasizing the relevance of Buck v. Jewell-LaSalle. It addresses the majority's statutory interpretation and functional analysis, while also introducing broader concerns about legislative action and equitable principles, though it shifts some focus to policy arguments."
+}

@@ -1,0 +1,6 @@
+Official Citation: 424 U.S. 507
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Marshall demonstrates strong engagement with the majority opinion by directly addressing its key reasoning, including the overruling of Logan Valley, the interpretation of Lloyd Corp., and the decision to reach constitutional issues. It systematically rebuts the majority's arguments using the same precedents (e.g., Marsh, Babcock & Wilcox) and statutory framework, while also critiquing the majority's approach to avoiding unnecessary constitutional questions. The dissent provides a detailed counter-analysis without shifting focus to unrelated issues, showing meaningful dialogue rather than talking past."
+}

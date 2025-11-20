@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning about extending FELA absolute liability principles to Jones Act cases involving Coast Guard regulations. It systematically analyzes the same precedents (Layton, Gotschall, Davis, Swinson, Coray, Urie) and statutory provisions that the majority relies on, while arguing these cases are limited to the Safety Appliance and Boiler Inspection Acts due to their special relationship with FELA. The dissent specifically rebuts the majority's conclusion that 'the nature of the Acts violated is not a controlling consideration' by highlighting the unique statutory cross-references and congressional intent distinguishing the railroad safety statutes from the navigation regulation at issue."
+}
+```

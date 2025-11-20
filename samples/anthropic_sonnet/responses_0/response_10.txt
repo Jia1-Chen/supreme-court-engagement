@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Marshall directly addresses the majority's constitutional analysis, arguing that the Court unnecessarily reached the First Amendment question when the case could have been decided on statutory grounds alone. He provides detailed analysis of why Logan Valley and Lloyd Corp. are reconcilable, directly rebutting the majority's conclusion that Lloyd 'amounted to a total rejection' of Logan Valley. The dissent also addresses the majority's statutory framework under the NLRA, arguing that under Babcock & Wilcox the picketing should be protected. While the dissent does introduce some independent procedural concerns about avoiding constitutional questions unnecessarily, it primarily engages point-by-point with the majority's legal reasoning, cites the same precedents (Marsh, Logan Valley, Lloyd, Central Hardware, Babcock & Wilcox), and provides substantive rebuttals to the majority's interpretation of these cases. The dissent doesn't merely talk past the majority but actively disputes its core holdings on both constitutional and statutory grounds."
+}
+```

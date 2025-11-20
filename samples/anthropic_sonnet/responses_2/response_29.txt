@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Chief Justice Burger directly addresses the majority's First Amendment framework, citing the same key precedent (Young v. American Mini Theatres) that the majority relies on, but argues it supports a different conclusion. He challenges the majority's characterization of the ordinance as a broad ban on live entertainment, reframing it as applied specifically to nude dancing in an adult bookstore. The dissent responds to the majority's concerns about adequate alternatives and time/place/manner restrictions by arguing the minimal intrusion is justified given nearby urban areas. He also directly contests the majority's approach to overbreadth analysis, arguing the case should be decided 'as applied' rather than facially. While the dissent introduces some broader concerns about community autonomy and federalism, these augment rather than replace direct engagement with the majority's legal reasoning. The dissent doesn't ignore the majority's arguments but systematically attempts to rebut them using shared legal frameworks."
+}
+```

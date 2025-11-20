@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning, citing the same precedents (Katz, Terry, Mendenhall), and systematically rebutting the majority's historical and textual analysis. Justice Stevens specifically challenges the majority's reliance on common law arrest principles, engages with the Mendenhall test interpretation, and directly responds to the majority's policy arguments about police conduct and the exclusionary rule."
+}
+```

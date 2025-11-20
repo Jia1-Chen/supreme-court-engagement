@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning throughout. Rehnquist challenges the majority's Sixth Amendment 'fair-cross-section' framework, argues it's really an Equal Protection analysis in disguise, critiques the 15% threshold as arbitrary, and questions the fundamental premise that underrepresentation on venires violates defendants' rights when petit juries can still be single-sex. He addresses the same precedents (Taylor, Hoyt, Ballard) and statutory issues, providing detailed rebuttals. While he also raises broader policy concerns about administrative burdens, the dissent substantially engages with and attempts to refute the majority's specific legal arguments."
+}
+```

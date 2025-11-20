@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key precedents like Maryland v. Wirtz and United States v. California, critiquing their application to state sovereignty under the Commerce Clause and Tenth Amendment. It provides a detailed rebuttal of the majority's constitutional analysis, citing the same legal framework and offering alternative interpretations without shifting focus to unrelated issues."
+}

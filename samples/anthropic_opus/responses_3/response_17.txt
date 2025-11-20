@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about Belton's scope and the justifications for the search-incident-to-arrest exception. Justice Alito systematically addresses the majority's interpretation of Belton, disputes their reading of precedent, challenges their stare decisis analysis, and defends the original Belton rule using the same Chimel framework. While the dissent does raise some broader concerns about police reliance and workability, it primarily focuses on rebutting the majority's specific legal arguments about when vehicle searches are permissible incident to arrest, demonstrating substantial engagement with the majority's reasoning."
+}
+```

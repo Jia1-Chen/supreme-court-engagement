@@ -1,0 +1,3 @@
+Official Citation: 400 U.S. 18
+
+{"score": 2, "reasoning": "The dissent primarily criticizes the summary disposition and the unclear record, urging full argument rather than squarely rebutting the majority’s reasoning. It briefly contests the majority’s reliance on Segal and Local Loan, suggesting they favor the trustee, but does not engage the majority’s core fresh-start analysis about vacation pay as wages or address the cited wage-protection authorities. Overall, it acknowledges but minimally engages with the majority’s substantive arguments."}

@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+"score": 5,
+"reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. Justice Souter directly addresses and rebuts the majority's key arguments: (1) he challenges the majority's claim that the statute is not viewpoint-based, arguing it is 'quintessentially viewpoint based'; (2) he refutes the majority's interpretation that diverse panels satisfy the statute; (3) he disputes the majority's reading of 'taking into consideration' as merely hortatory; (4) he directly engages with the majority's distinction of Rosenberger, arguing it 'controls here' and that the scarcity distinction was 'specifically rejected'; (5) he addresses the majority's government-as-patron theory and explains why it fails under existing precedent; and (6) he confronts the majority's rejection of facial overbreadth analysis. The dissent cites the same cases (Rosenberger, Rust, etc.), addresses the same statutory language, and systematically dismantles each of the majority's constitutional arguments. This is a model of direct doctrinal engagement."
+}
+```

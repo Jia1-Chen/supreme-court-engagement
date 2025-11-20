@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core textual analysis, statutory interpretation methodology, and specific arguments about §924(c)(2)'s language. Justice Thomas systematically rebuts the majority's reasoning point-by-point, including the 'felony punishable as such' interpretation, surplusage concerns, statutory structure analysis, and the INA's state law provision. He cites the same statutory provisions and precedents while offering detailed counterarguments about textual meaning and congressional intent."
+}

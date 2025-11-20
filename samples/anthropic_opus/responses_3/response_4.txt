@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges the majority's reliance on Fortnightly and Teleprompter, it primarily focuses on defending Buck v. Jewell-LaSalle as controlling precedent and arguing that Congress, not the Court, should resolve this issue. The dissent briefly addresses the majority's 'passive beneficiary' analysis but doesn't substantively engage with the majority's core arguments about practical unenforceability, inequity of multiple licenses, or the public policy balance in copyright law. Instead, it shifts focus to legislative deference and preserving traditional copyright principles."
+}
+```

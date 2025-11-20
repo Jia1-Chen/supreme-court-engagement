@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "Justice Scalia's dissent thoroughly engages with the majority's reasoning by directly addressing key points such as deference to the NLRB, the rationality of the no-presumption approach, and policy considerations. It cites the same precedents (e.g., Station KKHI, Service Electric) and provides a detailed rebuttal, demonstrating meaningful dialogue rather than talking past the majority."
+}

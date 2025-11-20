@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and sustained engagement with the majority's reasoning throughout. Justice Alito directly addresses the majority's textual arguments about the meaning of 'notice to appear' and 'under section 1229(a),' responds to the majority's interpretation of specific statutory provisions (including §1229(a)(1), §1229(a)(2), and §1229(b)(1)), challenges the majority's 'common sense' argument, and engages with the majority's discussion of practical consequences. The dissent uses the same statutory framework, cites the same provisions, and systematically rebuts each of the majority's key points. While the dissent reaches opposite conclusions and criticizes the majority for ignoring Chevron deference, it consistently engages directly with the majority's specific arguments rather than pursuing an independent framework. This represents thorough point-by-point engagement characteristic of 'talking with' rather than 'talking past' the majority opinion."
+}

@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the application of Taylor v. Louisiana, the definition of 'systematic exclusion,' and the prima facie test for fair-cross-section violations. It cites the same precedents and provides a rebuttal to the majority's analysis of state interests and statistical evidence. However, it also introduces broader concerns about practical implications and doctrinal consistency, which slightly shifts the focus away from a purely detailed rebuttal."
+}

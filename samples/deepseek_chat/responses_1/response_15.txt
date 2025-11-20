@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's core textual arguments, statutory interpretation methodology, and practical concerns. Justice Alito systematically rebuts the majority's reading of 'under section 1229(a),' challenges the majority's definitional approach to §1229(a)(1), and engages with the same statutory provisions and precedents. However, the dissent also introduces significant independent arguments about Chevron deference and statutory history that shift focus from direct rebuttal of the majority's reasoning."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's core reasoning about extending FELA absolute liability principles to violations of the Coast Guard regulation. It addresses the majority's key precedents (Layton, Gotschall, Davis, Swinson, Coray, Urie), disputes the majority's interpretation of the relationship between FELA and safety statutes, and provides detailed counter-arguments about congressional intent and the special nature of the Safety Appliance and Boiler Inspection Acts. While the dissent does introduce broader concerns about negligence law and employer liability, it consistently ties these back to refuting the majority's specific legal analysis."
+}
+```

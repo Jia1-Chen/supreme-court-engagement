@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the market participant exception from Alexandria Scrap. It addresses the majority's distinction between states as market participants vs. regulators, debates the proper interpretation of Alexandria Scrap, and responds to specific arguments about cement production vs. natural resources. While the dissent also raises broader policy concerns about protectionism and federalism, it maintains substantial engagement with the majority's legal framework and precedential analysis throughout."
+}
+```

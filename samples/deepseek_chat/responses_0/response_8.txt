@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's reasoning, particularly its reliance on Maryland v. Wirtz and the Commerce Clause analysis. It critiques the majority's interpretation of United States v. California and discusses the Tenth Amendment's role in limiting federal power over state functions. While it introduces broader federalism concerns, it consistently responds to the majority's key arguments about congressional intent and constitutional authority."
+}

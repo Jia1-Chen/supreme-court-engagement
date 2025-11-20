@@ -1,0 +1,3 @@
+Official Citation: 499 U.S. 621
+
+{"score": 5, "reasoning": "The dissent directly confronts the majority’s core premise that a seizure requires physical force or submission, arguing instead that the Mendenhall reasonable-person test is sufficient and that Terry and Katz foreclose the majority’s common-law-of-arrest approach. It engages point-by-point with the majority’s authorities (Mendenhall, Terry, Katz, Brower, Hester), disputing their interpretation and application, and addresses the majority’s policy justifications. The dissent also offers a detailed alternative framework (including treatment of attempted arrests) and explains the implications for the exclusionary rule. This is a thorough, citation-rich rebuttal that squarely talks with the majority."}

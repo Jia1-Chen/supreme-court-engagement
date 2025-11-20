@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly challenges the majority's interpretation of Rakas v. Illinois and the 'legitimate expectation of privacy' framework, arguing the majority misreads precedent by excluding property interests from Fourth Amendment protection. The dissent addresses the same key cases (Rakas, Jones, Katz, Simmons, Jeffers) and provides detailed counterarguments about how these cases should be interpreted. On the second issue (fruit of illegal detention), the dissent disagrees with the majority's Brown v. Illinois analysis, though less extensively. The dissent also engages with the majority's subsidiary points about bailment and property interests. While the dissent adds broader Fourth Amendment philosophy and concerns about erosion of rights, the core of its argument directly rebuts the majority's legal reasoning rather than talking past it. It falls short of a '5' primarily because its treatment of the detention/fruit issue is less developed than the standing issue."
+}
+```

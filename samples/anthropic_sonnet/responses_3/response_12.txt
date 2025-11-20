@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning. Justice Thomas directly addresses the majority's core statutory interpretation arguments, particularly challenging the Court's reading of §848(q)(4)(B) and §2251. He engages with the majority's textual analysis, arguing that both statutes require an actual habeas petition to be filed before a proceeding commences. He directly rebuts the majority's policy arguments about practical necessity, addresses the same statutory provisions (particularly §848(q)(9)), and contests the majority's conclusion that Congress intended to allow proceedings to begin with a mere motion for counsel. The dissent also addresses the majority's pari materia reading of the statutes but argues the interpretive direction should be reversed. Throughout, Thomas uses the same legal framework, cites the same statutes, and provides point-by-point refutation of the majority's key holdings on both the counsel appointment and stay of execution issues."
+}
+```

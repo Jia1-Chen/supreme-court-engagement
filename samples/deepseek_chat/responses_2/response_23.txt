@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement by directly addressing the majority's key arguments about viewpoint discrimination, statutory interpretation, and constitutional standards. He systematically rebuts the majority's reasoning by: (1) challenging the claim that the statute is not viewpoint-based, citing legislative history and constitutional precedent; (2) refuting the majority's interpretation that diverse panels satisfy the statute; (3) countering the argument that 'taking into consideration' makes the provision benign; and (4) distinguishing the government-as-patron rationale from permissible categories like government-as-speaker. The dissent consistently engages with the same precedents (Rosenberger, Rust, etc.) and statutory text while providing detailed constitutional analysis that directly responds to the majority's position."
+}
+```

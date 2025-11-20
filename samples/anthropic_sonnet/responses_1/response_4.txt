@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's reliance on Fortnightly and Teleprompter, challenges the majority's treatment of Buck v. Jewell-LaSalle (arguing it should control rather than be distinguished), and disputes the characterization of the respondent as a 'passive beneficiary.' The dissent also responds to the majority's practical enforceability concerns. However, it dedicates considerable space to calling for congressional action rather than purely legal rebuttal, and introduces broader institutional competence concerns. While these elements shift focus somewhat, the dissent still meaningfully confronts the majority's central holdings on performance, precedent interpretation, and statutory construction."
+}
+```

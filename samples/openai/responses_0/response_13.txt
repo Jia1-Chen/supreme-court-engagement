@@ -1,0 +1,3 @@
+Official Citation: 365 U.S. 167
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core holdings on §1983: it contests the majority’s reading of “under color of” law, reinterprets the same precedents (Classic, Screws, Williams), and mines the same 1871 legislative history to argue that §1983 covers only state-authorized or customary practices, not lawless acts. It addresses and rebuts the majority’s reliance on congressional silence and subsequent statutes, agrees on no specific-intent requirement, and concurs on municipal non-liability. It also parses the complaint similarly, acknowledging the ‘custom or usage’ allegation for detention. This is a thorough, point-by-point dialogue with the majority’s reasoning."}

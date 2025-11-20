@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent directly engages with the majority's core holding about 'institutional good faith' and criticizes its unworkability, but fundamentally disagrees on the legal framework itself. While the dissent addresses the majority's reasoning about moving beyond individual agent motivation, it rejects the entire premise that there should be any limitation beyond the bright-line test from Donaldson (good faith and prior to recommendation for prosecution). The dissent argues the majority is creating requirements 'from out of nowhere' rather than engaging substantively with why institutional purpose matters. This represents minimal engagement - acknowledging the majority's position but arguing from a fundamentally different interpretive stance."
+}
+```

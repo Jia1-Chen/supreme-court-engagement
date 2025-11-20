@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and direct engagement with the majority's reasoning. Justice Scalia systematically addresses each of the majority's three key arguments: (1) he challenges the majority's characterization of the right of action as 'implied' rather than 'express,' arguing the statute explicitly creates liability; (2) he directly rebuts the majority's 'magic words' argument about the need for explicit mention of 'attorney's fees'; (3) he engages with the majority's negative inference from other CERCLA provisions; and (4) he tackles head-on the core interpretive question of whether 'enforcement activities' encompasses private cost recovery actions. The dissent uses the same statutory provisions (§§107 and 101(25)), cites the same precedent (Alyeska, Runyon), and provides point-by-point counterarguments to the majority's textual interpretation. This represents a model of direct engagement where the dissent is clearly 'talking with' rather than 'talking past' the majority."
+}
+```

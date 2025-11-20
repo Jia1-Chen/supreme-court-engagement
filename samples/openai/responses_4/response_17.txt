@@ -1,0 +1,3 @@
+Official Citation: 556 U.S. 332
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s reasoning throughout. It contests the majority’s reading of Belton and Thornton, argues the Court is effectively overruling them, and conducts a detailed stare decisis analysis (reliance, workability, changed circumstances, consistency, and reasoning). It critiques the majority’s new two-part rule, questioning its doctrinal basis and practical clarity, and addresses the same core precedents (Chimel, Belton, Thornton, Dickerson, Payne). This is a point-by-point rebuttal using the same legal framework, showing strong dialogue rather than talking past the majority."}

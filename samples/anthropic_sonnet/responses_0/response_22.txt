@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Harlan directly addresses the majority's central argument that FELA cases involving Safety Appliance and Boiler Inspection Acts create absolute liability that should extend to this Coast Guard regulation case. The dissent meticulously analyzes the same precedents cited by the majority (Wagner, Urie, Carter, etc.) but argues they rest on the 'peculiar relationship' between those specific safety statutes and FELA, not a general principle. The dissent challenges the majority's core premise by arguing: (1) the Safety Appliance and Boiler Inspection Acts had explicit congressional intent to create absolute liability for employee safety, evidenced by statutory cross-references and express language; (2) no similar congressional intent exists for the Coast Guard regulation, which was designed solely to prevent collisions; and (3) the majority improperly extends a narrow exception into a broad rule. While the dissent also raises some broader concerns about judicial expansion of liability beyond negligence principles, the primary focus is on directly rebutting the majority's interpretation of the precedents and statutory relationships. This represents substantial, though not complete, engagement—hence a score of 4 rather than 5."
+}
+```

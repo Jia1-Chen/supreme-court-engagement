@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's core reasoning about Section 2 Seventh of the Railway Labor Act and the carrier's right to modify agreements during a strike, directly addressing the majority's 'reasonably necessary' standard and its tension with statutory language. However, it shifts focus toward broader concerns about judicial intervention and congressional intent, slightly reducing the depth of engagement with specific legal balancing."
+}

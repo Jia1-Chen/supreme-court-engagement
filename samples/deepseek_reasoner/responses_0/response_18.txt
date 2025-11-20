@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Thomas demonstrates strong engagement with the majority opinion by directly addressing its key reasoning points, including statutory interpretation of 'felony punishable under the CSA,' the ordinary meaning of 'illicit trafficking,' and contextual canons like Russello. It cites the same precedents and statutes, provides a detailed rebuttal section by section, and challenges the majority's anomalies and inconsistencies without shifting focus to unrelated issues."
+}

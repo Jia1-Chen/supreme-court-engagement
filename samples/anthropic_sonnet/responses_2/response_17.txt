@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+"score": 4,
+"reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Alito directly challenges the majority's interpretation of Belton, argues that the majority is effectively overruling precedent while claiming not to, and systematically addresses the majority's stare decisis analysis by examining reliance, changed circumstances, workability, consistency with later cases, and the quality of Belton's reasoning. The dissent also engages with the majority's new two-part rule, critiquing both prongs and pointing out practical problems. However, the dissent also develops an independent interpretation of Chimel that goes somewhat beyond merely rebutting the majority, and Part II-E offers an alternative framework for understanding the precedents. While there is strong direct engagement, these additional independent arguments prevent this from being a perfect score of 5."
+}
+```

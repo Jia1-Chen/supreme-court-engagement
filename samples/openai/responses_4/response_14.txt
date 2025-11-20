@@ -1,0 +1,3 @@
+Official Citation: 481 U.S. 520
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning under Miranda, Edwards, and Innis, arguing that the police conduct was the functional equivalent of interrogation. It contests the majority’s characterization of the facts (advance warning, officer presence, taping), rebuts the majority’s reliance on lack of subterfuge and suspect perception, and relies on the same precedents and record testimony (including officers’ acknowledgments and the Arizona Supreme Court’s findings) to argue foreseeability and police intent. This is a detailed point-by-point rebuttal using the same legal framework."}

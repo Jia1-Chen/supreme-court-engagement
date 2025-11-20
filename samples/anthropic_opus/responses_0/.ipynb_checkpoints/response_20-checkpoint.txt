@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal arguments about materiality standards, the scope of § 1451(a), and the interpretation of § 1101(f)(6). Justice White specifically addresses the majority's test for materiality, critiques its limitation of relevant misrepresentations to naturalization proceedings only, and disputes the majority's analysis of when false testimony lacks good moral character. While the dissent introduces some independent concerns (like the Soviet depositions), it primarily focuses on rebutting the majority's specific legal interpretations using the same statutory provisions and precedents."
+}
+```

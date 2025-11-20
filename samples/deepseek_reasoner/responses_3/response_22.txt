@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing the same FELA precedents and statutory interpretations, providing a detailed rebuttal that the absolute liability principle is limited to specific safety statutes (Safety Appliance and Boiler Inspection Acts) due to congressional intent, and arguing that the Coast Guard regulation lacks similar support, demonstrating meaningful dialogue rather than ignoring key points."
+}

@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages the majority’s core reasoning. It directly challenges extending Younger to civil proceedings, disputes the comity/federalism rationale by invoking the Anti-Injunction Act’s history, and counters the majority’s exhaustion requirement by relying on §1983’s purpose and Monroe v. Pape, while also addressing Mitchum v. Foster and Steffel. It uses many of the same precedents and frames a detailed rebuttal. However, it does not grapple closely with some specifics—such as the majority’s quasi-criminal characterization of the nuisance action, the justification for requiring exhaustion of state appellate remedies as a concomitant of Younger, the narrow exceptions to Younger, or the Ohio Supreme Court’s narrowing construction—so it falls short of a complete, point-by-point refutation."
+}

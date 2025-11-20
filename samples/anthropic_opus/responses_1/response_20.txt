@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's key arguments on both main issues: (1) the materiality standard under § 1451(a), where White argues the majority wrongly excludes visa proceedings and too narrowly defines what facts can show materiality; and (2) the § 1101(f)(6) interpretation, where White agrees no materiality requirement exists but disagrees that remand is necessary given the clear evidence. White quotes the majority's language, addresses its specific reasoning about statutory interpretation, and offers detailed counterarguments using the same legal framework and precedents. The dissent shows substantial engagement with the majority's analysis rather than talking past it."
+}
+```

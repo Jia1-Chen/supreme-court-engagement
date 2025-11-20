@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core interpretative arguments about when a 'proceeding' begins under §848(q)(4)(B) and §2251. Justice Thomas systematically rebuts the majority's textual analysis, particularly challenging their reliance on §848(q)(9) and their reading of 'proceeding.' The dissent addresses the same statutes, precedents, and directly contests the majority's policy rationales about the necessity of pre-application counsel. While introducing some broader federalism concerns, the dissent remains fundamentally focused on rebutting the majority's specific statutory interpretation methodology and conclusions."
+}
+```

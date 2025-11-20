@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority's reasoning by citing the same precedents (Segal v. Rochelle and Local Loan Co. v. Hunt) and applying them to the facts, arguing they support the trustee's position rather than the bankrupt's. However, it shifts focus to procedural concerns (overcrowded docket, opaque record, uncertainty of California law) and broader institutional issues, rather than providing a thorough rebuttal of the majority's core analysis about the nature of vacation pay as property and the Bankruptcy Act's purpose."
+}

@@ -1,0 +1,3 @@
+Official Citation: 452 U.S. 61
+
+{"score": 3, "reasoning": "The dissent engages some of the majority’s framework (acknowledging First Amendment coverage, citing Young, and arguing the restriction is a minimal burden with alternative avenues nearby). But it largely reframes the case as an as-applied ban on nude dancing, dismisses overbreadth concerns, and leans on broad police-power/local-autonomy themes without addressing the majority’s key points: the ordinance’s sweep banning all live entertainment, the lack of evidentiary support or narrow tailoring, the majority’s distinction of Young (dispersal vs. exclusion and secondary-effects findings), and the inadequacy of relying on outlets outside the Borough. Thus, there is partial but incomplete engagement."}

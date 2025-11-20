@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core arguments: it challenges the majority's textual interpretation of 'damage' versus 'damages', refutes the legislative history analysis, and systematically rebuts the conclusion that immunity extends to personal injury claims, all while citing the same statutory provisions and precedents."
+}

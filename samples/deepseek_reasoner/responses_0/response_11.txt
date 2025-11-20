@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Stevens demonstrates strong engagement with the majority opinion by directly addressing its key reasoning, including the distinction between 'quantity' and 'quality' of power, the interpretation of statutory sections like 5(d)(1)(A) and (B), and the use of legislative history. It provides a detailed rebuttal by citing the same legal sources, challenging the majority's deference to agency interpretation, and arguing that interruptibility affects the actual 'amount of power' delivered, thus engaging thoroughly with the majority's arguments without shifting focus to unrelated issues."
+}

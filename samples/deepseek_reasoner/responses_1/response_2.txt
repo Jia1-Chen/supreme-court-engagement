@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority by directly addressing its core reasoning, including the interpretation of Donaldson and the good faith requirement, and critiques the 'institutional good faith' test as unworkable. It cites the same precedents (e.g., Donaldson, Powell) and references United States v. Morgan Guaranty Trust Co., but it does not thoroughly rebut the majority's detailed statutory analysis or institutional arguments, shifting focus to its preferred objective test."
+}

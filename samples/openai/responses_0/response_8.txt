@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages the majority’s core constitutional reasoning, addressing the same Commerce Clause framework and the same key precedents (Maryland v. Wirtz and United States v. California). It critiques California’s analytical basis, disputes the majority’s treatment of the Tenth Amendment, and offers an alternative limiting principle (traditional state functions) while expressly contemplating overruling Wirtz. It also responds to the majority’s emergency rationale and distinguishes Supremacy Clause preemption of private actors from regulation of the State itself. This is a detailed, point-by-point rebuttal rather than a shift to unrelated issues."
+}

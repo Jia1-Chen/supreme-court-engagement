@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent extensively engages with the majority's interpretation of 'under color of' state law, directly addressing the majority's legislative history analysis and challenging its reading of the 1871 Act's purpose. Frankfurter meticulously examines the same statutory language, precedents (Classic, Screws, Williams), and congressional debates, offering alternative interpretations. While the dissent also introduces broader federalism concerns and policy arguments about federal-state balance, its core argument directly confronts the majority's central holding about what constitutes action 'under color of' state law, making this a substantive dialogue rather than talking past each other."
+}
+```

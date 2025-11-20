@@ -1,0 +1,3 @@
+Official Citation: 424 U.S. 507
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly challenges the majority’s choice to reach the First Amendment issue, arguing the case should be resolved on §7 NLRA grounds, and then applies Babcock & Wilcox to the facts (alternative channels inadequate). It also squarely rebuts the majority’s constitutional analysis: it disputes that Lloyd overruled Logan Valley, reconciles Lloyd with Central Hardware, and revisits Marsh’s state-action framework. The dissent cites and analyzes the same core precedents (Marsh, Logan Valley, Lloyd, Central Hardware, Babcock, Republic Aviation) and even addresses the majority’s content-discrimination concern. This is a thorough, point-by-point dialogue with the majority’s reasoning."}

@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by thoroughly addressing key points such as the definition of interrogation under Rhode Island v. Innis, the intent and knowledge of the police, the existence of a psychological ploy, and the suspect's perspective. It cites the same precedents and provides a detailed rebuttal, demonstrating strong engagement without shifting focus to unrelated issues."
+}

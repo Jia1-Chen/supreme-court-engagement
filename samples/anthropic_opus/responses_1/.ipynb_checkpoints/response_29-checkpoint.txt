@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges the majority's characterization of the ordinance as a ban on live entertainment and references Young v. American Mini Theatres (a key case the majority distinguishes), the dissent largely reframes the issue as being solely about nude dancing in an adult bookstore rather than the broader First Amendment overbreadth concerns the majority addresses. The dissent focuses on community values and local control arguments that sidestep the majority's detailed analysis of the ordinance's failure to meet narrow tailoring requirements and lack of adequate justification for excluding all live entertainment. The dissent doesn't substantively rebut the majority's point-by-point examination of Mount Ephraim's proffered justifications or its analysis of time, place, and manner restrictions."
+}
+```

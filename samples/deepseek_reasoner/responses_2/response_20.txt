@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 5,
+  "reasoning": "Justice White's dissent demonstrates strong engagement by directly addressing the majority's reasoning on key issues, such as the materiality standard under §1451(a) and the interpretation of §1101(f)(6). He agrees with parts of the majority, cites the same precedents (e.g., Fedorenko, Chaunt), and provides a detailed rebuttal of the majority's application of the 'natural tendency to influence' test and its handling of the remand. The dissent meaningfully dialogues with the majority's arguments without ignoring key points or relying on a separate framework."
+}

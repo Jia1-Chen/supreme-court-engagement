@@ -1,0 +1,8 @@
+Official Citation: 455 U.S. 586
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's core reasoning. It directly addresses the majority's reliance on Ross v. Moffitt and its conclusion about the Sixth Amendment right to counsel, though it fundamentally disagrees with that precedent. The dissent also responds to the majority's state action argument in footnote 4, citing Cuyler v. Sullivan to counter it. However, the dissent shifts significant focus to an independent due process theory based on reasonable reliance that the majority does not consider, and spends considerable space arguing that Ross v. Moffitt was wrongly decided rather than engaging with how it applies here. While there is clear dialogue on some key points, the dissent also develops separate frameworks that move beyond direct engagement with the majority's analysis."
+}
+```

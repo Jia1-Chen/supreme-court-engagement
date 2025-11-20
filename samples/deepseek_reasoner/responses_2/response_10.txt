@@ -1,0 +1,6 @@
+Official Citation: 424 U.S. 507
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key points: it challenges the majority's decision to reach the constitutional question, rebuts the interpretation that Lloyd overruled Logan Valley, and engages with the same precedents (e.g., Marsh, Logan Valley, Lloyd, Babcock & Wilcox). The dissent provides a detailed rebuttal on both procedural and substantive grounds, demonstrating meaningful dialogue rather than talking past."
+}

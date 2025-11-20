@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning and core conclusions. It directly addresses the majority's abstention analysis, challenging the claim that no 'exceptional circumstances' exist to justify abstention. The dissent engages with the majority's factual characterization (disputing that federal adjudication reduces delay and expense), addresses the comity concerns the majority minimized, and contests the majority's interpretation of § 2283. The dissent focuses on the same procedural posture and applies the same legal framework (abstention doctrine), though it reaches opposite conclusions. While the dissent introduces some independent policy concerns about judicial administration and efficiency, these are presented as rebuttals to the majority's reasoning rather than as separate grounds. The dissent could have engaged even more deeply with specific precedents cited by the majority, which prevents a score of 5, but overall it demonstrates substantial dialogue with the majority opinion."
+}
+```

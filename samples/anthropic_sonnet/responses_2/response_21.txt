@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Stevens directly addresses the majority's core argument that common law definitions of arrest should control Fourth Amendment 'seizure' analysis, and systematically rebuts this position by invoking Katz and Terry as establishing broader protections. The dissent engages with the majority's interpretation of key precedents (Mendenhall, Chesternut, Brower) and argues the majority misreads them. It addresses the majority's distinction between physical touching and show of authority, arguing this distinction is constitutionally insignificant. While the dissent also raises broader policy concerns about encouraging unlawful police conduct and introduces extensive discussion of Fourth Amendment purposes, these augment rather than replace its direct engagement with the majority's specific legal arguments. The dissent cites the same cases and statutory language, providing detailed counter-interpretations rather than talking past the majority."
+}
+```

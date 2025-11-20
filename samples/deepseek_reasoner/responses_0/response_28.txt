@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points, such as the absence of exceptional circumstances and comity, and uses the same legal framework (e.g., citing Railroad Comm'n v. Pullman Co.). However, it introduces broader practical concerns about procedural inefficiency and potential friction between courts, which, while relevant, shift focus from some of the majority's detailed precedential and historical arguments."
+}

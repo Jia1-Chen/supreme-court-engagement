@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement with the majority opinion by directly addressing Justice O'Connor's key arguments about viewpoint discrimination, statutory interpretation, and First Amendment principles. The dissent systematically rebuts the majority's claims that the statute is merely hortatory, not viewpoint-based, and falls within government spending discretion. Souter cites the same precedents (Rosenberger, Rust, Lamb's Chapel) and engages in detailed analysis of the statutory text, legislative history, and constitutional doctrine that the majority relies upon, while offering counter-interpretations that directly challenge the majority's conclusions."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 512 U.S. 849
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing its textual analysis of §§ 848(q)(4)(B) and 2251, rebutting key points such as the commencement of a 'post conviction proceeding' and the reliance on § 848(q)(9). It cites the same statutes and precedents (e.g., Coleman v. Thompson, Barefoot v. Estelle) and provides a detailed rebuttal of the majority's policy arguments, while also critiquing the statutory construction method. This demonstrates strong, meaningful dialogue without shifting focus to unrelated issues."
+}

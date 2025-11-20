@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holdings and reasoning. Marshall addresses the majority's interpretation of Rakas, challenges their reading of precedents like Jones and Jeffers, and rebuts the majority's analysis of both the standing issue and the fruit of illegal detention question. While the dissent also raises broader concerns about Fourth Amendment erosion, it maintains substantial engagement with the specific legal arguments, precedents, and factual determinations made by the majority throughout."
+}
+```

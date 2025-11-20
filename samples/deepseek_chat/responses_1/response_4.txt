@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's reasoning by challenging the application of Fortnightly and Teleprompter precedents, distinguishing Aiken's commercial use of a multi-speaker system from passive viewing, and citing Buck v. Jewell-LaSalle as controlling authority. It addresses statutory interpretation, precedent limitations, and functional analysis, though it also emphasizes legislative inaction as a broader concern."
+}

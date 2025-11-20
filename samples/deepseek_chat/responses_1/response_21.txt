@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning about the definition of seizure, systematically rebutting the majority's reliance on common law arrest principles, engaging with the same precedents (Katz, Terry, Mendenhall), and providing detailed counterarguments to the majority's interpretation of key cases. Justice Stevens directly responds to Justice Scalia's arguments about the Mendenhall test, common law distinctions, and the relationship between physical force and show of authority, showing thorough engagement rather than talking past."
+}
+```

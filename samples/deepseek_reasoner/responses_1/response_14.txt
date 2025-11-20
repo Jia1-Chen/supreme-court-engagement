@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key points such as the application of Rhode Island v. Innis, the intent of the police, and the suspect's perspective, using the same legal precedents (Miranda, Innis, Edwards) and providing a detailed rebuttal of the majority's conclusions about interrogation and psychological ploys."
+}

@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Chief Justice Burger directly addresses the majority's central holdings: he challenges the application of Fortnightly and Teleprompter to this case, argues that Buck v. Jewell-LaSalle should control and has not been properly overruled, and disputes the majority's characterization of the respondent as a 'passive beneficiary.' The dissent uses the same legal framework and precedents as the majority but reaches opposite conclusions. However, the dissent also introduces a broader concern—the need for Congressional action—that extends beyond pure rebuttal of the majority's logic. The dissent engages with specific statutory interpretation, case precedent, and factual distinctions, but its strong emphasis on legislative solutions and its framing of the issue as one courts should not resolve prevents it from being a complete point-by-point refutation of the majority's analysis."
+}
+```

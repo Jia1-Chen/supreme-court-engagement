@@ -1,0 +1,6 @@
+Official Citation: 556 U.S. 332
+
+{
+  "score": 5,
+  "reasoning": "Justice Alito's dissent directly engages with the majority's reasoning by challenging its interpretation of Belton, addressing stare decisis factors (reliance, workability, consistency), and rebutting the majority's application of Chimel. The dissent systematically responds to the majority's key arguments about officer safety, evidentiary justifications, and the scope of the search-incident-to-arrest exception, demonstrating thorough and meaningful dialogue."
+}

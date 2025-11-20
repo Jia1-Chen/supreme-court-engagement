@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's reasoning point-by-point, citing the same precedents (Service Electric, Leveld Wholesale), and providing detailed rebuttals to the majority's empirical and policy arguments. Justice Scalia systematically challenges the majority's factual claims about replacement worker sentiments, engages with the same legal framework, and directly contests the majority's interpretation of the Board's authority and factual findings."
+}
+```

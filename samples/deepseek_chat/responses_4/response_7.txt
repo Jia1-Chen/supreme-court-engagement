@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by addressing the same constitutional framework (Due Process Clause), citing relevant precedents like United States v. Balint, and directly challenging the majority's distinction between active conduct and passive omission. It critiques the majority's reliance on Holmes and questions the practical implications of the ruling, though it also broadens the discussion to include Eighth Amendment concerns and historical common-law distinctions."
+}

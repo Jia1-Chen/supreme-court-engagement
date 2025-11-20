@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing key points such as the interpretation of 'damage' versus 'damages,' citing the same precedents and statutory context, and providing a detailed rebuttal of the majority's use of legislative history and plain language analysis. It systematically challenges the majority's conclusions without shifting focus to unrelated issues."
+}

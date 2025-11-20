@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+"score": 5,
+"reasoning": "The dissent demonstrates strong and direct engagement with the majority's reasoning. Justice Thomas systematically addresses the majority's core arguments: (1) He directly challenges the majority's interpretation of when a 'post conviction proceeding' commences under § 848(q)(4)(B), arguing that the habeas statute itself defines this through requiring a formal application; (2) He rebuts the majority's reliance on § 848(q)(9) regarding investigative services, calling it 'a remarkably thin reed'; (3) He directly confronts the majority's 'practical matter' analysis, acknowledging the policy concerns but arguing they don't override statutory text; (4) He challenges the majority's bootstrapping methodology in connecting § 848(q)(4)(B) to § 2251's stay provisions; and (5) He engages with the same statutory provisions, precedents, and interpretive framework throughout. The dissent explicitly references and responds to the majority's specific arguments point-by-point, making this a clear example of 'talking with' rather than 'talking past.'"
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the application of Fortnightly and Teleprompter precedents, and rebutting the 'passive beneficiary' concept by emphasizing the respondent's commercial use and multispeaker system. It cites the same cases, including Buck v. Jewell-LaSalle, and challenges the majority's interpretation. However, it also introduces broader concerns about legislative action, which slightly shifts focus from a pure rebuttal."
+}

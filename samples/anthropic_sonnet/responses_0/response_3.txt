@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. It directly addresses the majority's extension of Younger v. Harris to civil proceedings, challenges the analogy between criminal prosecutions and civil nuisance actions, and specifically contests the majority's treatment of the state proceeding as 'in aid of and closely related to criminal statutes.' The dissent engages with key precedents cited by the majority (Younger, Monroe v. Pape, Mitchum v. Foster) and provides counterarguments about their proper application. It also addresses the exhaustion requirement that the majority imposes. However, the dissent goes somewhat beyond pure rebuttal by emphasizing broader policy concerns about congressional intent behind § 1983 and the historical tradition of federal court intervention in civil cases. While these points are relevant, they introduce additional dimensions beyond direct engagement with the majority's specific legal analysis, preventing a score of 5."
+}

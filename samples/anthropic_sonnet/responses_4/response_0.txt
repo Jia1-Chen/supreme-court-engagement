@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. It directly confronts the majority's central holding about 'legitimate expectation of privacy' by extensively analyzing Rakas v. Illinois and arguing the majority misreads it. The dissent addresses the same precedents (Jones, Simmons, Jeffers, Katz) and provides detailed counter-interpretations. It challenges the majority's property vs. privacy analysis point-by-point. On Part II (illegal detention/fruit of poisonous tree), the dissent briefly engages with the majority's Brown v. Illinois analysis but disputes the conclusion. The dissent also addresses Part III on the search incident to arrest. While the dissent introduces broader Fourth Amendment concerns in its conclusion, the bulk of the opinion directly rebuts the majority's specific legal arguments using the same cases and framework. The engagement is not quite a '5' because some portions (especially the conclusion) emphasize broader principles rather than point-by-point rebuttal, but overall this represents strong, substantive dialogue with the majority."
+}
+```

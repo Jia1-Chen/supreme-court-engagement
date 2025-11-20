@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing key arguments on plain language (distinguishing 'damage' from 'damages'), legislative history (showing no intent to cover personal injury), and statutory context, while citing the same precedents and providing a detailed rebuttal."
+}

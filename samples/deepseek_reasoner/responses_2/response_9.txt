@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 5,
+  "reasoning": "Justice Scalia's dissent thoroughly engages with the majority's reasoning by directly addressing key arguments, such as the statutory interpretation of 'reasonable fee,' the role of contingent-fee agreements, and the appropriateness of the lodestar method. He cites the same precedents (e.g., Hensley) and statutory text, providing a detailed rebuttal that critiques the majority's hybrid approach and advocates for a coherent alternative based on ex post fee assessment."
+}

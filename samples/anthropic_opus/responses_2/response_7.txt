@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core due process argument about notice requirements. While the majority focuses specifically on the lack of actual knowledge and the passive nature of the violation (failure to register), Frankfurter's dissent primarily discusses broader policy concerns about strict liability crimes and warns about potential consequences for other legislation. The dissent does briefly address the majority's distinction between 'doing and not doing' and quotes Holmes (whom the majority also cited), but largely talks past the majority's specific constitutional analysis about notice requirements, instead focusing on the widespread existence of similar laws and predicting this will be an 'isolated deviation.'"
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points, such as the materiality standard under §1451(a) and the interpretation of §1101(f)(6), citing the same statutes and precedents like Fedorenko. It rebuts the majority's limitation of misrepresentations to naturalization proceedings and critiques the application of the 'natural tendency to influence' test. However, it also introduces broader concerns, such as the pattern of falsehoods and the admissibility of videotaped depositions, which slightly shifts focus but maintains meaningful dialogue."
+}

@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While White acknowledges the majority's core holding about court-authorized changes during strikes, he doesn't directly rebut the majority's key arguments about the carrier's duty to operate and the need to balance self-help rights. Instead, he pivots to argue that Congress never intended courts to have this role, focusing on statutory interpretation of Section 2 Seventh's 'unequivocal language' and broader concerns about judicial intervention in railroad disputes. The dissent talks past the majority's public service rationale and practical necessity arguments, offering an alternative framework based on strict statutory construction rather than engaging with the majority's balancing analysis."
+}
+```

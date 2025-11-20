@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Thomas systematically addresses the majority's reading of 'felony punishable under the CSA,' disputes their textual analysis of § 924(c)(2), responds to their concerns about anomalies, and offers counter-interpretations of the same provisions. While the dissent also introduces some independent arguments (like the Commerce Clause critique), the predominant focus is a point-by-point rebuttal of the majority's reasoning using the same statutory framework and precedents."
+}
+```

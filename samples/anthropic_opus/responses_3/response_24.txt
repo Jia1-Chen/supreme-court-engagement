@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While it acknowledges the majority's position that courts can authorize necessary changes during strikes, it doesn't substantively rebut the majority's key arguments about the carrier's duty to operate, the public service obligations, or the practical impossibility of following full § 2 Seventh procedures with replacement workers. Instead, the dissent primarily focuses on a strict textual reading of § 2 Seventh and broader policy concerns about court intervention and congressional intent. The dissent talks past the majority's balancing of competing interests and practical necessity arguments, offering an alternative framework rather than directly engaging with the majority's specific legal reasoning."
+}
+```

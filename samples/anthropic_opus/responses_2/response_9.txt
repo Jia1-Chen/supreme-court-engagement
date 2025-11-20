@@ -1,0 +1,8 @@
+Official Citation: 535 U.S. 789
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's reasoning. While Justice Scalia acknowledges the majority's hybrid approach combining contingent-fee agreements with reasonableness review, he largely talks past it by arguing for a fundamentally different framework (pure lodestar method). Rather than engaging with why the majority believes contingent-fee agreements should be the starting point subject to reasonableness review, Scalia argues they are incompatible concepts that cannot be combined. He briefly addresses the majority's statutory interpretation points (like the 1990 amendments) but primarily advances his own independent theory that 'reasonable fee' can only mean ex post compensation for work actually performed."
+}
+```

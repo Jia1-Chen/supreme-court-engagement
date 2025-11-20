@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "Scalia's dissent directly engages with the majority's reasoning by addressing its key arguments, such as the rationality of the NLRB's no-presumption approach, conflicts between strikers and replacements, and policy considerations. It cites the same precedents (e.g., Service Electric, Leveld Wholesale) and provides a detailed rebuttal, demonstrating meaningful dialogue rather than talking past."
+}

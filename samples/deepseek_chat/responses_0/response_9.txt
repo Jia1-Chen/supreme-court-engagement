@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent directly engages with the majority's core reasoning by addressing the tension between contingent-fee agreements and lodestar calculations, critiques the majority's hybrid approach for lacking clear standards, and responds to specific arguments about statutory interpretation and practical application. However, it also introduces independent concerns about contract adherence and ex ante vs. ex post reasonableness assessments that partially shift focus from the majority's framework."
+}

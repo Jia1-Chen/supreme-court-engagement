@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly challenges the majority's interpretation of Donaldson v. United States, addresses the 'institutional good faith' test created by the majority, and argues for the 'objective and comparatively bright-line test' approach instead. The dissent cites the same key precedents (Donaldson, Powell) and explicitly critiques the majority's new standard as 'unjustified, unworkable, and unwise.' It favorably cites the Second Circuit's Morgan Guaranty opinion as correctly reading Donaldson. While the dissent does introduce the alternative framework from Judge Friendly's opinion, it does so specifically to rebut the majority's approach rather than to talk past it. The dissent doesn't address every detail of the majority's multi-layered review process discussion, which prevents it from being a 5, but it clearly attempts meaningful dialogue with the core holdings."
+}
+```

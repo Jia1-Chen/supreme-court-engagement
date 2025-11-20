@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning on multiple fronts. Justice White directly addresses the majority's interpretation of § 1101(f)(6) regarding materiality, agreeing with the legal standard but disagreeing on application. He challenges the majority's limitation to naturalization proceedings only (Part II), arguing visa misrepresentations should count, and directly rebuts the majority's 'literacy skills' hypothetical as 'foolish.' He engages with the majority's materiality test, arguing it should consider both the truth itself and the fact of misrepresentation. However, the dissent also introduces some independent concerns (like the videotaped depositions issue) and emphasizes different factual aspects (the pattern of lies). While there is substantial engagement with core legal arguments and specific rebuttals to the majority's reasoning, the dissent also pursues some parallel tracks that prevent this from being a complete point-by-point refutation."
+}
+```

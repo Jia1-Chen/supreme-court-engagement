@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's legal framework, challenging the constitutional basis of the fair-cross-section doctrine, critiquing the majority's use of statistics and terminology (e.g., 'exclusion'), and systematically rebutting key points about jury representativeness and state interests, while citing the same precedents (Taylor, Hoyt) and highlighting inconsistencies in the majority's reasoning."
+}

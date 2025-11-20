@@ -1,0 +1,6 @@
+Official Citation: 455 U.S. 586
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing Ross v. Moffitt, rebutting the state action argument with Cuyler v. Sullivan, and providing a detailed due process analysis, demonstrating strong, meaningful dialogue."
+}

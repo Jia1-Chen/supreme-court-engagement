@@ -1,0 +1,3 @@
+Official Citation: 511 U.S. 809
+
+{"score": 5, "reasoning": "The dissent directly rebuts each of the majority’s core arguments using the same statutory provisions (§§ 107, 113, 101(25)) and precedents (Alyeska, Runyon). It contests the majority’s characterization of §107 as implied, challenges the negative inference from other fee-shifting provisions, and squarely disputes the interpretation of “enforcement activities.” It also responds to the majority’s footnote on express vs. implied rights. This is thorough, point-by-point engagement."}

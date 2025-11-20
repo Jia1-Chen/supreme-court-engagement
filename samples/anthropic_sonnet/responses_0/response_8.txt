@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority opinion. Rehnquist directly addresses the majority's reliance on Maryland v. Wirtz and United States v. California, examining these precedents in detail and challenging their analytical foundations. He engages with the majority's Commerce Clause reasoning and its treatment of the Tenth Amendment, arguing that the majority's interpretation is flawed. The dissent responds to the majority's framework by arguing for a distinction between regulation of states versus individuals, and critiques the majority's dismissal of state sovereignty concerns. However, the dissent also introduces broader structural federalism arguments and extensive historical analysis that goes somewhat beyond direct rebuttal of the majority's specific holdings, preventing it from achieving a score of 5. The dissent's proposal to overrule Wirtz and draw new lines based on governmental versus proprietary functions represents an alternative framework rather than pure point-by-point refutation."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While Harlan briefly acknowledges the majority's reliance on Segal v. Rochelle and Local Loan Co. v. Hunt, he spends most of his opinion on procedural concerns about summary disposition and record inadequacy. He offers only a passing substantive counterargument (that the cases actually support the trustee), but doesn't develop this critique or engage with the majority's wage-earner distinction or 'fresh start' analysis. The dissent is primarily focused on why the case deserves full briefing rather than directly rebutting the majority's substantive legal reasoning."
+}
+```

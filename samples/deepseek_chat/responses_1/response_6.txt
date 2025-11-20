@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+    "score": 2,
+    "reasoning": "The dissent demonstrates minimal engagement with the majority's reasoning. While it acknowledges the majority's analysis on statutory obligation and appropriations riders, it shifts focus to an independent legal argument about implied private rights of action that the majority had already addressed through established Tucker Act precedent. The dissent largely ignores the majority's detailed analysis of money-mandating statutes and Tucker Act jurisprudence, instead introducing a broader concern about judicial restraint that operates on a separate legal framework."
+}
+```

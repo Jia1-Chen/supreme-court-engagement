@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the same legal framework and precedents, particularly the Board's decisions in Service Electric and Leveld Wholesale. Justice Scalia methodically rebuts the majority's empirical and policy arguments, pointing to inherent conflicts between striker and replacement interests that the majority acknowledges but dismisses. However, the dissent also introduces procedural concerns about administrative law standards (e.g., substantial evidence review) that shift focus slightly from the core legal debate, preventing a perfect 'talking with' score."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and extensively engages with the majority's core arguments. It addresses the majority's statutory interpretation of 'notice to appear,' challenges its reading of § 1229(a), responds to the majority's 'common sense' argument, and contests its analysis of statutory context. The dissent explicitly quotes and rebuts specific points from the majority opinion throughout. While the dissent also raises the independent Chevron deference framework (which the majority dismisses), this additional argument doesn't detract from its thorough engagement with the majority's reasoning on the merits."
+}
+```

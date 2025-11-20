@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's key arguments, including the extension of Younger to civil proceedings, the requirement to exhaust state appellate remedies, and the comity and federalism rationale. It cites the same precedents (e.g., Younger, Steffel, Monroe v. Pape, Mitchum v. Foster) and provides a detailed rebuttal by emphasizing the historical purpose of §1983 and Congress's intent to ensure federal forums for federal rights, thereby demonstrating strong and thorough dialogue."
+}

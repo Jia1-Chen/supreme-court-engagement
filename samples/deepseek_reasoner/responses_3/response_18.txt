@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key arguments, such as the interpretation of 'felony punishable under the Controlled Substances Act,' rebutting the majority's reliance on ordinary meaning and statutory context, and citing the same precedents and statutes. It provides a detailed rebuttal without shifting focus to unrelated issues."
+}

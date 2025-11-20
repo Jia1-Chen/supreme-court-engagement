@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's core reasoning about extending Younger to civil proceedings and creating an exhaustion requirement for §1983 claims. It cites the same precedents (Younger, Monroe, Mitchum) and statutory framework, provides detailed rebuttals about federalism concerns and congressional intent behind §1983, and specifically counters the majority's characterization of the nuisance proceeding as 'akin to criminal.' However, it also introduces broader concerns about undermining decades of jurisprudence and congressional purposes beyond the immediate legal arguments."
+}

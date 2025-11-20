@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly challenges the majority's interpretation of Donaldson v. United States and the 'institutional good faith' test, arguing that the majority has misread precedent and created an unworkable standard. The dissent cites the same key cases (Donaldson, Powell) and addresses the core legal issue of when summonses may be enforced. It specifically critiques the majority's new 'institutional good faith' requirement as lacking statutory foundation and being impractical. While the dissent advocates for a different, simpler test (the 'objective and comparatively bright-line test'), it does so by directly confronting the majority's legal analysis rather than discussing entirely separate issues. The engagement is not quite a 5 because the dissent is somewhat brief and doesn't address every aspect of the majority's detailed analysis of statutory history and IRS organizational structure, but it meaningfully dialogues with the majority's central holdings."
+}
+```

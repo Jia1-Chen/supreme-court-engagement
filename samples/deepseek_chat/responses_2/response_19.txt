@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent demonstrates substantial engagement by directly addressing the majority's reasoning about striker replacements' union sentiments, critiquing the Board's empirical claims, and highlighting contradictions with prior Board decisions like Service Electric. However, it also shifts focus to procedural issues (substantial evidence standard) and broader administrative law concerns, slightly reducing the depth of rebuttal on the core legal framework."
+}

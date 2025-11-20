@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Chief Justice Burger directly addresses the majority's reliance on Fortnightly and Teleprompter, challenges the majority's treatment of Buck v. Jewell-LaSalle Realty Co., and disputes the majority's characterization of the respondent as a 'passive beneficiary.' The dissent explicitly quotes the majority's language and provides counter-arguments to key points. However, it also emphasizes broader concerns about congressional action and the need for legislative resolution, which moves slightly beyond pure engagement with the majority's specific legal analysis. The dissent questions whether the CATV cases actually support the majority's result and argues that respondent's conduct (receiving transmission for independent commercial use with a multi-speaker system) differs meaningfully from mere passive reception. This represents strong but not completely exhaustive engagement, as some of the dissent's focus shifts to policy concerns about legislative solutions."
+}
+```

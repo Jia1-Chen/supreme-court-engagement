@@ -1,0 +1,3 @@
+Official Citation: 437 U.S. 298
+
+{"score": 4, "reasoning": "The dissent squarely engages the majority’s core reasoning, disputing its creation of an “institutional good faith” test and insisting Donaldson sets a clear pre-referral bright-line rule plus Powell good-faith. It addresses the same statutory provision (§7602), the same precedents (Donaldson, Powell), and cites Morgan Guaranty to rebut the majority’s approach. However, it does not deeply grapple with the majority’s statutory-purpose analysis (that §7602 authorizes summonses only to determine/collect taxes and thus not for purely criminal ends) or its legislative-history discussion, relying instead on textual brevity and administrability critiques. Hence substantial but not exhaustive engagement."}

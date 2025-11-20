@@ -1,0 +1,3 @@
+Official Citation: 400 U.S. 18
+
+{"score": 2, "reasoning": "Minimal engagement. The dissent chiefly criticizes the Court’s summary disposition and the unclear record/state-law issues, and would set the case for argument. While it briefly contests the majority’s reliance on Segal and Local Loan and offers a short counterpoint about post-petition accrual, it does not substantively grapple with the majority’s fresh-start rationale, its treatment of vacation pay as wages, or its broader policy analysis. The overlap in citing Segal and Local Loan is not accompanied by a detailed rebuttal, so the dissent mostly talks past the majority."}

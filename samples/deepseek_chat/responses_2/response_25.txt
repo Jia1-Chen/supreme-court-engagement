@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the market participant doctrine established in Alexandria Scrap, applying the same legal framework, and providing detailed counterarguments to the majority's key points. However, it also introduces broader concerns about federalism and economic protectionism that extend beyond direct rebuttal of the majority's specific arguments."
+}
+```

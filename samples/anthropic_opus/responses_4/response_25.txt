@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the market participant doctrine from Alexandria Scrap. It addresses the majority's distinction between states as market participants vs. regulators, responds to specific arguments about cement production vs. natural resources, and debates the same precedents (Alexandria Scrap, Hughes v. Oklahoma). While the dissent also raises broader policy concerns about protectionism and federalism, it maintains substantial engagement with the majority's legal framework and specific arguments throughout, making this a clear dialogue rather than ships passing in the night."
+}
+```

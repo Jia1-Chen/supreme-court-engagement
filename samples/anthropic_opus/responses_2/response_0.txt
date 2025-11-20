@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holding about Fourth Amendment standing, specifically challenging the majority's interpretation of Rakas v. Illinois and its conclusion that ownership interest alone is insufficient without a privacy expectation. The dissent systematically rebuts the majority's precedent analysis (particularly regarding Jeffers, Jones, and Simmons), directly quotes and responds to specific majority assertions, and addresses both main issues (standing to challenge the search and fruit of illegal detention). While the dissent also raises broader constitutional concerns about Fourth Amendment erosion, it maintains substantial focus on refuting the majority's specific legal reasoning and case interpretations."
+}
+```

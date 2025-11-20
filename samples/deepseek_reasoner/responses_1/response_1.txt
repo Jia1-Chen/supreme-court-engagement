@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by citing the same precedents (Segal and Local Loan Co.) and arguing they might support the trustee's position, but it shifts focus to procedural issues like the overcrowded docket and record uncertainty, rather than fully rebutting the majority's key reasoning about the fresh start purpose and the nature of vacation pay as wages for basic support."
+}

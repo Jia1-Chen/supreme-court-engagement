@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Stevens demonstrates strong engagement with the majority opinion by directly addressing its core arguments, including the interpretation of 'amount of power,' the quantity/quality distinction, legislative history, and agency deference. It cites the same statutory provisions and precedents, provides a detailed rebuttal, and does not shift focus to unrelated issues."
+}

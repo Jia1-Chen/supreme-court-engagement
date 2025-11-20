@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Stevens' dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the majority's key arguments about the quantity/quality distinction, statutory interpretation of 'amount of power,' and legislative history. The dissent systematically rebuts the majority's interpretation of §5(d)(1)(B), challenges the distinction between power quantity and quality, and engages with the same statutory provisions and legislative materials. However, the dissent also introduces some independent arguments about the Administrator's inconsistent positions and rate analysis that go beyond direct rebuttal of the majority's core reasoning."
+}
+```

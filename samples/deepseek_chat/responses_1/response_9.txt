@@ -1,0 +1,8 @@
+Official Citation: 535 U.S. 789
+
+```json
+{
+    "score": 5,
+    "reasoning": "Justice Scalia's dissent demonstrates strong engagement by directly addressing the majority's core reasoning about contingent-fee agreements versus lodestar calculations. He systematically rebuts the majority's hybrid approach, engages with the same statutory text and precedents (citing Hensley v. Eckerhart and Burlington v. Dague), and provides detailed critiques of the practical implementation problems he foresees. The dissent directly confronts the majority's interpretation of congressional intent and offers a coherent alternative framework based on lodestar methodology."
+}
+```

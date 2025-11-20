@@ -1,0 +1,3 @@
+Official Citation: 447 U.S. 429
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core rationale—the market-participant exception from Alexandria Scrap—offering a detailed, competing interpretation (a two-step analysis and a barrier-to-trade assessment). It contests the majority’s distinctions (manufactured cement vs. natural resources), addresses federalism and protectionism concerns, and proposes a limiting principle (reserve for public needs but not to benefit private citizens). It cites and analyzes the same key precedents (Alexandria Scrap, Pike, Hood & Sons, Hughes, Pennsylvania v. West Virginia, National League of Cities, Perkins). This is a thorough, case-specific rebuttal rather than talking past the majority."}

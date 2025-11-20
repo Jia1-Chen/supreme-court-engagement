@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent substantially engages with the majority's reasoning by directly addressing key points, such as the interpretation of 'reasonable fee' under § 406(b), the inappropriateness of the hybrid approach combining contingent fees and lodestar factors, and the statutory context. He rebuts the majority's reliance on legislative history and contingent-fee prevalence by arguing for an ex post reasonableness assessment based on actual work, citing shared precedents like Hensley. However, he introduces broader concerns about clarity and uniformity, which slightly shifts focus from a thorough rebuttal of all majority arguments."
+}

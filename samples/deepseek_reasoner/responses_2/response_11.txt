@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 4,
+  "reasoning": "The dissent by Justice Stevens demonstrates substantial engagement with the majority's reasoning by directly addressing key points, such as the distinction between 'quantity' and 'quality' of power, the interpretation of statutory language in §5(d)(1)(B), and the legislative history. Stevens rebuts the majority's arguments by citing the same statutes and legislative materials, and challenges the agency deference rationale. However, the dissent also introduces broader concerns, such as BPA's inconsistent interpretations and rate implications, which shift focus slightly from the core reasoning."
+}

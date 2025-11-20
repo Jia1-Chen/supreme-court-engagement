@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent directly engages with the majority's core holdings but focuses primarily on broader policy concerns. It addresses the majority's extension of Younger to civil proceedings and exhaustion requirements, citing the same precedents (Younger, Monroe v. Pape, Mitchum v. Foster). However, rather than providing detailed rebuttals to the majority's federalism and comity analysis, the dissent emphasizes historical context, congressional intent behind § 1983, and systemic concerns about limiting federal court access. While there is clear engagement with the majority's conclusions, the dissent shifts focus to independent constitutional and statutory interpretation arguments."
+}
+```

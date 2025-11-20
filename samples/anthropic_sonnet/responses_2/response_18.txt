@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning throughout. Justice Thomas systematically addresses the majority's core arguments: (1) he challenges the majority's interpretation of 'felony punishable under the CSA' by examining the same statutory text and arguing for a plain reading; (2) he directly responds to the majority's 'instinctive understanding' argument and textual analysis; (3) he confronts the majority's concerns about state-federal classification variations; (4) he addresses the specific anomalies the majority identifies (like the marijuana possession example); and (5) he critiques the majority's reliance on ordinary meaning of 'illicit trafficking.' The dissent cites the same statutes (18 U.S.C. § 924(c)(2), 8 U.S.C. § 1101(a)(43)), engages with the same precedents, and provides point-by-point rebuttals. This is a paradigmatic example of two opinions in genuine dialogue about statutory interpretation."
+}
+```

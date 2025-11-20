@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's interpretation of Donaldson v. United States, challenges the 'institutional good faith' standard the majority creates, and argues for a simpler 'objective test' instead. The dissent cites the same key precedents (Donaldson, Powell) and even references the Second Circuit's Morgan Guaranty Trust opinion to support its position. It specifically critiques the majority's new requirements as 'unjustified, unworkable, and unwise' and questions their legal source. However, the dissent does not exhaustively engage with all aspects of the majority's detailed analysis of the statutory framework and administrative structure, focusing more on the practical workability objection and the correct interpretation of Donaldson. This represents substantial but not completely comprehensive engagement."
+}
+```

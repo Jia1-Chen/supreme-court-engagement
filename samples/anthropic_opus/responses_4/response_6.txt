@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about whether § 1342 creates an implied right of action for damages under the Tucker Act. Justice Alito addresses the majority's 'money-mandating' test, cites the same precedents (Testan, Sandoval, Bowen), and provides detailed rebuttals to the majority's statutory interpretation. While the dissent does introduce broader concerns about the Court's approach to implied rights of action, it remains focused on responding to the majority's specific legal framework and arguments. The engagement is substantial, though not exhaustive on every point."
+}
+```

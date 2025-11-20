@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent thoroughly engages with the majority's reasoning by directly addressing its key arguments on viewpoint discrimination, statutory interpretation, and applicable precedents like Rosenberger and Rust. The dissent provides a detailed rebuttal, citing the same legal framework and legislative history, and systematically counters the majority's conclusions, demonstrating strong and meaningful dialogue rather than talking past."
+}

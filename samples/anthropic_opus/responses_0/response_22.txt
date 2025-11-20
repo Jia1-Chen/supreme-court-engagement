@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about extending FELA absolute liability principles to other statutory violations. It challenges the majority's interpretation of prior cases, disputes the applicability of Safety Appliance Act precedents to this Coast Guard regulation, and provides detailed counterarguments about congressional intent and the relationship between different statutes. While the dissent also introduces broader policy concerns about negligence versus absolute liability, it maintains substantial focus on rebutting the majority's specific legal framework and precedential analysis."
+}
+```

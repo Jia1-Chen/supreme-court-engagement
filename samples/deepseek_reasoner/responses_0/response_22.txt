@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by thoroughly addressing the FELA precedents cited, rebutting the extension of absolute liability to the Coast Guard regulation, and arguing based on statutory intent and relationship between acts, demonstrating a detailed and meaningful dialogue."
+}

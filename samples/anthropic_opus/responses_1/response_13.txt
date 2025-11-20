@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent extensively engages with the majority's statutory interpretation of 'under color of' state law, directly addressing the majority's reading of the legislative history, challenging its interpretation of prior cases (Classic, Screws, Williams), and offering a detailed counter-analysis of the 1871 Ku Klux Act's purpose and scope. While the dissent does introduce broader federalism concerns about the relationship between federal and state courts, these arguments are directly tied to and flow from its disagreement with the majority's construction of the statute. The dissent systematically rebuts the majority's key points while examining the same precedents and legislative materials."
+}
+```

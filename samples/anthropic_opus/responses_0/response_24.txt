@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the carrier's right to modify collective bargaining agreements during a strike. White specifically addresses the majority's interpretation of § 2 Seventh, challenges the court-supervised exception the majority creates, and disputes the same legal framework regarding the carrier's duty to operate and right to self-help. While the dissent does introduce broader policy concerns about court intervention and congressional intent, it fundamentally grapples with the majority's central holding and statutory interpretation, making this a substantive dialogue rather than ships passing in the night."
+}
+```

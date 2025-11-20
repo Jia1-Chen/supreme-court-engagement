@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While it acknowledges the majority's reliance on Fortnightly and Teleprompter and briefly addresses Buck v. Jewell-LaSalle, it primarily focuses on urging Congressional action and asserting that the majority is 'legislating' rather than directly rebutting the majority's specific arguments about why radio reception doesn't constitute 'performance.' The dissent doesn't meaningfully address the majority's key points about enforceability problems, inequity of multiple licenses, or the analogy between radio listeners and theater audiences. Instead, it shifts focus to argue that Congress should resolve this issue and that Aiken was more than a 'passive beneficiary,' without thoroughly engaging with the majority's analysis of why the Fortnightly framework should apply here."
+}
+```

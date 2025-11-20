@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key precedents like Maryland v. Wirtz and United States v. California, critiquing their application and arguing for Tenth Amendment limitations on Commerce Clause power. It provides a detailed rebuttal, cites the same legal framework, and responds to specific majority points, such as the significance of the Tenth Amendment, without shifting focus to unrelated issues."
+}

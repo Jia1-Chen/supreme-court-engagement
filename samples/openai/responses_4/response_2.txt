@@ -1,0 +1,3 @@
+Official Citation: 437 U.S. 298
+
+{"score": 4, "reasoning": "The dissent directly contests the majority’s reading of §7602 and Donaldson, argues that Donaldson set only two limits (good faith and pre‑referral), and relies on Powell (and Judge Friendly’s Morgan Guaranty) to claim that “good faith” concerns harassment/collateral pressure rather than criminal purpose. It challenges the majority’s new “institutional good faith” requirement as source‑less and unworkable. While it engages the core legal issue and cites the same key precedents, it does not substantively address the majority’s legislative history and the civil/criminal intertwinement rationale, focusing instead on textual limits and administrability. Hence, substantial but not exhaustive engagement."}

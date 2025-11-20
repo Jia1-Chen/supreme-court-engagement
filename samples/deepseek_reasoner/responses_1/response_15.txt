@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Alito demonstrates strong engagement with the majority opinion by directly addressing its key arguments, including the plain text interpretation of 'notice to appear,' the meaning of 'under,' statutory context (e.g., §§ 1229(a)(2) and 1229(b)(1)), and practical concerns. It cites the same precedents (e.g., Chevron, Becker v. Montgomery) and provides a detailed rebuttal, attempting to refute the majority's reasoning point by point while acknowledging common ground, such as the requirements in § 1229(a)(1). The dissent does not ignore the majority's core reasoning but engages in a meaningful dialogue about statutory ambiguity and Chevron deference."
+}

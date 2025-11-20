@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's constitutional analysis, specifically challenging the overruling of Logan Valley and engaging with the majority's interpretation of Lloyd Corp. Justice Marshall methodically responds to the majority's reasoning about the First Amendment's applicability to shopping centers, cites the same precedents (Marsh, Logan Valley, Lloyd, Central Hardware), and provides a detailed rebuttal of the majority's conclusion that Lloyd effectively overruled Logan Valley. The dissent also engages with the majority's statutory analysis by arguing the case should have been decided on purely statutory grounds, showing comprehensive dialogue with the majority's entire framework."
+}
+```

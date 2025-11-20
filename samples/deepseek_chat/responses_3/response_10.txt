@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's constitutional analysis, specifically challenging the overruling of Logan Valley and engaging with the same precedents (Marsh, Lloyd, Central Hardware). Justice Marshall systematically rebuts the majority's reasoning about the relationship between First Amendment protections and private property, provides detailed analysis of why Lloyd and Logan Valley are reconcilable, and directly responds to the majority's claim that Lloyd 'totally rejected' Logan Valley. The dissent also engages with the statutory question the majority remands, showing comprehensive dialogue with the majority's entire analytical framework."
+}
+```

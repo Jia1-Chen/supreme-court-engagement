@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement with the majority's reasoning by directly addressing key legal arguments, particularly on materiality under §1451(a) and the interpretation of §1101(f)(6). He critiques the majority's exclusion of visa-stage misrepresentations, applies the same 'natural tendency to influence' test to the facts, and challenges the remand on intent and testimony issues as unnecessary. However, the dissent also introduces broader concerns about evidence admissibility and policy, slightly reducing the focus on pure rebuttal."
+}

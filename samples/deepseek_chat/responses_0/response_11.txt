@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Stevens' dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the core statutory interpretation issues, particularly the 'amount of power' versus 'quality of power' distinction. He responds to the majority's key arguments about the second quartile interruptibility provisions and challenges the legislative history interpretation. However, the dissent also introduces some independent concerns about BPA's inconsistent positions and broader policy implications that go beyond direct rebuttal of the majority's legal analysis."
+}
+```

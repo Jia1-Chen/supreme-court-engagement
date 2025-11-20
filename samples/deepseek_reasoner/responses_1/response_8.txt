@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Rehnquist directly and thoroughly engages with the majority's reasoning, citing the same key precedents (e.g., Maryland v. Wirtz, United States v. California) and addressing the core constitutional arguments about the Commerce Clause and Tenth Amendment. It provides a detailed rebuttal by critiquing the analytical foundations of these precedents and advocating for a federalism-based limit on congressional power, demonstrating meaningful dialogue rather than ignoring or shifting focus from the majority's points."
+}

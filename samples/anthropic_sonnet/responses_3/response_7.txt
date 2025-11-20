@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Frankfurter directly addresses the majority's core holding about the difference between active conduct and passive failure to act, criticizing it as an inadmissible constitutional distinction ('feasance and nonfeasance'). He challenges the majority's use of Holmes's quote about 'blameworthiness' by providing fuller context. The dissent also addresses the same legal framework regarding mens rea requirements, citing overlapping precedent (United States v. Balint). However, the dissent doesn't fully rebut every aspect of the majority's notice requirements analysis under due process, instead focusing more broadly on the long history of strict liability offenses. The engagement is substantial but not exhaustive, warranting a score of 4 rather than 5."
+}
+```

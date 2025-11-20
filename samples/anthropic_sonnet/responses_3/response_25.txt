@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. It directly addresses the majority's reliance on Alexandria Scrap and challenges the majority's distinction between market participant and market regulator. The dissent engages with the majority's key arguments about natural resources versus manufactured goods, responds to the majority's interpretation of Commerce Clause precedents, and specifically rebuts the majority's claim that cement differs from natural resources. However, the dissent also emphasizes a broader structural concern about protectionism and economic balkanization that extends somewhat beyond direct rebuttal of the majority's specific reasoning. The dissent cites the same key precedents (Alexandria Scrap, Hughes v. Oklahoma, National League of Cities) and directly contests their application, though it places greater emphasis on the Commerce Clause's fundamental purpose than on point-by-point refutation of every majority argument."
+}
+```

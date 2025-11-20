@@ -1,0 +1,3 @@
+Official Citation: 424 U.S. 507
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s threshold decision to reach the First Amendment, invoking constitutional avoidance and arguing the case should be decided on §7 grounds. It uses the same core precedents (Marsh, Logan Valley, Lloyd, Central Hardware, Babcock & Wilcox, Republic Aviation) and provides detailed rebuttals: it argues Lloyd did not overrule Logan Valley, cites Central Hardware to support that reading, addresses the majority’s content-discrimination point (Mosley) as inapposite, and applies Babcock’s alternative-means test to the facts to affirm on statutory grounds. This is a point-by-point dialogue with the majority’s reasoning rather than talking past it."}

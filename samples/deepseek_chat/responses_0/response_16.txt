@@ -1,0 +1,8 @@
+Official Citation: 455 U.S. 586
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Marshall's dissent demonstrates substantial engagement with the majority opinion by directly addressing its core reasoning based on Ross v. Moffitt, acknowledging the majority's state action argument, and providing a detailed rebuttal using the same precedent (Cuyler v. Sullivan) that the majority cited. The dissent systematically counters the majority's key points about the right to counsel for discretionary appeals and state action requirements, while also introducing broader due process concerns that build upon the existing legal framework rather than ignoring it."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority's reasoning. Justice Stevens directly addresses the majority's central distinction between 'quantity' and 'quality' of power, arguing this distinction is 'nonexistent' and that interruptibility affects the amount of power received. The dissent also responds to the majority's interpretation of §5(d)(1)(A) and §5(d)(1)(B), and critiques the deference given to the Administrator. However, the dissent also introduces some independent arguments about congressional intent and the plain language of the statute that don't directly rebut all of the majority's points about the broader statutory scheme and legislative history."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's core holding about abstention doctrine and whether 'exceptional circumstances' justify declining federal diversity jurisdiction. The dissent challenges the majority's factual characterization (arguing the case will cause more, not less, delay and expense), disputes the majority's comity analysis (arguing the federal case will disrupt state proceedings and create potential conflicts), and questions the practical consequences of the majority's ruling (splitting the case between forums). The dissent works within the same legal framework - the abstention doctrine and its exceptions - and responds to the majority's specific claims about efficiency, comity, and proper administration of justice. While the dissent does emphasize somewhat different practical concerns about judicial administration, it remains tethered to rebutting the majority's key arguments rather than pursuing an entirely independent framework. It stops short of a '5' because it doesn't engage as deeply with the majority's extensive discussion of precedent and Rule 71A, focusing more on the practical implications of the decision."
+}
+```

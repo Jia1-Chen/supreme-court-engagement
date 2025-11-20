@@ -1,0 +1,3 @@
+Official Citation: 494 U.S. 775
+
+{"score": 5, "reasoning": "The dissents directly contest the majority’s framing (policy/deference vs. substantial-evidence review), engage the same NLRB cases and doctrines (Station KKHI, Service Electric, Leveld Wholesale, Cutten, Pennco), and rebut the majority’s empirical and policy rationales about striker replacements. Scalia methodically argues the inference/presumption distinction and applies APA/Chenery principles, while Blackmun presses the need for a reasoned explanation consistent with prior Board precedents. This is a detailed, point-by-point dialogue with the majority’s reasoning."}

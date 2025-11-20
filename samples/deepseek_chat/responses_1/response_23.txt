@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement with the majority opinion by directly addressing Justice O'Connor's key arguments. He systematically rebuts the majority's claims that the statute is not viewpoint-based, challenges the interpretation that diverse panels satisfy the provision, refutes the argument that 'taking into consideration' mitigates constitutional concerns, and directly counters the majority's attempt to distinguish Rosenberger. The dissent cites the same precedents, engages with the same statutory language, and provides detailed analysis of the legislative history to support its position that the statute constitutes unconstitutional viewpoint discrimination."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 512 U.S. 849
+
+{"score": 5, "reasoning": "Strong engagement. The dissent squarely addresses the same statutory provisions as the majority—21 U.S.C. §848(q)(4)(B), 28 U.S.C. §§2251, 2241, 2254—and argues that a habeas proceeding begins only upon filing an application. It critiques the majority’s reliance on §848(q)(9) as a basis for preapplication counsel, counters the in pari materia reading tying §848 to §2251, and warns against a sub silentio expansion of habeas stay jurisdiction. It uses the habeas rules and related precedents (e.g., Coleman, Duckworth) to rebut the majority’s textual and practical arguments. The dissent thus directly engages the majority’s reasoning and offers a detailed, statute-focused rebuttal."}

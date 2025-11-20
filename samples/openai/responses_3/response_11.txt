@@ -1,0 +1,3 @@
+Official Citation: 467 U.S. 380
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly rebuts the majority’s key points: it contests the majority’s ‘amount vs. quality’ distinction under §5(d)(1)(B), offers a contrary reading of §5(d)(1)(A) (reserves for firm loads), disputes the legislative history relied upon (citing the same reports), challenges deference to BPA (noting inconsistency), and responds to the majority’s second-quartile and exchange-program arguments. It cites the same statutory provisions and legislative materials and frames point-by-point counterarguments, demonstrating meaningful dialogue rather than talking past."}

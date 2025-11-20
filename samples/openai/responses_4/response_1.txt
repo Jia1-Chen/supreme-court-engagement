@@ -1,0 +1,3 @@
+Official Citation: 400 U.S. 18
+
+{"score": 3, "reasoning": "Moderate engagement. The dissent cites and contests the same core precedents (Segal and Local Loan) and directly challenges the majority’s fresh-start rationale by arguing the accrued vacation pay post-petition resembles a new employee’s entitlement. However, it largely pivots to procedural concerns (summary disposition, unclear record, unresolved California law) and does not grapple with the majority’s broader wage-protection and policy analysis (e.g., Sniadach, CCPA) or fully apply Segal’s ‘rooted in the pre-bankruptcy past’ test. The result is partial but not thorough dialogue."}

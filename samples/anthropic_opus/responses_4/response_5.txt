@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holdings and reasoning. Rehnquist addresses the majority's fair-cross-section analysis, critiques the distinction between Sixth Amendment and Equal Protection approaches, challenges the 15% threshold, and disputes the practical implications of the ruling. While the dissent does introduce broader policy concerns about jury administration and burdens on citizens, it consistently ties these arguments back to the majority's specific constitutional interpretation and systematically rebuts key points about women's representation on juries."
+}
+```

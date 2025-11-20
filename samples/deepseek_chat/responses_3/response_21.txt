@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning, specifically challenging the majority's reliance on common law arrest definitions and its interpretation of Terry v. Ohio and Katz v. United States. Justice Stevens systematically rebuts the majority's arguments about when a seizure occurs, engages with the same precedents (Mendenhall, Brower, Chesternut), and provides detailed counterarguments about the proper Fourth Amendment framework. The dissent directly responds to the majority's historical analysis and policy justifications while offering alternative interpretations of key cases."
+}
+```

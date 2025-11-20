@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice White directly addresses the majority's key holdings, including: (1) the materiality standard under §1451(a), where he agrees with the definition but disputes its application; (2) whether visa-stage misrepresentations should be considered, where he provides detailed counterarguments to the majority's exclusion of them; (3) the §1101(f)(6) analysis, where he agrees with the majority's rejection of a materiality requirement but criticizes the remand as unnecessary given the clear facts. The dissent cites the same statutes, engages with the same precedents (Fedorenko, Chaunt), and provides point-by-point rebuttals to the majority's reasoning. However, it doesn't achieve a score of 5 because while it thoroughly engages on legal interpretation, it also introduces some independent concerns (like the videotaped depositions issue) and occasionally shifts to emphasizing factual sufficiency arguments that the majority found premature to address."
+}
+```

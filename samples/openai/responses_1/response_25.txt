@@ -1,0 +1,3 @@
+Official Citation: 447 U.S. 429
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s market-participant rationale, using the same core precedents (especially Hughes v. Alexandria Scrap) and disputing the majority’s reading by proposing a two-step burden analysis. It addresses the majority’s distinctions (natural resources vs. manufactured goods), offers a limiting principle (traditional governmental functions vs. state as trader), and responds to the majority’s federalism and protectionism points. This is a detailed, case-specific rebuttal rather than a shift to unrelated issues."}

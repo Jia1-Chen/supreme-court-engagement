@@ -1,0 +1,3 @@
+Official Citation: 481 U.S. 520
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s application of Miranda and Innis, cites the same standards, and rebuts the majority’s factual characterizations (e.g., whether there was a psychological ploy, intent to elicit statements, and the relevance of security motives and lack of direct questioning). It addresses the majority’s key points and uses the same record evidence and precedents, though it also briefly adds institutional concerns about certiorari and deference."}

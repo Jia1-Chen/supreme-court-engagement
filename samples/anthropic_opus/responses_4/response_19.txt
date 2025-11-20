@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent engages directly and extensively with the majority's core reasoning. Scalia systematically rebuts the majority's empirical claims about replacement workers' union sentiments, challenges the Board's factual findings using the same precedents (Station KKHI, Service Electric, Leveld Wholesale), and directly confronts the majority's policy arguments about industrial peace and bargaining stability. The dissent quotes and analyzes specific passages from the majority opinion, addresses the same legal framework (good-faith doubt standard, substantial evidence review), and provides point-by-point counterarguments to the majority's rationale for upholding the Board's no-presumption approach."
+}
+```

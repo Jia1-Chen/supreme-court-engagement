@@ -1,0 +1,3 @@
+Official Citation: 365 U.S. 167
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s core holding on the meaning of 'under color of' in §1983, using the same statutory text, legislative history, and precedents (Classic, Screws, Williams). It rebuts the majority’s historical reading, addresses stare decisis, and critiques reliance on later congressional silence. It also concurs on key overlaps (no 'willfully' requirement for §1983; municipalities not 'persons') and parses the complaint similarly, conceding that the detention custom might qualify while the home invasion does not. This is a thorough point-by-point dialogue rather than talking past the majority."}

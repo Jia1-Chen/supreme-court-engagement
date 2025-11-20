@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's key arguments, including the interpretation of § 2 Seventh of the Railway Labor Act and the carrier's right to self-help, by rebutting the majority's allowance of court-supervised changes. It cites the same statutes and precedents (e.g., Steele v. Louisville & N. R. Co.) and addresses the duty to operate. However, it also introduces broader concerns about congressional intent, judicial intervention, and practical effects, which shifts some focus away from a purely detailed rebuttal of all majority points."
+}

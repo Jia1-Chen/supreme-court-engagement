@@ -1,0 +1,3 @@
+Official Citation: 556 U.S. 332
+
+{"score": 5, "reasoning": "The dissent squarely engages the majority’s reasoning. It disputes the majority’s narrow reading of Belton and its adoption of the two-prong rule, argues the decision effectively overrules Belton and Thornton, and applies classic stare decisis factors (reliance, workability, changed circumstances, consistency, reasoning). It directly debates Chimel’s scope and timing, questions the justification and standard (“reason to believe” vs probable cause) for the new evidence-of-offense prong, and addresses officer-safety and evidentiary rationales, citing the same core precedents. This is a detailed, point-by-point rebuttal reflecting strong dialogue with the majority."}

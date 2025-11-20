@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the market participant doctrine from Alexandria Scrap. It addresses the majority's distinction between 'market participant' and 'market regulator,' challenges the analogy between South Dakota's cement sales and Maryland's subsidy program, and responds to specific arguments about natural resources and protectionism. While the dissent introduces some broader federalism concerns, it maintains substantial engagement with the majority's legal framework and precedents throughout."
+}
+```

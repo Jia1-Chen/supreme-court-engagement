@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key arguments, such as the distinction between quantity and quality of power, statutory interpretation of 'amount of power,' and legislative history. It cites the same statutory provisions and offers rebuttals based on plain language and congressional intent. However, it also introduces broader concerns like the Administrator's inconsistency and does not fully address all aspects, such as the exchange program, indicating moderate but not thorough engagement."
+}

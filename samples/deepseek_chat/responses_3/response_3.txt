@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the Younger extension to civil proceedings, critiquing the exhaustion requirement for §1983 claims, and engaging with the majority's federalism and comity arguments. However, it also introduces broader concerns about congressional intent and historical context that, while relevant, shift some focus away from direct rebuttal of the majority's specific legal analysis."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 481 U.S. 520
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning on what constitutes “interrogation” under Miranda and Innis, applying the same precedents (Miranda, Edwards, Innis) and contesting the majority’s factual and legal premises. It argues that placing the suspect with his wife under police control was a psychological ploy and the functional equivalent of interrogation, rebuts the majority’s reliance on lack of subterfuge and security justifications, and disputes the majority’s suspect-perspective analysis. Although it briefly raises certiorari concerns, the dissent chiefly provides a detailed, point-by-point rebuttal, showing strong engagement."}

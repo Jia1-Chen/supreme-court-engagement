@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice White directly engages with the majority's core reasoning, addressing the interpretation of Section 2 Seventh of the Railway Labor Act, the 'reasonably necessary' standard for court-supervised changes, and the balance between carrier duties and statutory prohibitions. It cites the same precedents (e.g., Steele v. Louisville & N. R. Co.) and statutory provisions, providing a detailed rebuttal that challenges the majority's statutory analysis and highlights potential consequences like prolonged strikes and undermining congressional intent."
+}

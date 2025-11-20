@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Justice Stevens specifically addresses the majority's reading of 'damage' versus 'damages,' challenges their interpretation of the legislative history, and responds to their plain language analysis. While the dissent introduces some broader policy concerns about the perverse results of the majority's interpretation, it primarily focuses on rebutting the majority's specific textual and historical arguments, using the same precedents and statutory provisions to reach opposite conclusions."
+}
+```

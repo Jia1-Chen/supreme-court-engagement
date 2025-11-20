@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+"score": 4,
+"reasoning": "The dissent substantially engages with the majority's reasoning, responding to its key arguments about extending Younger v. Harris to civil proceedings. It directly addresses the majority's central holding by arguing that: (1) the extension overturns 180 years of jurisprudence regarding federal injunctions in state civil proceedings; (2) it contradicts the Anti-Injunction Act's history and the 1948 amendment; (3) it undermines Monroe v. Pape and Mitchum v. Foster regarding § 1983 actions; and (4) it creates asymmetry between criminal and civil proceedings. The dissent cites the same foundational cases (Younger, Mitchum, Monroe) and directly rebuts the majority's characterization of this civil nuisance proceeding as akin to criminal prosecution. While the dissent also introduces broader concerns about congressional intent and the policy implications of the ruling, it maintains substantial direct engagement with the majority's legal framework and reasoning throughout."
+}

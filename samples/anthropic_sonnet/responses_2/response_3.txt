@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Brennan directly addresses the core issue of extending Younger v. Harris from criminal to civil proceedings, challenges the majority's characterization of the nuisance proceeding as 'closely related to criminal statutes,' and engages with the exhaustion requirement imposed by the majority. The dissent extensively discusses the same precedents (Younger, Mitchum v. Foster, Monroe v. Pape) and explains why they should lead to different conclusions. While the dissent also raises broader concerns about congressional intent behind § 1983 and the implications for federal court access, these points are presented as direct counterarguments to the majority's federalism analysis rather than as independent frameworks. The dissent could score a 5 with even more point-by-point rebuttal of the majority's specific doctrinal moves, but it clearly demonstrates meaningful dialogue with the majority opinion."
+}
+```

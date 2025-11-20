@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments throughout. It addresses the majority's interpretation that §954(d)(1) is merely 'hortatory' and not viewpoint-based, rebuts the majority's distinction of Rosenberger regarding scarcity of funding, challenges the majority's reading that diverse panels satisfy the statute, and disputes the characterization of 'taking into consideration' as non-mandatory. The dissent cites the same precedents (Rosenberger, Rust, Regan) and analyzes the same statutory language, providing detailed counter-arguments. While it also raises some independent constitutional concerns about chilling effects, the dissent's primary focus is systematically refuting the majority's reasoning point by point."
+}
+```

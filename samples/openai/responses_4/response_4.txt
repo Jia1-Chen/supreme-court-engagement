@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages the majority’s reasoning. It addresses the same statutory clause and key precedents (Fortnightly, Teleprompter, Buck v. Jewell-LaSalle, Herbert v. Shanley), argues why Fortnightly’s ‘viewers do not perform’ line should not control because Aiken used a multi-speaker system for commercial purposes, and contends Buck is controlling given the license language. However, it also pivots to broader calls for congressional action and does not fully confront the majority’s enforceability and multiple-licensing policy concerns, preventing a top score."
+}

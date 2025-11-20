@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by addressing the specific application to nude dancing and citing shared precedents like Young v. American Mini Theatres, but it shifts focus to community autonomy and police power, failing to thoroughly rebut the majority's key arguments on strict scrutiny, narrow tailoring, and the insufficiency of the Borough's justifications."
+}

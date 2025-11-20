@@ -1,0 +1,3 @@
+Official Citation: 365 U.S. 167
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s construction of §1983’s “under color” requirement, grappling with the same precedents (Classic, Screws, Williams), the same legislative history (1866/1870/1871 Acts), and the same federalism concerns. It rebuts the majority’s stare decisis rationale, counters the majority’s reading of congressional silence in the 1950s/1960s, agrees on not importing Screws’ willfulness into §1983, and concurs on municipal non-liability. It offers a nuanced alternative: the home raid (illegal under state law) is not under color, but the alleged “open charge” detention custom could be—showing direct, point-by-point dialogue rather than talking past the majority."}

@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about what constitutes 'interrogation' under Rhode Island v. Innis. Both opinions analyze the same factual record, cite the same key precedents (Miranda, Edwards, Innis), and debate the application of the 'functional equivalent' test. The dissent specifically rebuts the majority's findings about police intent, the absence of psychological ploys, and whether Mauro was coerced. While the dissent adds some broader concerns about deference to state court findings, it primarily focuses on contesting the majority's interpretation of the same legal framework and facts."
+}
+```

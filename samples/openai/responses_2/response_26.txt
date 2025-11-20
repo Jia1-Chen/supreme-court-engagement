@@ -1,0 +1,3 @@
+Official Citation: 511 U.S. 809
+
+{"score": 5, "reasoning": "The dissent directly rebuts the majority’s three core reasons for denying litigation-fee recovery: (1) it contests the majority’s characterization of §107 as an implied cause of action; (2) it challenges the negative inference from explicit fee provisions elsewhere; and (3) it offers a competing textual reading of “enforcement activities” that includes private suits. It cites the same statutory provisions (§107, §113, §101(25)) and precedents (Alyeska, Runyon), and even engages the majority’s footnote. Although it does not address the nonlitigation fee categories, it squarely engages the key disputed issue with detailed, point-by-point analysis."}

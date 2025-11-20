@@ -1,0 +1,6 @@
+Official Citation: 499 U.S. 621
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by thoroughly addressing the majority's reasoning, including its reliance on common law definitions and the Mendenhall test. It directly rebuts key points by citing the same precedents (e.g., Katz, Terry, Mendenhall) and argues that the majority's interpretation departs from established Fourth Amendment jurisprudence. The dissent also counters policy arguments and uses hypotheticals to illustrate consequences, showing a detailed and meaningful dialogue."
+}

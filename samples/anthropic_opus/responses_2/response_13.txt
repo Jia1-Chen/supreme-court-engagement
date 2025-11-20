@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core argument about the meaning of 'under color of' state law, extensively analyzing the same legislative history and precedents (Classic, Screws, Williams cases). While the dissent reaches the opposite conclusion about whether unauthorized police conduct falls under § 1979, it thoroughly addresses the majority's reasoning, quotes the same congressional debates, and provides detailed rebuttals to the majority's interpretation of the statute's scope and purpose. The dissent does introduce broader federalism concerns, but these are directly tied to countering the majority's statutory construction."
+}
+```

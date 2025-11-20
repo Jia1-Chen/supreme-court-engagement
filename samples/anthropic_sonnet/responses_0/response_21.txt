@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Stevens directly addresses the majority's reliance on common law definitions of 'seizure' and 'arrest,' critiques the majority's interpretation of the Mendenhall test, and challenges the distinction between 'show of force' and physical touching. The dissent engages with the same precedents (Terry, Katz, Mendenhall, Chesternut, Brower) and provides detailed rebuttals to the majority's core arguments about when a seizure occurs. However, the dissent also introduces broader concerns about Fourth Amendment values and policy implications that go beyond direct point-by-point refutation, including extensive discussion of the exclusionary rule's purposes and concerns about encouraging unlawful police conduct. While these additional concerns are relevant, they represent a somewhat broader frame than pure engagement with the majority's technical legal analysis, which prevents this from being a perfect score of 5."
+}
+```

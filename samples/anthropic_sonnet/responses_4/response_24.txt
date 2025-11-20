@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice White directly challenges the majority's core holding that courts can authorize carriers to deviate from collective bargaining agreements during strikes when 'reasonably necessary.' He addresses the same statutory provision (Section 2 Seventh), acknowledges the majority's interpretation ('The Court agrees that § 2 Seventh forbids...'), and provides a detailed rebuttal arguing that the exception cannot be read into the statute's 'unequivocal language.' The dissent engages with the majority's concern about the carrier's duty to operate but argues Congress specified the terms in the statute itself. While the dissent introduces additional policy concerns about court intervention, uniformity, and the strike's prolongation, these support rather than replace the direct engagement with the majority's statutory interpretation. The dissent doesn't quite reach a score of 5 because it could have more thoroughly addressed the majority's specific arguments about the 'jungle' scenario and the detailed balancing approach, but it provides a clear, focused rebuttal to the majority's central legal reasoning."
+}
+```

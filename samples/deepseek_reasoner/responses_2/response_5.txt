@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points such as the application of Taylor v. Louisiana, the prima facie test for fair-cross-section violations, and the burden of proof, while critiquing the blending of Sixth Amendment and Equal Protection analyses. However, it also introduces broader concerns about judicial administration, predictability, and the implications for state jury systems, which shifts some focus away from a purely detailed rebuttal."
+}

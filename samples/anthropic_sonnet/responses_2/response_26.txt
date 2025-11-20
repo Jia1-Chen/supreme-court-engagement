@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. It systematically addresses all three reasons the majority provides for denying attorney's fees: (1) challenging the majority's characterization of the cause of action as 'implied' rather than 'express,' (2) rebutting the negative inference drawn from other fee provisions in SARA, and (3) directly contesting the majority's narrow interpretation of 'enforcement activities.' The dissent uses the same statutory provisions (§§107, 101(25)), applies the same precedent (Alyeska, Runyon), and provides point-by-point counterarguments to the majority's statutory interpretation. Rather than introducing independent issues, the dissent focuses exclusively on whether the specific statutory language authorizes attorney's fees—the exact question the majority addresses."
+}
+```

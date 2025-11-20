@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent engages in strong, direct engagement with the majority's reasoning by addressing the same precedents (Safety Appliance Act and Boiler Inspection Act cases), statutory interpretations (FELA and Jones Act), and core legal arguments. It systematically rebuts the majority's extension of absolute liability principles to the Coast Guard regulation, highlighting the lack of congressional intent and cross-references that distinguished the earlier cases, and emphasizes the negligence-based foundation of the Jones Act, demonstrating a thorough and meaningful dialogue."
+}

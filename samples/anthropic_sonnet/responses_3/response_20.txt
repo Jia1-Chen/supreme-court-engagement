@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice White directly addresses the majority's key holdings on multiple fronts: (1) he agrees with Parts I, II-A, and III-A but disagrees with the application and conclusions; (2) he directly challenges the majority's narrow focus on only naturalization proceedings rather than visa proceedings under §1451(a), calling the majority's logic 'foolish' and providing detailed rebuttal; (3) he contests the majority's interpretation of materiality, arguing the majority should consider not just the true facts in isolation but also the fact that misrepresentations were made; (4) he agrees with the majority that §1101(f)(6) requires no materiality requirement but argues the case should be affirmed rather than remanded, engaging with the majority's reasoning about 'testimony' and 'subjective intent.' While the dissent introduces some broader concerns about the videotaped depositions and emphasizes patterns of behavior, it primarily operates within the same legal framework as the majority, citing the same statutes and precedents, and directly rebutting the majority's statutory interpretation and application. The engagement is not quite a '5' because the dissent does introduce some independent considerations and doesn't address every nuance of the majority's 'procured by' analysis in Part II-B."
+}
+```

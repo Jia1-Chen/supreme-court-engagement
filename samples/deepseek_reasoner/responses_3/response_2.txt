@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's key reasoning by directly addressing the interpretation of Donaldson v. United States and the good-faith requirement, citing the same precedents (e.g., Donaldson and Powell) and providing a rebuttal that challenges the majority's institutional good-faith test. However, it shifts focus to broader concerns about workability and statutory interpretation without thoroughly engaging with the majority's detailed analysis of legislative history and IRS institutional structure."
+}

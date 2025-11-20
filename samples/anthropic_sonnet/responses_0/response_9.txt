@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Scalia directly addresses the majority's hybrid approach of starting with the contingent-fee agreement but adjusting based on lodestar factors, arguing this creates an incoherent and unworkable standard. He responds to the majority's interpretation of 'reasonable fee' and its treatment of contingent-fee agreements versus lodestar calculations. He acknowledges the majority's points about the statute's history and Congressional intent regarding contingent fees, but offers competing interpretations. While he introduces some independent concerns about the practical application and uniformity of law, these critiques flow directly from his engagement with the majority's framework. The dissent doesn't fully score a 5 because it does introduce some broader policy concerns about lottery-ticket-like outcomes and adherence contracts that extend slightly beyond pure rebuttal, but the core of the dissent is a direct engagement with the majority's methodology and statutory interpretation."
+}

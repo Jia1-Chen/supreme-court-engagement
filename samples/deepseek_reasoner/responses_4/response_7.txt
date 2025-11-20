@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points such as the due process requirement of knowledge, critiquing the distinction between action and inaction, and referencing shared precedents like United States v. Balint and Holmes's Common Law. However, it also shifts focus to broader implications for other laws and does not fully rebut the majority's emphasis on the passive nature of the ordinance and the lack of circumstances for notice."
+}

@@ -1,0 +1,3 @@
+Official Citation: 447 U.S. 429
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly tackles the majority’s reliance on the market-participant doctrine from Alexandria Scrap, offers an alternative doctrinal line (traditional governmental functions vs. state-as-trader), and carefully distinguishes Alexandria Scrap by arguing the South Dakota policy erects a trade barrier rather than a subsidy. It cites and debates the same core precedents (Alexandria Scrap, Pike, Hughes v. Oklahoma, H.P. Hood, Pennsylvania v. West Virginia), responds to the majority’s natural-resources distinction, and addresses the majority’s federalism rationale. This is a detailed, point-by-point rebuttal rather than talking past the majority."}

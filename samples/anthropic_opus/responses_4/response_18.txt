@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Thomas systematically addresses the majority's reading of 'felony punishable under the [CSA],' contests their textual analysis of §924(c)(2), responds to their concerns about state-federal disparities, and offers counterarguments using the same statutory provisions. While the dissent also raises some independent points (like the Commerce Clause comparison), it primarily focuses on rebutting the majority's specific reasoning about whether state felonies qualify as 'drug trafficking crimes' under the federal statute."
+}
+```

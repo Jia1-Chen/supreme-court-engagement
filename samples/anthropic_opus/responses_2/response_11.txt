@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal interpretation of 'amount of power' versus 'quality of power' under §5(d)(1)(B), systematically rebuts the majority's reading of §5(d)(1)(A), and addresses the same statutory provisions and legislative history. While the dissent introduces some independent concerns about deference and policy implications, it primarily focuses on demonstrating why the majority's statutory interpretation is wrong, making this substantial engagement with the majority's reasoning."
+}
+```

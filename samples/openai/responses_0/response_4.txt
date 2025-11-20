@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages the majority’s core reasoning. It addresses the same statutory provision (the right to ‘perform’ publicly for profit) and directly contests the majority’s reliance on Fortnightly and Teleprompter by arguing Aiken is more than a passive listener. It invokes and distinguishes the same precedents—especially Buck v. Jewell-LaSalle and Herbert v. Shanley—to contend that using a multispeaker system in a commercial setting constitutes a performance. It also notes the ASCAP license’s limits. However, the dissent partly shifts to urging congressional action and does not fully grapple with the majority’s enforceability and multiple-licensing concerns, keeping it short of maximal engagement."
+}

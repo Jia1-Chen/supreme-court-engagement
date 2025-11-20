@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and extensively engages with the majority's core textual arguments about whether a notice lacking time-and-place information triggers the stop-time rule. It addresses the majority's interpretation of 'under section 1229(a)', responds to its reading of §1229(a)(1) as definitional, challenges its reliance on neighboring provisions like §1229(a)(2) and §1229(b)(1), and offers alternative interpretations of the same statutory text. While the dissent also raises broader Chevron deference concerns and practical considerations, the bulk of its analysis directly rebuts the majority's specific statutory reasoning, demonstrating substantial dialogue rather than talking past the majority opinion."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's core reasoning. While it acknowledges the majority's statutory interpretation analysis in Parts I-III, it focuses almost entirely on a separate legal framework - the proper approach to inferring private rights of action - without directly rebutting the majority's detailed analysis of the Tucker Act and money-mandating statutes. The dissent introduces broader jurisprudential concerns about implied rights of action that were not central to the majority's reasoning, and proposes procedural solutions (supplemental briefing) rather than engaging substantively with the majority's legal conclusions."
+}
+```

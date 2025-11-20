@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Frankfurter directly addresses the majority's core holding on the meaning of 'under color of law,' providing extensive legislative history analysis that contests the majority's interpretation. He examines the same statutory provisions (§1979, §242) and precedents (Classic, Screws, Williams) that the majority relies upon, arguing they were wrongly decided or inadequately reasoned. The dissent methodically challenges the majority's construction by analyzing the 1871 legislative debates, the purpose of the Ku Klux Act, and the relationship between state-sanctioned versus unauthorized police conduct. While Frankfurter introduces broader federalism concerns and policy considerations about federal-state judicial relations, these serve to rebut the majority's approach rather than talking past it. The dissent also engages with the majority's treatment of municipal liability. However, the dissent doesn't achieve a score of 5 because it does spend considerable space on independent concerns about judicial restraint, stare decisis principles, and federalism implications that, while related, extend beyond direct rebuttal of the majority's specific textual and historical arguments."
+}
+```

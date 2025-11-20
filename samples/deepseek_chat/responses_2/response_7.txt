@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's reasoning on due process and notice requirements, citing the same precedents (United States v. Balint, Holmes' Common Law), and providing a detailed rebuttal of the majority's distinction between active conduct and passive omission, while challenging the constitutional line drawn by the majority."
+}

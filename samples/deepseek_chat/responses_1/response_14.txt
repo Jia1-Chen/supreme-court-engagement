@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's core legal framework (Rhode Island v. Innis), rebutting its application to the facts, and challenging the majority's characterization of police intent and suspect perception. However, it partially shifts focus to criticizing the Court's certiorari discretion and local fact-finding reliability, which slightly reduces the thoroughness of the legal dialogue."
+}

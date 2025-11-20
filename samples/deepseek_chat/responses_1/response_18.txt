@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 4,
+  "reasoning": "Justice Thomas's dissent demonstrates substantial engagement with the majority's reasoning by directly addressing key textual arguments, statutory interpretation principles, and specific anomalies raised by the majority. He systematically rebuts the majority's interpretation of 'felony punishable under the Controlled Substances Act' by emphasizing the plain text, contrasting statutory provisions, and critiquing the majority's reliance on ordinary meaning over statutory definitions. However, the dissent also introduces some independent arguments, such as referencing Commerce Clause jurisprudence, which slightly shifts focus from the core statutory analysis."
+}

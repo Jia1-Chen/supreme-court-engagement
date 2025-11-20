@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Scalia directly addresses the majority's hybrid approach of starting with contingent-fee agreements while adjusting based on lodestar factors, calling it 'incompatible' and impractical. He tackles the same statutory text ('reasonable fee'), discusses the same lodestar method, and explicitly critiques the majority's interpretation that contingent fees should be presumptively valid. He offers an alternative framework (ex ante vs. ex post reasonableness) and explains why the majority's approach will generate confusion. The dissent also responds to specific majority arguments, such as the claim that the lodestar wasn't contemplated in 1965. While the dissent introduces some independent concerns about administrability and the nature of contingent fees in this context, it primarily functions as a direct rebuttal to the majority's core holdings."
+}

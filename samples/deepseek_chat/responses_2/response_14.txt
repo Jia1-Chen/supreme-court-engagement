@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's key legal framework from Rhode Island v. Innis, responding to the majority's analysis of police intent and the 'functional equivalent' of interrogation, and challenging the majority's factual interpretations. However, it also introduces broader concerns about state court deference and police practices that extend beyond direct rebuttal of the majority's reasoning."
+}
+```

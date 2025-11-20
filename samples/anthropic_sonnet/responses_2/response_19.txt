@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. Justice Scalia systematically addresses the majority's key points: he challenges the majority's characterization of the issue, critiques the factual basis for the Board's finding using the Board's own precedents (Service Electric, Leveld Wholesale), directly rebuts the majority's arguments about replacement workers' possible union support, and attacks the majority's deference to the Board's 'no-presumption' approach. Justice Blackmun's separate dissent also engages directly with the majority, though focusing more on internal inconsistency in Board precedents. Both dissents cite the same cases, statutory provisions, and factual record as the majority, providing point-by-point rebuttals rather than alternative frameworks. The dissent is not merely offering a different perspective but is actively attempting to demonstrate why the majority's specific reasoning is flawed."
+}
+```

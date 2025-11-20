@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent primarily attacks the majority's doctrinal framework and methodology rather than directly engaging with its specific legal arguments. While Rehnquist acknowledges the majority's fair-cross-section analysis and statistical evidence, he shifts focus to broader concerns about the hybrid nature of the Sixth/Fourteenth Amendment doctrine, the practical consequences of the decision, and philosophical objections to the 'mystical' rationale behind cross-section requirements. The dissent does briefly address the majority's justification analysis but mostly develops independent arguments about administrative burdens and the inappropriateness of reversing convictions for jury composition issues."
+}
+```

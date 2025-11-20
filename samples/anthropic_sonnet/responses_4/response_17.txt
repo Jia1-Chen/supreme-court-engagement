@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+"score": 4,
+"reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Alito directly addresses the majority's interpretation of Belton, explicitly argues that the majority is overruling precedent (even though it claims otherwise), and systematically applies stare decisis factors (reliance, changed circumstances, workability, consistency, and reasoning quality) to rebut the majority's decision. The dissent engages with the same precedents (Chimel, Belton, Thornton) and directly challenges the majority's characterization of these cases. While the dissent does introduce some independent concerns about practical implementation and doctrinal confusion, the bulk of the opinion is devoted to rebutting the majority's specific arguments about why Belton should be narrowed. The engagement is not quite a '5' because the dissent spends some time on alternative interpretations and policy concerns rather than exclusively addressing each element of the majority's reasoning, but it represents strong and direct dialogue with the majority opinion."
+}
+```

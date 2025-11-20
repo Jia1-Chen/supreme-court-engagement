@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning about the definition of seizure, systematically rebutting the majority's reliance on common law arrest principles, and engaging with the same precedents (Katz, Terry, Mendenhall, Brower) while offering detailed counterarguments about the proper Fourth Amendment framework. Justice Stevens meticulously responds to the majority's historical analysis, statutory interpretation, and policy arguments while maintaining focus on the same legal questions."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by addressing key points like the absence of exceptional circumstances for abstention and comity concerns, but it shifts focus to procedural inefficiency and independent arguments about delay and frivolous claims without deeply rebutting the majority's legal precedents and statutory analysis."
+}

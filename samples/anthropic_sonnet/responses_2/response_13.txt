@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Frankfurter directly addresses the majority's central holding regarding the 'under color of law' interpretation, providing extensive analysis of the same legislative history and precedents (Classic, Screws, Williams). He argues the majority misinterprets this history and challenges the stare decisis justification. The dissent also engages with the majority's discussion of federalism concerns and the scope of § 1979. While Frankfurter introduces some independent policy considerations about federal-state relations and argues for a narrower construction than the majority, he does so while directly rebutting the majority's key textual and historical arguments. The extensive citations to the same legislative debates and case law demonstrate meaningful dialogue. The score is not a 5 because the dissent does spend considerable time on alternative framing of federalism principles and introduces some broader structural concerns, but the core engagement with the majority's statutory interpretation is substantial and direct."
+}
+```

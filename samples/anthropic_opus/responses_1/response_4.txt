@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While it briefly acknowledges the majority's reliance on Fortnightly and Teleprompter, it primarily focuses on defending Buck v. Jewell-LaSalle as controlling precedent and arguing for Congressional action rather than directly rebutting the majority's analysis about passive reception vs. performance, the practical unenforceability concerns, or the inequity of multiple licenses. The dissent's main thrust is that Congress should resolve this issue, not a detailed engagement with why the majority's interpretation is wrong."
+}
+```

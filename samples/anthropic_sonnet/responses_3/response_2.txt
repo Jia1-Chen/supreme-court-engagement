@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's interpretation of Donaldson v. United States and challenges the new 'institutional good faith' standard imposed by the majority. The dissent argues that the majority misreads Donaldson by adding requirements not found in the statute or Constitution. It cites the same key precedent (Donaldson) and engages with the majority's central holding about 'institutional purpose' versus 'individual agent purpose.' The dissent also references Judge Friendly's opinion in Morgan Guaranty Trust Co. to support its alternative interpretation. However, it doesn't engage as thoroughly with all aspects of the majority's extensive analysis of the statutory framework and legislative history, focusing instead on the core interpretive disagreement about Donaldson and the workability of the new standard. This represents substantial but not completely comprehensive engagement with the majority's reasoning."
+}
+```

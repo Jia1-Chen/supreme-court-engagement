@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points such as the absence of exceptional circumstances for abstention, comity concerns, and the interpretation of 28 U.S.C. § 2283. It cites shared precedents like Railroad Comm'n v. Pullman Co. and argues against the majority's conclusions by highlighting practical inefficiencies, potential friction from parallel litigation, and the disruption to state processes. However, it also introduces broader concerns about judicial administration and the frivolity of the claim, which shifts some focus away from a thorough rebuttal of all majority arguments."
+}

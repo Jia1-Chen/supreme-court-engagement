@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's reasoning on abstention doctrine, comity concerns, and procedural efficiency. It rebuts the majority's key points about avoiding friction and promoting judicial economy by highlighting the practical consequences of splitting litigation between state and federal courts, and warns of potential forum conflicts. However, it also introduces broader policy concerns about businesslike administration of justice that extend beyond the majority's legal framework."
+}

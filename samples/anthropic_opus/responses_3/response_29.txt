@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core legal reasoning. While it acknowledges the majority's characterization of the ordinance as a ban on live entertainment and references Young v. American Mini Theatres (a key case discussed by the majority), the dissent largely reframes the issue as being about nude dancing specifically rather than the broader First Amendment overbreadth concerns. The dissent focuses on community values and local control arguments that are tangential to the majority's detailed analysis of First Amendment doctrine, narrow tailoring requirements, and the lack of adequate justification for the broad prohibition. The dissent does not meaningfully address the majority's points about the ordinance's overbreadth, the lack of evidence for the Borough's justifications, or the absence of adequate alternative channels of communication."
+}
+```

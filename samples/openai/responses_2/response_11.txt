@@ -1,0 +1,3 @@
+Official Citation: 467 U.S. 380
+
+{"score": 4, "reasoning": "The dissent substantially engages the majority’s core reasoning. It directly contests the majority’s quantity/quality distinction under §5(d)(1)(B), interprets §5(d)(1)(A) differently, and marshals the same legislative history (including Senate/House Reports) to rebut the majority’s reading. It also addresses the second-quartile tradeoff and challenges the deference rationale by citing BPA’s inconsistencies. However, it engages less directly with the majority’s argument that the statutory initial contracts fall outside the preference regime and says little about §5(g)(7)’s “deemed sufficient resources” point. Overall, significant but not complete engagement."}

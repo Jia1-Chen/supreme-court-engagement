@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about abstention doctrine and its application. It addresses the majority's arguments about 'exceptional circumstances,' responds to the comity analysis, and disputes the majority's characterization of procedural efficiency. While the dissent focuses heavily on practical procedural concerns that the majority downplays, it nonetheless engages substantively with the majority's legal framework rather than talking past it. The dissent quotes the majority's language, accepts its legal standards, and argues why those standards should lead to a different result."
+}
+```

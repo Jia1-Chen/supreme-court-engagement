@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about what constitutes a 'seizure' under the Fourth Amendment. Stevens systematically addresses the majority's reliance on common law definitions, critiques their interpretation of precedents (especially Terry and Katz), and rebuts their distinction between physical touching and show of authority. While the dissent does introduce broader policy concerns about police accountability and citizen protection, it maintains substantial engagement with the majority's specific legal arguments throughout, particularly challenging the majority's position that a seizure requires submission to authority rather than just the show of authority itself."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core constitutional holding, specifically addressing the overruling of Logan Valley and the relationship between Lloyd and Logan Valley. Marshall provides detailed rebuttals to the majority's interpretation of precedent, argues the cases are reconcilable, and critiques the majority's reasoning about shopping centers and First Amendment forums. While the dissent also raises procedural concerns about reaching the constitutional question unnecessarily, it substantially engages with the majority's First Amendment analysis through direct counterarguments using the same precedents."
+}
+```

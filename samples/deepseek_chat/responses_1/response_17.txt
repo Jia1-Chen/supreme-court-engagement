@@ -1,0 +1,6 @@
+Official Citation: 556 U.S. 332
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing Belton's bright-line rule, challenging the majority's reinterpretation, and critiquing the new two-part test. It responds to key points about stare decisis, reliance interests, and workability, while also introducing broader concerns about doctrinal stability and practical implementation."
+}

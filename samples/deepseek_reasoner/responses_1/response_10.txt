@@ -1,0 +1,6 @@
+Official Citation: 424 U.S. 507
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key points such as the necessity of reaching the constitutional question, the overruling of Logan Valley, and the application of the First Amendment. It cites the same precedents (e.g., Marsh, Logan Valley, Lloyd, Babcock & Wilcox) and provides a detailed rebuttal, demonstrating meaningful dialogue rather than talking past the majority."
+}

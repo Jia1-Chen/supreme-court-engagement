@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's core reasoning. Scalia systematically rebuts the majority's arguments about striker replacements' potential support for the union, directly challenges the Board's factual findings using the same precedents (Station KKHI, Service Electric, Leveld Wholesale), and confronts the majority's policy rationales head-on. He quotes and responds to specific passages from the majority opinion, addresses the same legal framework (good-faith doubt standard, substantial evidence review), and provides detailed counter-arguments to each of the majority's key points about economic necessity, post-strike convergence of interests, and union bargaining power."
+}
+```

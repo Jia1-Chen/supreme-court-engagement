@@ -1,0 +1,6 @@
+Official Citation: 365 U.S. 167
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Frankfurter demonstrates strong engagement with the majority opinion by directly addressing its key reasoning, including the interpretation of 'under color of' law, the precedents cited (Classic, Screws, Williams), and the legislative history of the Civil Rights Act of 1871. It provides a detailed rebuttal by re-examining the same statutory language and historical debates, offering a counter-narrative that challenges the majority's conclusions while staying focused on the same legal framework."
+}

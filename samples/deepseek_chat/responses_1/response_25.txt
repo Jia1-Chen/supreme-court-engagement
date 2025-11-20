@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the market participant doctrine established in Alexandria Scrap, applying the same legal framework, and providing detailed rebuttals to the majority's key arguments. Justice Powell systematically challenges the majority's application of Alexandria Scrap, distinguishes the facts of that case, and directly responds to the majority's policy justifications. However, the dissent also introduces some broader federalism concerns and alternative analytical frameworks that go beyond direct rebuttal of the majority's specific points."
+}
+```

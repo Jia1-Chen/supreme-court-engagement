@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the legal framework (Sixth Amendment vs. Equal Protection analysis), critiquing the 'systematic exclusion' terminology, and challenging the practical implications of the majority's holding. However, it also shifts focus to broader concerns about judicial administration and the role of gender in jury selection, which slightly reduces the depth of direct rebuttal to specific statutory interpretations."
+}

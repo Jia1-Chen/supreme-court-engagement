@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. It explicitly addresses the majority's application of the Rhode Island v. Innis standard, challenges the majority's interpretation of the trial court's findings, rebuts each of the majority's three main arguments (lack of psychological ploy, suspect's perspective, and voluntary nature of conversation), and engages with the same precedents and legal framework. The dissent methodically counters the majority's key points: it argues the police did employ a psychological ploy despite the majority's denial, disputes the majority's reading of the factual record regarding advance warning, and directly challenges the majority's conclusion that no interrogation occurred. Rather than introducing an independent framework, the dissent works within the same Innis 'functional equivalent' test but argues for a different application of that test to the facts. This represents thorough, point-by-point engagement characteristic of a score of 5."
+}
+```

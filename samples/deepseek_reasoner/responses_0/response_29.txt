@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's First Amendment analysis and cites Young v. American Mini Theatres, but it largely focuses on independent arguments about local autonomy and community character, ignoring key majority points such as overbreadth, narrow tailoring, and the lack of adequate alternative channels. It does not engage substantively with the majority's reasoning or precedents like Schneider and Schaumburg."
+}

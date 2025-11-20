@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Harlan directly addresses the majority's central argument that FELA cases involving Safety Appliance and Boiler Inspection Acts create absolute liability for any statutory violation. The dissent systematically rebuts this by examining the same line of cases cited by the majority (Layton, Gotschall, Wagner, Urie, etc.) and argues these cases rest on the 'peculiar relationship' between those specific safety statutes and the FELA, not a general principle applicable to all statutory violations. The dissent engages with the majority's statutory interpretation, discusses the same precedents, and directly challenges the majority's extension of absolute liability to Coast Guard navigation regulations. However, the dissent also introduces some independent concerns about the majority's broader implications for negligence doctrine and judicial lawmaking that go slightly beyond direct rebuttal, preventing a score of 5."
+}
+```

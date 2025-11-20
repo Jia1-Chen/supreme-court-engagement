@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Stevens' dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the core statutory interpretation dispute over 'amount of power' versus 'quality of power,' responding to the majority's arguments about legislative history and administrative deference, and challenging the majority's distinction between quantity and quality. However, the dissent shifts somewhat to alternative statutory interpretations and policy arguments in its concluding sections, preventing a perfect score of 5."
+}
+```

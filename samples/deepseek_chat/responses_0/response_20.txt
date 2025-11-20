@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement by directly addressing the majority's legal reasoning on materiality under §1451(a) and §1101(f)(6), rebutting the majority's statutory interpretation and application. However, it also introduces broader factual considerations (like the videotaped depositions) that shift focus beyond the core legal arguments."
+}

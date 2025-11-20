@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core argument about extending FELA absolute liability principles to violations of any statute under the Jones Act. It systematically rebuts the majority's interpretation of precedent cases, argues that those cases were based on a special relationship between FELA and the Safety Appliance/Boiler Inspection Acts that doesn't exist here, and challenges the majority's broad reading of congressional intent. While the dissent does introduce some broader policy concerns about employers becoming 'virtual insurers,' it primarily focuses on addressing and refuting the majority's specific legal reasoning and case law interpretation."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Stevens directly addresses the majority's statutory interpretation methodology, challenging its 'plain meaning' analysis by focusing on the distinction between 'damage' (property harm) and 'damages' (monetary remedy). The dissent examines the same statutory text (§702c), legislative history, and interpretive principles as the majority, offering competing interpretations of the same evidence. While the dissent introduces some additional considerations (like the relationship to the Federal Tort Claims Act and lack of prior personal injury cases), these serve to rebut the majority's conclusions rather than ignore them. The dissent explicitly responds to specific majority arguments, such as the relationship between the immunity provision and the proviso, and challenges the majority's use of dictionary definitions. This represents substantial, though not completely comprehensive, engagement with the majority's core reasoning."
+}
+```

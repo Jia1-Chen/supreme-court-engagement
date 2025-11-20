@@ -1,0 +1,6 @@
+Official Citation: 448 U.S. 98
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key legal arguments, citing the same precedents (e.g., Rakas, Jones, Katz), and providing a detailed rebuttal on both the expectation of privacy and detention issues, demonstrating meaningful dialogue without shifting focus."
+}

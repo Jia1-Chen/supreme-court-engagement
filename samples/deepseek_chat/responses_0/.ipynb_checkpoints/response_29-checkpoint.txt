@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's First Amendment framework and cites Young v. American Mini Theatres, but largely shifts focus to local autonomy, community character, and the specific context of nude dancing as 'bait,' without engaging deeply with the majority's analysis of overbreadth, alternative channels of communication, or the lack of narrow tailoring."
+}

@@ -1,0 +1,3 @@
+Official Citation: 512 U.S. 849
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning and the same statutory texts (§ 848(q)(4)(B), § 2251, § 2254, and related rules). It rebuts the majority’s interpretation that a motion for counsel commences a habeas “proceeding,” argues from the habeas statute’s text and rules about when proceedings begin, contests the in pari materia reading, and challenges the extension of stay power. It also addresses the majority’s policy concerns, offering counterarguments about alternative funding and exhaustion. This is a thorough, point-by-point engagement rather than talking past the majority."}

@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's interpretation of 'under color of' state law, directly addressing the majority's reliance on Classic, Screws, and Williams cases. Frankfurter provides extensive counter-analysis of the same legislative history cited by the majority, particularly the 1871 Ku Klux Act debates, and offers alternative interpretations of the same Congressional materials. While the dissent does introduce broader federalism concerns about federal-state relations, it remains primarily focused on rebutting the majority's core statutory construction arguments, making this a strong example of judicial dialogue rather than talking past each other."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's key arguments, such as the textual interpretation of 'felony punishable under the Controlled Substances Act,' the role of the INA's penultimate sentence, and concerns about state-by-state disparities. It cites the same statutory provisions and precedents, and provides detailed rebuttals to the majority's reasoning, though it occasionally introduces broader concerns like the Commerce Clause, which slightly shifts focus."
+}

@@ -1,0 +1,3 @@
+Official Citation: 494 U.S. 775
+
+{"score": 5, "reasoning": "The dissents directly engage the majority’s framing, standard of review, and use of precedent. Justice Scalia contests the majority’s characterization of the issue (presumption vs. substantial evidence), analyzes the same NLRB cases (Station KKHI, Pennco, Celanese, Service Electric, Leveld Wholesale), and rebuts the majority’s empirical and policy arguments about striker replacements and industrial stability. Justice Blackmun focuses on administrative-law consistency, faulting the Board’s unexplained departure from its own precedents and lack of empirical support—again addressing the same doctrinal terrain. This is a detailed, point-by-point dialogue rather than talking past the majority."}

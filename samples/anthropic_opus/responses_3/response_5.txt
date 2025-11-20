@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While Rehnquist acknowledges the majority's fair-cross-section framework and its distinction from equal protection analysis, he largely pivots to his own critique that the majority is really applying equal protection principles under a different name. Rather than directly rebutting the majority's three-prong test or its analysis of Missouri's exemption system, the dissent focuses on broader concerns about the practical consequences of the decision and argues the entire fair-cross-section doctrine is misguided. The dissent does engage somewhat with the majority's rationale about systematic exclusion and the 15% threshold, but primarily to mock it rather than provide substantive counterarguments."
+}
+```

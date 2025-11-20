@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's reasoning. It directly addresses the majority's extension of Younger v. Harris to civil proceedings and its exhaustion requirement, arguing these extensions undermine established precedents like Monroe v. Pape and Mitchum v. Foster. However, the dissent primarily focuses on broader policy concerns about federal jurisdiction and the congressional intent behind § 1983, rather than systematically rebutting the majority's specific federalism and comity arguments. While there is clear engagement on the central legal issue, much of the dissent develops an independent framework emphasizing the historical role of federal courts in protecting federal rights."
+}
+```

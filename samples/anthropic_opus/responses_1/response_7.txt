@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning about notice and due process. While Frankfurter briefly acknowledges the majority's distinction between 'doing and not doing,' he dismisses it as invalid rather than substantively rebutting it. The dissent focuses primarily on its own framework - comparing this case to other strict liability statutes and warning about precedential implications - rather than directly addressing the majority's specific arguments about why notice is constitutionally required for passive conduct. The dissent does not engage with the majority's cited cases (Mullane, Covey, Walker) or its analysis of why registration laws differ from other regulatory offenses."
+}
+```

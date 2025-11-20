@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority opinion by directly addressing its constitutional analysis, challenging the majority's interpretation of precedent (particularly Lloyd Corp. and Logan Valley), and offering a detailed alternative statutory analysis. Justice Marshall systematically rebuts the majority's claim that Lloyd Corp. overruled Logan Valley, provides extensive discussion of the same precedents, and argues the majority should have decided the case on statutory rather than constitutional grounds. However, the dissent also introduces broader concerns about judicial restraint and spends significant time on the procedural question of whether the constitutional issue should have been reached at all, which somewhat shifts focus from direct engagement with the majority's core reasoning."
+}
+```

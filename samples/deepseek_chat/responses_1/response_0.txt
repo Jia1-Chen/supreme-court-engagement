@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core legal reasoning, particularly the Fourth Amendment standing analysis. Justice Marshall systematically rebuts the majority's interpretation of Rakas v. Illinois, cites the same precedents (Jones, Jeffers, Simmons), and provides detailed historical analysis of Fourth Amendment jurisprudence. The dissent directly challenges the majority's conclusion that only privacy interests in the place searched (not property interests in items seized) can support Fourth Amendment standing, engaging in thorough legal dialogue rather than introducing unrelated frameworks."
+}
+```

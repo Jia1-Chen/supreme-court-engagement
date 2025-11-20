@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Frankfurter directly addresses the majority's core holding that passive conduct (failure to register) without knowledge violates due process. He challenges this by citing precedents upholding strict liability laws (particularly United States v. Balint), argues against the majority's distinction between acts and omissions as a 'Year Book distinction between feasance and nonfeasance,' and specifically rebuts the majority's use of Holmes's quote about blameworthiness by providing fuller context. The dissent uses the same legal framework (due process analysis) and responds to the majority's key points about notice requirements and passive conduct. However, it doesn't exhaustively address every aspect of the majority's reasoning about notice requirements in criminal vs. civil contexts, and relies somewhat on broader policy concerns about the scope of invalidating similar laws, which prevents it from scoring a full 5."
+}
+```

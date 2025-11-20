@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's constitutional analysis, challenging the majority's interpretation of precedent (particularly Lloyd Corp. and Logan Valley), and systematically rebutting the majority's reasoning about when private property assumes public attributes. Justice Marshall specifically contests the majority's claim that Lloyd Corp. 'totally rejected' Logan Valley, provides detailed analysis of the precedential relationship between the cases, and engages with the same constitutional framework and First Amendment principles. However, the dissent also introduces broader concerns about judicial restraint and statutory interpretation that go beyond direct rebuttal of the majority's constitutional holding."
+}
+```

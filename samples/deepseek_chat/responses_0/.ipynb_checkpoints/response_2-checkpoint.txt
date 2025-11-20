@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by challenging its interpretation of Donaldson, addressing the statutory basis for § 7602 summons authority, and critiquing the majority's 'institutional good faith' standard as unworkable. It responds specifically to the majority's legal framework and cites the same precedents, demonstrating thorough and meaningful dialogue."
+}

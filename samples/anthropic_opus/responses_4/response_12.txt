@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Justice Thomas systematically addresses the majority's reading of §848(q)(4)(B) and §2251, disputes their interpretation of when a 'proceeding' commences, challenges their reliance on §848(q)(9), and rebuts their practical necessity arguments. While the dissent also raises broader federalism concerns about expanding federal court power, it remains focused on contesting the majority's specific textual analysis and reasoning throughout, demonstrating substantial engagement with the majority's legal framework."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. It directly challenges the majority's core holding that petitioner lacked standing based on 'legitimate expectation of privacy' by thoroughly analyzing the same precedents (Rakas, Jones, Simmons, Katz) that the majority relies upon, arguing that the majority misreads these cases. The dissent addresses the majority's interpretation of the Fourth Amendment text and argues for a property-rights basis for standing that the majority rejects. On the fruit-of-the-poisonous-tree issue, the dissent directly responds to the majority's 'free will' analysis under Brown v. Illinois, though more briefly. The dissent does introduce broader Fourth Amendment concerns and policy arguments about constitutional protections, which prevents it from receiving a perfect score, but the core of the opinion is a direct rebuttal of the majority's legal reasoning using the same case law and constitutional provisions."
+}
+```

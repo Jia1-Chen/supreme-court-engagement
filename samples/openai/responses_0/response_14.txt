@@ -1,0 +1,3 @@
+Official Citation: 481 U.S. 520
+
+{"score": 5, "reasoning": "The dissent directly applies the same Miranda/Edwards/Innis framework as the majority, contests the majority’s factual characterizations (e.g., advance warnings, purpose, recording), and rebuts each key rationale: it argues the police used a psychological ploy, that placing the spouses together was the functional equivalent of interrogation, that officers knew statements were likely, and that security motives don’t negate interrogation. It cites the same precedents and record testimony to show the Innis “reasonably likely to elicit” standard was met. This is a thorough, point-by-point engagement rather than talking past the majority."}

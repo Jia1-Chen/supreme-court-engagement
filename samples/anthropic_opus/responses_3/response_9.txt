@@ -1,0 +1,8 @@
+Official Citation: 535 U.S. 789
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's reasoning. While Scalia acknowledges the majority's hybrid approach combining contingent-fee agreements with reasonableness review, he largely talks past it by arguing for an entirely different framework (pure lodestar method). Rather than engaging with why the majority's interpretation of §406(b) is wrong or addressing its statutory analysis and legislative history arguments, Scalia focuses on the practical problems his preferred approach would solve. He briefly addresses one majority point about the 1965 statute not contemplating lodestar (footnote 1), but otherwise presents an independent argument about why contingent fees and ex post reasonableness reviews are incompatible, without substantially rebutting the majority's textual and historical analysis."
+}
+```

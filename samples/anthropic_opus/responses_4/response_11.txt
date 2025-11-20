@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core argument about the distinction between 'amount' and 'quality' of power, systematically rebuts the majority's statutory interpretation of §5(d)(1)(B), addresses the same legislative history passages, and offers alternative readings of the same provisions. While the dissent does introduce some independent concerns about deference to agency interpretation, its primary focus is a point-by-point refutation of the majority's reasoning about whether the new contracts violated the statutory requirement of providing an 'equivalent' amount of power."
+}
+```

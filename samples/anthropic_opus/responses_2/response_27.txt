@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation argument about the meaning of 'damage' in §702c. Justice Stevens provides a detailed counterargument to the majority's plain language analysis, offering alternative definitions and historical context. The dissent addresses the same statute, legislative history, and precedents, but reaches opposite conclusions. While the dissent also introduces some broader policy concerns about fairness to injured victims, it remains primarily focused on rebutting the majority's specific textual and historical arguments, demonstrating substantial dialogue rather than talking past the majority."
+}
+```

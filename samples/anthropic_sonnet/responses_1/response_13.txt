@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Frankfurter directly addresses the majority's interpretation of 'under color of law,' examines the same legislative history of the Ku Klux Act of 1871, and provides detailed rebuttal to the majority's construction of the statute. He challenges the majority's reliance on Classic and Screws, arguing these cases were decided without proper consideration of legislative history. The dissent thoroughly analyzes congressional debates and intent, arguing that Section 1979 was meant to reach only conduct authorized by state law, not conduct that violates state law. While the dissent does introduce some independent concerns about federalism and judicial administration, the core of the opinion directly engages with and attempts to refute the majority's statutory interpretation using the same historical sources and precedents. The extensive discussion of the same legislative materials, statutes, and cases shows meaningful dialogue rather than talking past the majority."
+}
+```

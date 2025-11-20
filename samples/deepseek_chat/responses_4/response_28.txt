@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's reasoning about abstention doctrine, comity concerns, and the practical consequences of parallel proceedings. Justice Clark specifically rebuts the majority's claims about avoiding delay and expense, argues that the circumstances are indeed 'exceptional' for abstention, and highlights the potential for forum-shopping and unseemly conflicts between state and federal courts. However, the dissent also introduces some independent policy arguments about judicial administration that go beyond direct rebuttal of the majority's legal analysis."
+}
+```

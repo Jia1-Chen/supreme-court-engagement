@@ -1,0 +1,3 @@
+Official Citation: 452 U.S. 61
+
+{"score": 3, "reasoning": "The dissent engages some core points—disputing the majority’s characterization of the ordinance as a blanket ban on live entertainment, invoking Young v. American Mini Theatres, and stressing local zoning autonomy and nearby alternatives. But it largely reframes the case as an as-applied challenge to nude dancing and does not grapple with the majority’s First Amendment framework: overbreadth standing, the requirement of narrow tailoring and evidentiary support, the time/place/manner test, and the rejection of ‘you can speak elsewhere’ arguments. Thus, there is some engagement but substantial talking past the majority’s reasoning."}

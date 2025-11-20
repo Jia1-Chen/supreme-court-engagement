@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about abstention doctrine and judicial efficiency. It specifically rebuts the majority's claims about avoiding 'added expense' and 'prolonged denial,' arguing the opposite is true. The dissent addresses the same legal framework (abstention, comity, § 2283) and the same procedural concerns, but reaches opposite conclusions. While it adds some independent policy concerns about splitting cases between jurisdictions, the dissent fundamentally engages with and attempts to refute the majority's key arguments about when federal courts should abstain from exercising diversity jurisdiction."
+}
+```

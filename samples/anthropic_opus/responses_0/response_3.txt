@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's central reasoning about extending Younger v. Harris to civil proceedings. Brennan specifically addresses the majority's characterization of the nuisance proceeding as 'in aid of and closely related to criminal statutes,' criticizes the exhaustion requirement, and rebuts the majority's federalism arguments by citing the congressional purposes behind § 1983 and Monroe v. Pape. The dissent quotes the majority's language, responds to its specific arguments about comity and federalism, and offers detailed counter-arguments using the same legal framework and precedents."
+}
+```

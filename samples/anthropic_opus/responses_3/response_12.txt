@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Justice Thomas systematically addresses the majority's reading of §848(q)(4)(B) and §2251, contests their interpretation that a 'proceeding' can begin with a motion for counsel rather than a habeas petition, and directly rebuts the majority's reliance on §848(q)(9). The dissent quotes the same statutory provisions, analyzes the same jurisdictional questions, and specifically critiques the majority's 'bootstrapping' logic. While the dissent also raises broader federalism concerns, it primarily focuses on refuting the majority's specific textual analysis and practical considerations."
+}
+```

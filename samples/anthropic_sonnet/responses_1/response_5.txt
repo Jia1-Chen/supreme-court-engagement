@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning, though it also introduces broader concerns. Justice Rehnquist directly addresses the majority's Sixth Amendment fair-cross-section framework, challenges its distinction from equal protection analysis (noting the majority's own footnotes 1 and 26), and questions the magic number of '15%' that the majority uses as constitutionally significant. The dissent engages with Taylor v. Louisiana (the key precedent both opinions rely on), disputes the majority's characterization of this as an 'exclusion' case when 15% of women are represented, and critiques the practical implications of the majority's rule. The dissent also addresses the majority's mystical notions of 'flavor' and 'indefinable something' that different groups bring to juries. However, the dissent does spend significant time on its own administrative and policy concerns about burden on state legislatures and jury administrators, and develops an extended critique that the majority is really advancing equal protection under the guise of due process. This additional focus on independent themes prevents it from being a perfect '5,' but the core engagement with the majority's legal framework, precedents, and reasoning is substantial."
+}

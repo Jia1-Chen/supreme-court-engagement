@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about what constitutes 'interrogation' under Rhode Island v. Innis. It disputes the majority's factual characterization (whether Mauro received advance warning), challenges the majority's application of the Innis standard to these facts, and provides a detailed rebuttal of why the police conduct should be considered interrogation. While the dissent also raises broader concerns about police overreaching and deference to state courts, it primarily focuses on contesting the majority's specific legal analysis of whether this situation constituted the 'functional equivalent' of interrogation."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core statutory interpretation arguments. While the dissent agrees with Parts I-III of the majority's analysis about § 1342's obligations and appropriations riders, it focuses almost entirely on a separate issue: whether a private right of action should be inferred under the Tucker Act. The dissent doesn't challenge the majority's textual analysis of § 1342's 'shall pay' language or its interpretation of precedents like Langston and Vulte. Instead, it shifts to broader jurisprudential concerns about implied rights of action and requests supplemental briefing. Though there is some engagement through footnotes, the dissent largely talks past the majority by concentrating on different legal questions."
+}
+```

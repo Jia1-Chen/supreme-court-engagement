@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement with the majority's reasoning. He explicitly agrees with Parts I, II-A, and III-A of the majority opinion, then systematically addresses the majority's key holdings on: (1) the materiality requirement under § 1101(f)(6), (2) the definition and application of 'materiality' under § 1451(a), and (3) whether visa-stage misrepresentations should be considered. White directly challenges the majority's narrow focus on birth date/place misrepresentations, arguing the court should consider all misrepresentations and the pattern of falsehoods. He engages with the majority's statutory interpretation, responds to its concerns about remand, and offers alternative constructions of the same legal provisions. While he introduces some independent considerations (like the videotaped depositions issue), the bulk of his dissent directly rebuts the majority's legal reasoning using the same statutory framework and precedents. The dissent is clearly 'talking with' the majority, though it also advocates for a broader approach to the case that the majority rejected."
+}
+```

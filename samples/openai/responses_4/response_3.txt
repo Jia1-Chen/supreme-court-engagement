@@ -1,0 +1,3 @@
+Official Citation: 420 U.S. 592
+
+{"score": 4, "reasoning": "The dissent directly challenges the majority’s two core moves—extending Younger to state civil proceedings and requiring exhaustion in §1983 cases—using the same doctrinal anchors (Younger, Fenner, Mitchum, Monroe, and the Anti‑Injunction Act). It rebuts the majority’s ‘akin to criminal’ rationale and contests the comity/federalism justification by appealing to congressional design and precedent. However, it does not engage some case‑specific elements (e.g., the Ohio court’s narrowing in Without a Stitch, the majority’s pending-on-appeal analysis, or the narrow Younger exceptions), focusing instead on broader policy and history. Thus, substantial but not exhaustive engagement."}

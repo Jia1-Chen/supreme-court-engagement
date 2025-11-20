@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 2,
+  "reasoning": "While Justice Rehnquist's dissent does engage with some of the majority's legal framework (acknowledging the fair-cross-section requirement and discussing the 15% threshold), it primarily shifts focus to broader policy concerns and alternative arguments. The dissent spends most of its energy attacking the conceptual foundations of the Taylor precedent, criticizing the blending of Equal Protection and Due Process analyses, and warning about practical administrative burdens on states. It directly addresses the majority's reasoning only minimally, instead emphasizing that the conviction should stand because the trial was fair regardless of jury composition. The dissent talks more 'past' than 'with' the majority by reframing the issue as one of administrative efficiency versus the majority's focus on constitutional representation requirements."
+}
+```

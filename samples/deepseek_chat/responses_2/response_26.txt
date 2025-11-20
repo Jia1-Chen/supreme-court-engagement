@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Scalia's dissent demonstrates strong engagement by directly addressing all three of the majority's key arguments: (1) he refutes the characterization of §107 as creating only an 'implied' right of action, (2) he counters the negative inference from other statutory fee provisions, and (3) he directly challenges the majority's narrow interpretation of 'enforcement activities.' The dissent systematically rebuts each point using the same statutory text and precedents, while also specifically responding to Justice Stevens' footnote arguments about the statutory framework."
+}
+```

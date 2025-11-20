@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about inferring a private right of action under the Tucker Act. Justice Alito specifically addresses the majority's 'money-mandating' test and its application to § 1342, while accepting the majority's statutory interpretation in Parts I-III. The dissent challenges the same precedents (Langston, Vulte, Testan) and responds to the majority's footnotes. However, the dissent shifts some focus to broader concerns about judicial restraint and the inconsistency with recent cases limiting implied rights of action (Comcast, Hernández), which weren't central to the majority's analysis. This represents substantial but not complete engagement."
+}
+```

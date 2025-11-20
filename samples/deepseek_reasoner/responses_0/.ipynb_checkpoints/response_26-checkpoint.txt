@@ -1,0 +1,6 @@
+Official Citation: 511 U.S. 809
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing each of its three key arguments: it disputes the characterization of the cause of action as implied, counters the negative inference from other statutory sections, and provides a detailed rebuttal on the interpretation of 'enforcement activities,' using the same statutory text and legal precedents in a thorough and focused manner."
+}

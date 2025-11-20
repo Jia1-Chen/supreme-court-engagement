@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments about abstention doctrine, comity, and efficient administration of justice. It specifically rebuts the majority's claims about delay and expense, arguing the opposite would be true. The dissent addresses the same legal framework (abstention, diversity jurisdiction, § 2283) and the same factual scenario, but reaches opposite conclusions about whether 'exceptional circumstances' justify abstention. While focusing primarily on practical concerns about splitting proceedings between courts, the dissent meaningfully engages with the majority's reasoning rather than talking past it."
+}
+```

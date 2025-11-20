@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning point-by-point. Justice Marshall thoroughly rebuts the majority's interpretation of Rakas v. Illinois, cites the same precedents (Jeffers, Jones, Simmons), provides detailed analysis of Fourth Amendment history, and directly challenges the majority's conclusion that property interests alone cannot support Fourth Amendment standing. The dissent systematically responds to each of the majority's legal arguments while maintaining focus on the same constitutional framework and precedents."
+}
+```

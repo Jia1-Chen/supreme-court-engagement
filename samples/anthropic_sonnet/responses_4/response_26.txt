@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and direct engagement with the majority's reasoning. Justice Scalia systematically addresses each of the majority's three main arguments: (1) challenging the majority's characterization of §107 as creating an 'implied' rather than 'express' right of action; (2) rebutting the 'magic words' requirement for attorney's fees authorization and addressing the negative inference from other statutory provisions; and (3) directly contesting the majority's interpretation of 'enforcement activities.' The dissent cites the same statutory provisions (§§107(a)(4)(B) and 101(25)), engages with the same precedents (Runyon, Alyeska), and provides point-by-point rebuttals to the majority's core legal arguments. The dissent even addresses a specific footnote from the majority opinion (footnote 11), demonstrating thorough engagement with the majority's reasoning throughout."
+}
+```

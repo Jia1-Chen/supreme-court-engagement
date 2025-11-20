@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice White directly addresses the majority's central holding regarding § 2 Seventh of the Railway Labor Act and challenges the exception created by the majority that allows courts to authorize departures from collective bargaining agreements. The dissent grapples with the same statutory provisions, discusses the same case law (Steele v. Louisville), and specifically rebuts the majority's interpretation that carriers can seek court authorization to modify agreements during strikes. While the dissent introduces some additional concerns about expert agency supervision and policy implications for strike duration, these are presented as supporting arguments rather than alternative frameworks. The dissent's core argument—that § 2 Seventh's language is unequivocal and permits no judicial exception—is a direct response to the majority's creation of a 'reasonably necessary' standard for court-authorized modifications."
+}
+```

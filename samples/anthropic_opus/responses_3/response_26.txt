@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about whether 'enforcement activities' in CERCLA includes private cost recovery actions and attorney's fees. Scalia systematically addresses the majority's three main arguments: (1) the 'implied' vs 'express' cause of action distinction, (2) the negative inference from attorney's fees provisions elsewhere in SARA, and (3) the interpretation of 'enforcement activities.' The dissent quotes the same statutory provisions (§107, §113, §9601(25)), addresses the same precedent (Runyon), and directly rebuts the majority's textual analysis. While introducing some broader interpretive principles, the dissent maintains sustained engagement with the majority's specific legal framework and reasoning."
+}
+```

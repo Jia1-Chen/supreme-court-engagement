@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments about the definition of 'seizure' and when it occurs. Stevens specifically addresses Scalia's reliance on common law arrest principles, critiques the majority's distinction between touching and show of authority, and rebuts the majority's interpretation of precedents like Terry and Mendenhall. The dissent quotes and analyzes the same cases (Terry, Mendenhall, Katz, Brower) that the majority relies upon, but argues they support a different conclusion. While the dissent also raises broader policy concerns about the decision's impact, the overwhelming focus is on directly rebutting the majority's legal reasoning and interpretation of Fourth Amendment jurisprudence."
+}
+```

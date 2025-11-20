@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key precedents (Buck v. Jewell-LaSalle, Fortnightly, Teleprompter), critiques the majority's 'functional analysis' approach, and rebuts the characterization of Aiken as a 'passive beneficiary.' It also discusses statutory interpretation and legislative intent, though it shifts focus to broader concerns about congressional action."
+}

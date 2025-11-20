@@ -1,0 +1,6 @@
+Official Citation: 481 U.S. 520
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key legal arguments, citing the same precedents (Miranda and Rhode Island v. Innis), and providing a detailed rebuttal of the majority's conclusions on interrogation, psychological ploys, and intent. It challenges the majority's factual interpretations and legal applications, demonstrating strong, meaningful dialogue."
+}

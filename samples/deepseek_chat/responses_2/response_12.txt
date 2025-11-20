@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Thomas's dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the statutory interpretation of §§ 848(q)(4)(B) and 2251, critiquing the majority's reliance on § 848(q)(9) as a basis for pre-petition counsel, and challenging the majority's textual analysis. The dissent systematically rebuts key points, such as the definition of a 'proceeding' and the practical implications of the majority's holding, while also incorporating Justice O'Connor's arguments. However, it occasionally shifts to broader federalism concerns, slightly reducing the focus on pure rebuttal."
+}
+```

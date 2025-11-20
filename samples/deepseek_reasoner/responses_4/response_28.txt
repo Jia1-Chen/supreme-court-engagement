@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points such as the absence of exceptional circumstances for abstention, comity concerns, and potential inefficiencies. It rebuts the majority's arguments by emphasizing the practical consequences of case-splitting, delay, and friction with state courts, and cites shared precedents like Railroad Comm'n v. Pullman Co. However, it also introduces broader concerns about judicial administration and the frivolity of the claim, which shifts focus slightly from a purely legal rebuttal."
+}

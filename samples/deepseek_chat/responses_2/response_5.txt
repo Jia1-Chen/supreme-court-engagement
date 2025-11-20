@@ -1,0 +1,8 @@
+Official Citation: 439 U.S. 357
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice Rehnquist's dissent substantially engages with the majority's reasoning by directly addressing the fair-cross-section doctrine, critiquing the majority's analytical framework as an 'agile amalgamation' of due process and equal protection principles, and challenging the majority's use of 'exclusion' terminology when women were present on venires. The dissent responds to key points about statistical thresholds, administrative burdens, and the conceptual basis for requiring diverse juries, while also introducing broader concerns about judicial administration and constitutional interpretation."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and thorough engagement with the majority's reasoning. Justice Alito directly addresses the majority's textual arguments about §1229(a), responds to the majority's interpretation of the word 'under,' engages with the majority's reading of neighboring statutory provisions like §1229(a)(2) and §1229(b)(1), and challenges the majority's 'common sense' arguments. The dissent uses the same statutory provisions, addresses the same precedents, and provides point-by-point rebuttals to the majority's key arguments. Throughout, Alito acknowledges the majority's positions (often quoting them directly) before explaining why they are unpersuasive. The dissent's central disagreement is that the majority should have applied Chevron deference rather than choosing between competing reasonable interpretations, but this critique requires deep engagement with the majority's textual analysis to show that the statute is indeed ambiguous. This represents a paradigmatic example of 'talking with' the majority opinion."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's core arguments. It systematically addresses the majority's three main defenses of the statute: (1) that the language is too imprecise to constitute viewpoint discrimination, (2) that the statute can be satisfied through diverse panel composition, and (3) that the provision merely adds 'considerations' without mandating specific outcomes. The dissent cites the same precedents (Rosenberger, Rust, Regan) and directly rebuts the majority's interpretation of them. While the dissent also develops its own broader First Amendment framework, it does so primarily to counter the majority's reasoning rather than talking past it."
+}
+```

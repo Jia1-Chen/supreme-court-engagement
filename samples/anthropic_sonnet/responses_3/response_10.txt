@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Marshall directly addresses the majority's constitutional analysis, extensively discusses the relationship between Logan Valley and Lloyd (which the majority uses to overturn Logan Valley), and engages with the majority's interpretation of Marsh v. Alabama. The dissent also addresses the procedural approach, arguing the Court should have decided the statutory question first. While Part II of the dissent focuses on the statutory question (which the majority remands), this represents engagement with what Marshall believes should be the proper analytical framework. In Part III, the dissent provides detailed rebuttal of the majority's constitutional holdings, citing the same precedents and offering competing interpretations. The dissent does introduce some independent concerns about the formalistic view of property rights, but the bulk of the opinion directly responds to and attempts to rebut the majority's key arguments about First Amendment applicability to shopping centers."
+}
+```

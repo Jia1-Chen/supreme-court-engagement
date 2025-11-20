@@ -1,0 +1,6 @@
+Official Citation: 511 U.S. 809
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing all three key arguments: it counters the characterization of §107 as an implied cause of action, refutes the negative inference from other fee provisions, and provides a detailed rebuttal on the interpretation of 'enforcement activities,' citing the same statutes and precedents without shifting focus."
+}

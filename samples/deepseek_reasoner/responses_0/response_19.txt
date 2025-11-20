@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "The dissent, primarily by Justice Scalia, demonstrates strong engagement by directly addressing the majority's key arguments, including deference to the NLRB, the rationality of the no-presumption approach, and policy considerations. It cites the same precedents (e.g., Station KKHI, Service Electric) and provides a detailed rebuttal, challenging the majority's empirical and legal reasoning while maintaining a focused dialogue on the core issues."
+}

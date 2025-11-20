@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning throughout. Alito systematically addresses the majority's interpretation of Belton and Chimel, disputes the majority's reading of precedent, and provides detailed rebuttals to the majority's stare decisis analysis. Both opinions focus on the same legal framework (Belton, Chimel, search incident to arrest doctrine) and debate the same central question about when vehicle searches are permissible. While the dissent also raises some independent concerns about workability and reliance interests, it maintains sustained engagement with the majority's specific arguments about the scope of the search-incident-to-arrest exception."
+}
+```

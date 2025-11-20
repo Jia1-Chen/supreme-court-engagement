@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissents demonstrate strong and sustained engagement with the majority's reasoning. Justice Scalia's dissent directly challenges the majority's central holding by arguing that substantial evidence does not support the Board's factual finding that the employer lacked good-faith doubt. He systematically rebuts the majority's key points: (1) he addresses the majority's claim that replacements might support the union despite economic pressures, arguing this ignores the inherent conflict of interest; (2) he directly engages with the majority's citation of Board precedents and argues they actually support the opposite conclusion; (3) he responds point-by-point to the majority's examples (e.g., the Dold Foods case and the union's unconditional offer to return); and (4) he challenges the majority's characterization of the issue as one of 'presumptions' rather than substantial evidence review. Justice Blackmun's shorter dissent also engages directly, noting the inconsistency between the majority's approach and prior Board decisions like Service Electric and Leveld Wholesale. Both dissents cite the same cases, statutory provisions, and factual record as the majority, providing detailed rebuttals rather than alternative frameworks."
+}
+```

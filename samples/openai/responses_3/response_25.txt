@@ -1,0 +1,6 @@
+Official Citation: 447 U.S. 429
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages the majority’s core reasoning about the market-participant doctrine and Hughes v. Alexandria Scrap, offering a competing reading that limits state favoritism to supplying traditional governmental needs and not private beneficiaries. It addresses the same precedents (Alexandria Scrap, Hughes v. Oklahoma, H.P. Hood, Pike, Pennsylvania v. West Virginia), disputes the majority’s natural-resource distinction, and argues the policy functions as a prohibited trade barrier. While it doesn’t address every subsidiary point, it provides a detailed, case-focused rebuttal on the decisive doctrinal issues, demonstrating strong dialogue with the majority."
+}

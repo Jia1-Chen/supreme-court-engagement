@@ -1,0 +1,3 @@
+Official Citation: 439 U.S. 357
+
+{"score": 4, "reasoning": "Substantial engagement. The dissent directly challenges the majority’s Sixth Amendment fair-cross-section framework, argues it is an Equal Protection-like standard, responds to the majority’s burden/justification language, and critiques the use of “exclusion” and the 15% threshold. It cites and contrasts the same core precedents (Taylor, Hoyt, Ballard, Smith) and engages the remedy. However, it largely bypasses the majority’s step-by-step application (the three-prong prima facie test, the specific Missouri statistics, and the State’s failure of proof), focusing instead on broader doctrinal and policy objections."}

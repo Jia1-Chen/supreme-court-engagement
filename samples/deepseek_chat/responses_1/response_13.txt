@@ -1,0 +1,6 @@
+Official Citation: 365 U.S. 167
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the interpretation of 'under color of law' and the legislative history of the Civil Rights Act. It critiques the majority's reliance on Classic, Screws, and Williams, provides detailed analysis of congressional debates, and offers alternative statutory interpretation focused on federalism concerns. However, it also introduces broader policy arguments about judicial restraint and federal-state relations that extend beyond direct rebuttal of the majority's points."
+}

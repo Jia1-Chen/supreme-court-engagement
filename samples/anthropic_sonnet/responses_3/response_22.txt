@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Harlan directly addresses the majority's central argument that FELA cases involving Safety Appliance and Boiler Inspection Acts create absolute liability that should extend to this Coast Guard regulation violation under the Jones Act. The dissent systematically challenges this extension by: (1) analyzing the same line of FELA precedents the majority relies upon; (2) explaining why those cases rest on the 'peculiar relationship' between those specific safety statutes and the FELA; (3) demonstrating that the Coast Guard regulation lacks the same congressional intent to create absolute liability; and (4) arguing the majority improperly reads out common-law negligence concepts from the statutes. While the dissent does emphasize broader concerns about judicial lawmaking and the proper scope of negligence liability, these flow from its direct engagement with the majority's doctrinal analysis. The dissent uses the same cases, statutory provisions, and legal framework as the majority, providing a point-by-point rebuttal rather than simply talking past the majority's arguments."
+}
+```

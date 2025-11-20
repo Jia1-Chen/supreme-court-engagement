@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's reasoning about abstention doctrine, comity concerns, and the practical consequences of splitting litigation between state and federal courts. Justice Clark specifically rebuts the majority's arguments about avoiding delay and expense, arguing instead that the federal court intervention creates unnecessary complications. He engages with the same legal framework (abstention doctrine and comity principles) and cites the same precedent (Pullman) while offering a competing interpretation of how these principles should apply to the case's specific facts."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's statutory interpretation of 'damage,' offers competing definitions from legal sources contemporaneous with the 1928 Act, addresses the majority's legislative history analysis, and systematically rebuts the majority's textual arguments. While the dissent also introduces some broader policy concerns about fairness to injury victims, it primarily focuses on providing alternative interpretations of the same statutory language and legislative materials that the majority analyzes, demonstrating substantial dialogue rather than talking past the majority."
+}
+```

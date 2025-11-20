@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent directly and thoroughly engages with the majority's reasoning, addressing key points such as the statute's viewpoint neutrality, the role of diverse panels, and distinctions from precedents like Rosenberger. It cites the same legal frameworks and precedents, providing a detailed rebuttal that demonstrates meaningful dialogue rather than talking past the majority."
+}

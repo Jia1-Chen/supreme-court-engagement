@@ -1,0 +1,6 @@
+Official Citation: 138 S. Ct. 2105
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing its key arguments, including the plain text interpretation of 'notice to appear,' the meaning of 'under' in the stop-time rule, statutory context from §1229(a)(2) and §1229(b)(1), and practical concerns. It cites the same statutory provisions and precedents (e.g., Chevron, Becker v. Montgomery) and provides a detailed rebuttal, demonstrating a meaningful dialogue rather than talking past the majority."
+}

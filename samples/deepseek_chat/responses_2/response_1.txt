@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's reliance on Segal v. Rochelle and Local Loan Co. v. Hunt but does not engage deeply with the majority's core reasoning about the Bankruptcy Act's purpose or the distinction between wage earners and business assets. Instead, it focuses on procedural concerns (docket pressure, opaque record) and factual uncertainties, effectively talking past the majority's substantive legal analysis."
+}

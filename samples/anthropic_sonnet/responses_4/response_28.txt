@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning and legal framework. It directly addresses the majority's core holding about abstention doctrine, challenges the majority's characterization of the facts (arguing the opposite regarding delay and expense), confronts the majority's comity analysis by demonstrating how federal adjudication actually disrupts rather than respects state processes, and directly responds to the majority's interpretation of § 2283. The dissent uses the same legal doctrine (abstention), discusses the same procedural posture, and systematically rebuts the majority's key points about efficiency, comity, and the propriety of split litigation. While the dissent emphasizes different practical consequences and reaches opposite conclusions, it does so by directly engaging the majority's arguments rather than introducing entirely separate legal theories. It falls short of a '5' primarily because it focuses somewhat more on practical administration concerns than on exhaustively rebutting every precedent cited by the majority."
+}
+```

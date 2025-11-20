@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority opinion through multiple direct rebuttals. Scalia directly addresses the majority's reasoning about strike replacements' potential union support, systematically challenges the majority's interpretation of Board precedents (Service Electric, Leveld Wholesale), disputes the majority's factual characterizations (particularly regarding the union's unconditional offer to return), and contests the majority's legal framework by arguing this is a substantial evidence review rather than a presumption issue. The dissent quotes extensively from the majority opinion, engages with the same case law and statutory provisions, and provides point-by-point responses to the majority's arguments about economic motivations, bargaining power, and policy considerations. While the dissent reaches opposite conclusions, it operates within the same analytical framework and directly confronts the majority's specific reasoning throughout."
+}
+```

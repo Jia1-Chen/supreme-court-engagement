@@ -1,0 +1,6 @@
+Official Citation: 478 U.S. 597
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points such as the plain language interpretation of 'damage' versus 'damages,' the legislative history's focus on property damage, and the statutory context. It cites relevant legal authorities and precedents to rebut the majority's conclusions, though it also introduces broader concerns about the irrationality of immunizing personal injury claims."
+}

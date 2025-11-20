@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly challenging the legal foundation of the 'institutional good faith' standard, citing the same key precedent (Donaldson) and statutory interpretation. It provides a detailed rebuttal of the majority's departure from what it views as a clear, objective test, though it also introduces broader concerns about workability and judicial overreach."
+}

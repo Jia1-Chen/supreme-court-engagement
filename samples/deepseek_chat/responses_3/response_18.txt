@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core statutory interpretation arguments, citing the same statutory provisions (18 U.S.C. § 924(c)(2), 8 U.S.C. § 1101(a)(43)), and providing detailed rebuttals of the majority's textual analysis, surplusage concerns, and practical consequences. Justice Thomas systematically counters the majority's reasoning about 'felony punishable under the CSA,' the role of state law classifications, and the definition of 'illicit trafficking,' while maintaining focus on the same legal framework and precedents."
+}

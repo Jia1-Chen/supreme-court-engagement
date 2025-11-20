@@ -1,0 +1,6 @@
+Official Citation: 424 U.S. 507
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by thoroughly addressing the majority's reasoning, including its overruling of Logan Valley and interpretation of Lloyd Corp. v. Tanner. It directly rebuts key points by citing the same precedents (e.g., Marsh, Logan Valley, Lloyd, Central Hardware) and provides a detailed analysis of why the constitutional issue was unnecessary and how the statutory question should have been resolved under the NLRA. The dissent also challenges the majority's procedural approach and substantive conclusions, showing meaningful dialogue rather than ignoring or shifting focus away from the majority's arguments."
+}

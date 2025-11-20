@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's interpretation of Donaldson v. United States, challenges the 'institutional good faith' standard the majority creates, and argues for a simpler objective test based on when a criminal recommendation is made. The dissent cites the same key precedent (Donaldson) and disputes the majority's reading of it, offers an alternative interpretation supported by a Second Circuit case, and criticizes the workability of the majority's new framework. However, it stops short of a score of 5 because it doesn't engage deeply with all aspects of the majority's multi-layered analysis of the IRS's institutional structure and review processes, instead focusing primarily on the core interpretive disagreement about the good faith requirement and the appropriate test to apply."
+}
+```

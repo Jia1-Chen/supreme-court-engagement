@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While White acknowledges the majority's position that courts can authorize necessary changes during strikes, he doesn't meaningfully rebut the majority's detailed analysis about the carrier's duty to serve the public, the need to balance self-help rights, or the practical impossibility of strict § 2 Seventh compliance with replacement workers. Instead, the dissent offers a formalistic reading of § 2 Seventh as absolute, largely ignoring the majority's extensive discussion of why strict application would make the carrier's right to self-help meaningless. The dissent focuses primarily on separation of powers concerns and Congressional intent arguments that are largely independent of the majority's operational necessity framework."
+}
+```

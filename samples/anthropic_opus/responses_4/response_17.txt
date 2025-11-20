@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about Belton's scope and application. Justice Alito systematically addresses the majority's interpretation of Belton, disputes their reading of precedent, and rebuts their stare decisis analysis point-by-point. He directly confronts the majority's two-part rule, critiques their reliance arguments, and challenges their characterization of police practices. While the dissent also raises some independent concerns about workability and officer safety, the overwhelming focus is a detailed rebuttal of the majority's specific legal arguments, demonstrating substantial dialogue rather than talking past each other."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 455 U.S. 586
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning. It confronts the majority’s reliance on Ross v. Moffitt by arguing Ross was wrongly decided, and then, even assuming Ross is correct, addresses the majority’s due process/state-action rationale head-on. It cites and applies Cuyler v. Sullivan to rebut the majority’s no–state action point, argues why post-trial proceedings should count as state action, and proposes a concrete remedy (consideration of untimely applications where the defendant relied on counsel). This is a detailed, point-by-point rebuttal using the same legal framework and key precedents."}

@@ -1,0 +1,8 @@
+Official Citation: 535 U.S. 789
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's core reasoning. While Justice Scalia does acknowledge the majority's hybrid approach of starting with contingent-fee agreements and then adjusting for reasonableness, he largely dismisses this framework as 'irrational' and 'incompatible' rather than engaging substantively with the majority's statutory interpretation, legislative history analysis, or policy justifications. Instead, the dissent advances its own independent theory that 'reasonable fee' must mean lodestar calculation based on actual work performed, without meaningfully addressing the majority's detailed explanation of why Congress likely intended to preserve contingent-fee agreements subject to reasonableness review."
+}
+```

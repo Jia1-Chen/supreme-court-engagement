@@ -1,0 +1,6 @@
+Official Citation: 424 U.S. 507
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's key arguments, including its interpretation of Lloyd v. Tanner and the overruling of Logan Valley, critiquing the unnecessary constitutional adjudication, and providing a detailed rebuttal using the same precedents and statutory framework (e.g., NLRA, Babcock & Wilcox). It systematically counters the majority's reasoning on both procedural and substantive grounds."
+}

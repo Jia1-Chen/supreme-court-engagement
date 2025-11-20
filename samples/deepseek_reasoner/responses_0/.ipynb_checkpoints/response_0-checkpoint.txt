@@ -1,0 +1,6 @@
+Official Citation: 448 U.S. 98
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's key arguments, including its interpretation of Rakas v. Illinois and the requirement of a legitimate expectation of privacy. It cites the same precedents (e.g., Jones, Jeffers, Simmons) to rebut the majority's reasoning, provides a detailed analysis of Fourth Amendment history and text, and challenges the majority's conclusions on both the standing issue and the fruits of the illegal detention, showing a thorough and meaningful dialogue."
+}

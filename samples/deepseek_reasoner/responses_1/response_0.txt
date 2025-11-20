@@ -1,0 +1,6 @@
+Official Citation: 448 U.S. 98
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by thoroughly addressing the majority's reasoning on key issues, such as the interpretation of Rakas v. Illinois and the requirement for a legitimate expectation of privacy. It cites the same precedents (e.g., Jones, Simmons, Jeffers) and provides a detailed rebuttal, directly countering the majority's legal arguments. The dissent also engages with the detention issue, challenging the majority's application of Brown v. Illinois factors, and maintains a focused dialogue without shifting to unrelated frameworks."
+}

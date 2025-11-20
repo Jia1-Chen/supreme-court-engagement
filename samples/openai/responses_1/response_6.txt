@@ -1,0 +1,6 @@
+Official Citation: 140 S. Ct. 1308
+
+{
+  "score": 4,
+  "reasoning": "The dissent concedes the majority’s holdings on obligation and no repeal (Parts I–III) and directly engages the core remaining issue: whether §1342 supports a Tucker Act damages claim. It challenges the majority’s reliance on the ‘money-mandating’ framework, arguing it conflicts with modern implied-right-of-action doctrine (Sandoval, Hernández, Sosa) and questions the pedigree of Testan/White Mountain Apache. It cites overlapping precedents (Testan, White Mountain Apache, Bowen, Bormes) and contrasts the majority’s reading. However, it shifts to broader jurisprudential concerns and requests reargument rather than offering a point-by-point statutory rebuttal, so the engagement is substantial but not exhaustive."
+}

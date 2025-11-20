@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Thomas's dissent demonstrates substantial engagement with the majority's reasoning by directly addressing the statutory interpretation of §§ 848(q)(4)(B) and 2251, critiquing the majority's reliance on § 848(q)(9) as insufficient textual support, and challenging the majority's practical/policy-based arguments. The dissent systematically rebuts the majority's key points about when a 'proceeding' commences and the interplay between counsel appointment and stay jurisdiction, while also incorporating Justice O'Connor's concurrence to strengthen its textual analysis. However, it occasionally shifts focus to broader federalism concerns and alternative funding mechanisms, preventing a perfect score."
+}
+```

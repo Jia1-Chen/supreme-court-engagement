@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent strongly engages with the majority opinion through direct rebuttal of its core reasoning. Justice Alito explicitly addresses the majority's interpretation of Belton, arguing that it mischaracterizes the precedent's clear holding. The dissent directly challenges the majority's stare decisis analysis by applying traditional factors (reliance, changed circumstances, workability, consistency, and reasoning quality) and methodically explains why each factor weighs against overruling Belton. It engages with the majority's two-part rule, criticizing both prongs and explaining the practical problems each creates. The dissent also addresses the majority's reading of Chimel, arguing the majority undermines it while purporting to follow it. Both opinions cite the same key precedents (Belton, Chimel, Thornton) and directly dispute their proper interpretation and application to Gant's case. This represents thorough, point-by-point engagement with the majority's legal analysis."
+}
+```

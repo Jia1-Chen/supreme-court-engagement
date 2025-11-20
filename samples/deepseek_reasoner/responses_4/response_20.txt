@@ -1,0 +1,6 @@
+Official Citation: 485 U.S. 759
+
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the materiality standard under §1451(a) and the lack of materiality requirement under §1101(f)(6). He cites the same precedents (e.g., Chaunt, Fedorenko) and statutes, and provides rebuttals on issues like the consideration of visa-stage misrepresentations and the remand for factual findings. However, the dissent also introduces broader concerns, such as the pattern of falsehoods and the admissibility of other evidence, which slightly shifts focus but remains tied to the core legal dispute."
+}

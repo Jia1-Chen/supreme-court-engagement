@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning through direct textual and interpretive rebuttal. It challenges the majority's plain meaning analysis by distinguishing 'damage' from 'damages,' directly addressing the majority's reliance on American Stevedores and other authorities. The dissent engages with the same statutory language (§702c), examines the same legislative history, and provides alternative interpretations of the proviso relationship that the majority discussed. It directly responds to the majority's textual analysis, critiques the majority's use of authorities as actually supporting the dissent's position, and offers a competing framework for understanding congressional intent. The dissent also addresses the majority's policy concerns about sovereign immunity while arguing for a narrower construction. This represents thorough point-by-point engagement with the majority's core reasoning."
+}
+```

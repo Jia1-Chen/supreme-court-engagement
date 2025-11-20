@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with every major argument in the majority opinion. It addresses the majority's interpretation of 'taking into consideration' language, rebuts the Court's distinction from Rosenberger, challenges the characterization of the provision as non-viewpoint discriminatory, and disputes the applicability of facial challenge doctrine. The dissent quotes specific passages from the majority, cites the same precedents (Rosenberger, Rust, etc.), and provides detailed counter-arguments to each of the majority's key points, demonstrating a comprehensive dialogue with the majority's reasoning."
+}
+```

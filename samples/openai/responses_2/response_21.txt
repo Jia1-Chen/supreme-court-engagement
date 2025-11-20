@@ -1,0 +1,3 @@
+Official Citation: 499 U.S. 621
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly challenges the majority’s core premise that a seizure via show of authority requires submission, arguing that Terry and Mendenhall established that restraint of liberty—objectively measured—is sufficient. It works within the same doctrinal frame and precedents cited by the majority (Katz, Terry, Mendenhall, Chesternut, Delgado, Brower, Hester, Garner), disputes the majority’s “necessary but not sufficient” reading of Mendenhall, critiques reliance on common-law arrest by invoking attempted arrest, and addresses the exclusionary rule implications. This is a detailed, point-by-point rebuttal rather than talking past the majority."}

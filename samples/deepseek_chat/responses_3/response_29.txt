@@ -1,0 +1,6 @@
+Official Citation: 452 U.S. 61
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority's reasoning by addressing the same legal framework (zoning power and First Amendment protections) and citing shared precedents like Young v. American Mini Theatres, but it shifts focus to broader concerns about community autonomy and residential tranquility, downplaying the overbreadth issue central to the majority's analysis."
+}

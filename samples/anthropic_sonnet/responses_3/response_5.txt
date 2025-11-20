@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Rehnquist directly addresses the majority's Sixth Amendment 'fair cross-section' framework, challenges its distinction from Equal Protection analysis (noting the majority's footnotes 1 and 26), and critiques the application of the three-part prima facie test. He engages with Taylor v. Louisiana precedent that both opinions rely upon, disputes the majority's treatment of 15% female representation as 'exclusion,' and challenges the logical foundations of the fair-cross-section doctrine itself. The dissent does introduce broader policy concerns about jury administration and argues the Court is really vindicating equal protection rights rather than Sixth Amendment rights, but these arguments are presented as critiques of the majority's framework rather than entirely separate issues. The dissent could score a 5 with even more granular engagement with the majority's statistical analysis and exemption justification discussion, but it provides substantial direct rebuttal to the majority's core legal reasoning."
+}

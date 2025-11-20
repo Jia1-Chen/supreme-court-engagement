@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement by directly addressing the majority's reasoning, citing the same precedents (e.g., Rosenberger, Rust), and providing a detailed rebuttal of key points such as the statute's viewpoint neutrality, the interpretation of 'consideration,' and the applicability of overbreadth doctrine. The dissent systematically counters the majority's arguments without shifting focus or relying on a separate framework."
+}

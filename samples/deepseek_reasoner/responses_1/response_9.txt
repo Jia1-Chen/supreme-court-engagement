@@ -1,0 +1,6 @@
+Official Citation: 535 U.S. 789
+
+{
+  "score": 4,
+  "reasoning": "Justice Scalia's dissent substantially engages with the majority's reasoning by directly addressing key points, such as the inapplicability of the lodestar method and the interpretation of 'reasonable fee,' citing the same precedent (Hensley v. Eckerhart) and statutory text. He rebuts the majority's historical argument about Congress's intent and critiques the hybrid approach for lacking uniform criteria. However, he also introduces broader concerns about ex ante versus ex post assessments and the nature of contingent-fee agreements, which shifts focus slightly away from pure rebuttal."
+}

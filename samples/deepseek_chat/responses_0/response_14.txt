@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's key legal framework from Rhode Island v. Innis, specifically contesting the application of the 'functional equivalent of interrogation' standard. Justice Stevens systematically rebuts the majority's conclusions about police intent, the voluntariness of the conversation, and whether the officers' actions constituted a psychological ploy. He cites the same precedents and statutory interpretations while challenging the majority's factual interpretations and legal conclusions. However, the dissent also introduces some broader concerns about this Court's role in reviewing state court determinations, which slightly shifts focus from the core legal arguments."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holdings and reasoning. Marshall addresses the majority's interpretation of the procedural history, challenges their reading of Logan Valley and Lloyd, and disputes their conclusion that the First Amendment has 'no part to play.' He specifically rebuts the majority's claim that Lloyd 'totally rejected' Logan Valley, arguing instead that the cases are reconcilable. The dissent also engages with the majority's statutory analysis framework while disagreeing about whether constitutional issues needed to be reached. Both opinions cite and analyze the same key precedents (Marsh, Logan Valley, Lloyd, Babcock & Wilcox), though they draw opposite conclusions."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 512 U.S. 849
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key arguments, such as the interpretation of § 848(q)(4)(B) and § 2251, and rebutting the majority's reliance on § 848(q)(9) for pre-application counsel. It cites the same statutes and precedents, like the habeas corpus framework and Coleman v. Thompson, and challenges the majority's policy concerns by suggesting alternative funding sources. However, it also introduces broader federalism and statutory construction issues, which slightly shifts focus from pure rebuttal."
+}

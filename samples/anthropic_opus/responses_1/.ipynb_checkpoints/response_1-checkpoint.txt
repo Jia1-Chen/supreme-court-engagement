@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's core reasoning. While Harlan briefly acknowledges the majority's reliance on Segal v. Rochelle and Local Loan Co. v. Hunt, he does so only to argue these cases actually support the trustee, not to substantively address the majority's 'fresh start' analysis. Instead, the dissent primarily focuses on procedural concerns (summary disposition, overcrowded docket) and factual uncertainties (rate of accrual, California law) that the majority doesn't address. The dissent doesn't engage with the majority's key distinction between business assets in Segal and wages necessary for basic survival, nor does it address the majority's emphasis on vacation pay as a 'specialized type of property' deserving protection."
+}
+```

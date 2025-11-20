@@ -1,0 +1,3 @@
+Official Citation: 499 U.S. 621
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s core definition of “seizure,” squarely addressing the majority’s reliance on the common law of arrest and its reading of Terry, Mendenhall, Katz, Brower, Chesternut, Royer, and Hester. It specifically rebuts the majority’s claim that Mendenhall states only a necessary (not sufficient) condition, argues why Terry broadened the scope of seizures, and challenges the majority’s common-law framing by invoking attempted arrest and modern Fourth Amendment doctrine. Although it adds policy concerns, its primary thrust is a detailed, case-by-case rebuttal of the majority’s reasoning."}

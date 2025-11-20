@@ -1,0 +1,6 @@
+Official Citation: 447 U.S. 429
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's reliance on the market participant doctrine from Hughes v. Alexandria Scrap Corp., distinguishing it based on the presence of a trade barrier, and rebutting key points about state sovereignty and protectionism. It cites the same precedents and provides a detailed, focused rebuttal without shifting to unrelated issues."
+}

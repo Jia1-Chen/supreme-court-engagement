@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. Justice Thomas directly confronts the majority's statutory interpretation, arguing that the text 'any felony punishable under the Controlled Substances Act' does not contain the implied limitation 'as a felony' that the majority reads into it. He addresses the majority's textual analysis point-by-point, challenges its reliance on 'instinctive understanding' versus plain text, rebuts the majority's concerns about state-federal disparities, and directly engages with the specific anomalies the majority identifies (such as the marijuana possession example). The dissent uses the same statutory provisions, applies canons of construction to the same language, and systematically attempts to demonstrate why the majority's interpretation is flawed while defending the plain meaning approach. This represents thorough, direct engagement with the majority's core reasoning rather than talking past it."
+}
+```

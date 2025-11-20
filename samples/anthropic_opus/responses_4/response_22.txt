@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about extending FELA absolute liability principles to Coast Guard navigation regulations. It systematically addresses the majority's reliance on Safety Appliance Act and Boiler Inspection Act cases, analyzes the same precedents (Layton, Gotschall, Davis, Swinson, Coray, Urie), and provides detailed counterarguments about why these cases don't support the majority's conclusion. The dissent directly confronts the majority's interpretation of statutory purpose, the relationship between FELA and other safety statutes, and the scope of negligence liability. While the dissent does introduce some broader policy concerns about judicial lawmaking, the bulk of the opinion is devoted to rebutting the majority's specific legal arguments using the same doctrinal framework."
+}
+```

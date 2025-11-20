@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and thorough engagement with the majority opinion. Justice Souter directly addresses the majority's key arguments, including: (1) the majority's claim that the statute is not viewpoint-based (dissent argues it clearly is); (2) the majority's interpretation that diverse panel composition satisfies the statute (dissent rejects this as implausible); (3) the majority's reading of 'taking into consideration' as merely hortatory (dissent argues this is not a fair reading); (4) the majority's attempt to distinguish Rosenberger based on competitive vs. general funding (dissent extensively rebuts this distinction); and (5) the majority's refusal to apply overbreadth doctrine (dissent argues it clearly applies). The dissent cites the same precedents (Rosenberger, Rust, etc.), engages with the statutory text line-by-line, and systematically dismantles each of the majority's interpretive moves. This is a model of direct engagement where the dissent 'talks with' rather than 'talks past' the majority."
+}
+```

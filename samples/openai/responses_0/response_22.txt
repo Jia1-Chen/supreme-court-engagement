@@ -1,0 +1,3 @@
+Official Citation: 355 U.S. 426
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning. It accepts the same starting point (no unseaworthiness death remedy; Jones Act via FELA governs), addresses the majority’s use of the Safety Appliance and Boiler Inspection Act precedents, and argues those cases rest on a special statutory relationship and congressional intent not present here. It scrutinizes the same statutes (§§ 1, 3, 4 of FELA; 33 U.S.C. §§ 157–158), disputes the majority’s view that the nature of the violated Act is irrelevant, and rebuts the majority’s extension of strict liability beyond SAA/BIA by detailed precedent and textual analysis. This is a thorough, point-by-point rebuttal rather than talking past the majority."}

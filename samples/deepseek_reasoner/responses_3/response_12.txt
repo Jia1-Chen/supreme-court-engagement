@@ -1,0 +1,6 @@
+Official Citation: 512 U.S. 849
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing its textual interpretation of §§ 848(q)(4)(B) and 2251, rebutting key points such as the reliance on § 848(q)(9) for pre-application counsel and the linkage to stay jurisdiction, while citing the same statutes and precedents, and providing a detailed counter-argument without shifting to unrelated issues."
+}

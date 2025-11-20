@@ -1,0 +1,3 @@
+Official Citation: 422 U.S. 151
+
+{"score": 4, "reasoning": "Substantial engagement. The dissent directly contests the majority’s core reasoning about whether Aiken ‘performs,’ relying on and debating the same precedents (Fortnightly, Teleprompter, Buck, Herbert). It argues Aiken is more than a passive listener, emphasizes the broadcaster’s license limits, and claims Buck controls. However, it does not fully grapple with the majority’s practical-enforcement and multiple-licensing concerns, and leans heavily on calls for congressional action, so the engagement is significant but not exhaustive."}

@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's textual analysis, statutory interpretation arguments, and practical concerns. Justice Alito systematically responds to the majority's reasoning about the meaning of 'under,' the cross-reference to §1229(a), and the statutory context. He engages with the same precedents and statutory provisions while offering alternative interpretations. However, the dissent also introduces broader concerns about Chevron deference and administrative practicalities that somewhat shift focus from the core textual debate."
+}
+```

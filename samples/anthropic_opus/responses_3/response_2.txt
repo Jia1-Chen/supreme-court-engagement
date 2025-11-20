@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal framework regarding 'institutional good faith' versus individual agent motivation. Justice Stewart specifically critiques the majority's new test as 'unworkable' and argues the majority misreads Donaldson. The dissent addresses the same statutory provisions (§7602), precedents (Donaldson, Powell), and directly rebuts the majority's interpretation, though it also introduces some broader policy concerns about administrative efficiency. This represents substantial engagement with clear points of disagreement about the proper legal standard."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. In Part I, it directly challenges the majority's core holding that petitioner lacked standing because he had no legitimate expectation of privacy in Cox's purse, arguing this misreads Rakas and ignores a long tradition protecting property interests in seized items. The dissent meticulously traces precedent (Jeffers, Jones, Simmons) to rebut the majority's privacy-only approach. In Part II, it addresses the majority's fruit-of-the-poisonous-tree analysis, disagreeing with the conclusion that petitioner's statements were acts of free will. The dissent engages with the same cases and legal frameworks, though it also broadens to constitutional concerns about Fourth Amendment erosion. While some rhetorical flourishes suggest talking past (the Frankfurter quote about impediments to crime-fighting), the bulk of the opinion directly rebuts the majority's specific legal conclusions using shared precedents and statutory interpretations."
+}
+```

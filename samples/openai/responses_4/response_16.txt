@@ -1,0 +1,3 @@
+Official Citation: 455 U.S. 586
+
+{"score": 5, "reasoning": "The dissent squarely engages the majority’s two core premises: (1) reliance on Ross v. Moffitt to deny a right to counsel for discretionary review, which it challenges directly and alternatively accepts arguendo; and (2) the majority’s state-action rationale for rejecting a due process claim, which it rebuts by invoking Cuyler v. Sullivan and extending its logic to post-trial proceedings. It addresses the same authorities, explains why discretionary review matters, and proposes a specific remedial approach, demonstrating thorough, point-by-point engagement."}

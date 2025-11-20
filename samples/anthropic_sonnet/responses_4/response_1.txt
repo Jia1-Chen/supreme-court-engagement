@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Harlan directly addresses the majority's application of Segal v. Rochelle and Local Loan Co. v. Hunt, arguing that these precedents actually 'tend to support the position of the trustee rather than compel a decision for the bankrupt.' He engages with the specific facts (Frederick's accrual of vacation pay post-bankruptcy), challenges the majority's 'fresh start' analysis by noting that Frederick would accrue the same pay even starting fresh, and addresses the legal framework the majority employs. While he also raises procedural concerns about the Court's summary disposition and the unclear record, these do not detract from his substantive engagement with the majority's core legal reasoning. He doesn't offer a completely independent framework but rather argues the majority misapplied its own cited precedents."
+}
+```

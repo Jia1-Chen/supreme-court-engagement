@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the due process argument, citing shared precedents like United States v. Balint and Holmes' The Common Law, and challenging the distinction between active and passive conduct. However, it shifts focus to broader implications for other legislation and does not fully rebut the majority's specific notice requirements in criminal cases, such as those in Mullane v. Central Hanover Trust Co."
+}

@@ -1,0 +1,3 @@
+Official Citation: 556 U.S. 332
+
+{"score": 5, "reasoning": "The dissent engages point-by-point with the majority’s reasoning. It contests the majority’s reading of Belton and Thornton, argues the decision effectively overrules them, and applies the traditional stare decisis factors (reliance, changed circumstances, workability, consistency, reasoning) to rebut the majority’s rationale for change. It analyzes the same core precedents (Chimel, Belton, Thornton, Dickerson), challenges the majority’s safety/bright-line/privacy balance, and critiques the new two-part rule (time-of-search reachability and the “reason to believe” evidence-of-offense prong), including its standard and scope. This reflects sustained dialogue rather than talking past the majority."}

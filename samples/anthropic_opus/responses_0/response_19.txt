@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's central reasoning about striker replacements' union sentiments. Scalia systematically rebuts the majority's factual analysis, challenges their interpretation of Board precedents (Service Electric, Leveld Wholesale), and addresses the same legal framework of 'good-faith doubt' under §8(a)(5). While the dissent frames the issue differently (as a substantial evidence question rather than a presumption question), it thoroughly confronts the majority's core arguments about replacement workers' potential support for unions, the Board's policy rationales, and the standard of review. The extensive point-by-point refutation of the majority's reasoning demonstrates substantial engagement rather than talking past the majority."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 535 U.S. 789
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s core reasoning on §406(b), disputing the hybrid approach that starts with the contingent-fee agreement and adjusts for reasonableness. It addresses the same statutory text (“reasonable fee” and the 25% cap), challenges the majority’s historical point about 1965 and the lodestar’s later development, and rebuts the reliance on §406(a)’s contingent-fee authorization by noting the separate $5,300 cap. It also discusses the same fee-shifting precedents (Hensley, Burlington v. Dague) and the majority’s delay/windfall factors, offering an alternative lodestar-only rule. This is a detailed, point-by-point rebuttal showing strong engagement."}

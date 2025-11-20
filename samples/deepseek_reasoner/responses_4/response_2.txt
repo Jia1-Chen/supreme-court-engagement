@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's interpretation of Donaldson and the good-faith standard, citing the same precedents and statutes, and provides a rebuttal by arguing that the majority's 'institutional good faith' test is unworkable and unjustified. However, it introduces broader concerns about judicial process and statutory interpretation without fully addressing the majority's emphasis on the intertwined civil-criminal nature of tax investigations."
+}

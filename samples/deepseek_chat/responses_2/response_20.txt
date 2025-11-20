@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "Justice White's dissent demonstrates substantial engagement with the majority opinion by directly addressing key legal arguments, particularly regarding materiality under §1451(a) and the interpretation of §1101(f)(6). He responds to the majority's reasoning on whether visa-stage misrepresentations can 'procure' naturalization, critiques the majority's narrow focus on birthdate misrepresentations, and engages with the materiality standard. However, the dissent also introduces broader concerns about the case's factual context and the admissibility of Soviet depositions, which somewhat shifts focus from the core legal dialogue."
+}
+```

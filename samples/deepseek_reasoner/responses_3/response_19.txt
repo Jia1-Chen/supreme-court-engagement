@@ -1,0 +1,6 @@
+Official Citation: 494 U.S. 775
+
+{
+  "score": 5,
+  "reasoning": "Justice Scalia's dissent directly engages with the majority's reasoning by addressing specific legal arguments, such as the rationality of the NLRB's no-presumption approach and policy considerations, cites the same precedents (e.g., Service Electric and Leveld Wholesale), and provides a detailed rebuttal to key points like the inherent conflict between strikers and replacements, demonstrating thorough and meaningful dialogue."
+}

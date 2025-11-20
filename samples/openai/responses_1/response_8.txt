@@ -1,0 +1,3 @@
+Official Citation: 421 U.S. 542
+
+{"score": 5, "reasoning": "The dissent squarely engages the majority’s core reasoning. It accepts statutory coverage but disputes the constitutional holding, directly addressing the majority’s reliance on Maryland v. Wirtz and United States v. California, critiquing their analytical foundations, and arguing why they should be limited or reconsidered. It discusses the Commerce Clause, the Tenth Amendment, and the Supremacy Clause in the same framework, responds to the emergency rationale, and proposes a limiting principle (traditional governmental functions). The dissent cites and analyzes the same key precedents and offers a detailed rebuttal, showing strong dialogue rather than talking past the majority."}

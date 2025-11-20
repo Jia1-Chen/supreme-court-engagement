@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's three main arguments about why attorney's fees should not be recoverable. It specifically rebuts: (1) the majority's characterization of §107 as creating only an 'implied' right of action, arguing instead it's express; (2) the majority's negative inference from attorney's fees being mentioned elsewhere in SARA; and (3) the majority's interpretation that 'enforcement activities' doesn't encompass private cost recovery actions. The dissent quotes the same statutory provisions (§§107, 113, 101(25)) and addresses the same precedent (Runyon, Alyeska). While introducing some broader interpretive arguments about what constitutes 'explicit' authorization, the dissent maintains focus on directly countering the majority's specific reasoning throughout."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 140 S. Ct. 1308
+
+{"score": 3, "reasoning": "The dissent engages the majority only on the Tucker Act question (Part IV), accepting the majority’s statutory-obligation and implied-repeal analysis arguendo. It challenges the legitimacy of the “money-mandating” test and contends it conflicts with modern implied-right-of-action jurisprudence (Sandoval, Ziglar, Hernández), citing Testan and White Mountain Apache. But it largely reframes the issue at a high level, calls for reargument, and does not directly rebut the majority’s detailed application (e.g., Bowen distinction, lack of alternate remedial scheme, APA inapplicability) or its “shall pay” analysis. Hence, moderate engagement overall."}

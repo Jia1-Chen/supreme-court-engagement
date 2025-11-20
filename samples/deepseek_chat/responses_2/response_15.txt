@@ -1,0 +1,8 @@
+Official Citation: 138 S. Ct. 2105
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's textual analysis, statutory interpretation, and practical arguments. Justice Alito systematically rebuts the majority's reading of 'notice to appear,' challenges the interpretation of 'under,' engages with the same statutory provisions and precedents, and directly responds to the majority's concerns about practical consequences. The dissent maintains continuous dialogue with the majority's reasoning throughout."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 455 U.S. 586
+
+{"score": 5, "reasoning": "The dissent directly engages the majority’s two core holdings. It challenges the majority’s reliance on Ross v. Moffitt (no right to counsel for discretionary review) and, even assuming Ross, squarely addresses the majority’s due process/state action rationale by invoking Cuyler v. Sullivan and arguing that post-trial proceedings are part of state action. It responds to the majority’s specific point that the deprivation was caused by private counsel, not the State, and proposes a concrete due process remedy. The dissent cites the same key precedents and offers detailed rebuttals, reflecting strong engagement."}

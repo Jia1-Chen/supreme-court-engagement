@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's core legal analysis. While it references the same case (Young v. American Mini Theatres) and acknowledges First Amendment protections, it largely ignores the majority's detailed scrutiny of the ordinance's overbreadth, lack of narrow tailoring, and failure to meet time-place-manner requirements. The dissent focuses instead on community autonomy and residential character, creating parallel arguments rather than directly rebutting the majority's constitutional analysis of why this specific ordinance fails."
+}
+```

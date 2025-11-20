@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with all three core arguments from the majority opinion. Scalia rebuts the majority's characterization of §107 as creating only an 'implied' right of action, addresses the majority's 'explicit authorization' requirement by arguing that 'enforcement activities' is sufficiently explicit, and confronts the majority's negative inference from other SARA provisions. The dissent also directly challenges the majority's interpretation of 'enforcement activities' as excluding private cost recovery actions. While the dissent focuses primarily on statutory interpretation rather than broader policy concerns, it maintains a sustained dialogue with the majority's specific legal reasoning throughout."
+}
+```

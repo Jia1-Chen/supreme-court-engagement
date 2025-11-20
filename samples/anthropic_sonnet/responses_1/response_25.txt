@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's reliance on Alexandria Scrap, providing its own interpretation of that precedent and explaining why it should lead to a different result. The dissent responds to the majority's market participant/market regulator distinction, arguing that states cannot be equated with private actors. It also directly rebuts the majority's attempt to distinguish natural resources cases and addresses the majority's policy concerns about state sovereignty. While the dissent emphasizes different constitutional values (free trade vs. state sovereignty), it does so while systematically engaging with the majority's framework, precedents, and specific arguments. The dissent's alternative interpretation of Alexandria Scrap and its direct response to the majority's distinctions demonstrate meaningful dialogue rather than talking past the majority."
+}
+```

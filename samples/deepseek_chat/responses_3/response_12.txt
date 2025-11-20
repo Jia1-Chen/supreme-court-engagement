@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+    "score": 5,
+    "reasoning": "Justice Thomas's dissent demonstrates strong engagement by directly addressing the majority's statutory interpretation of §§ 848(q)(4)(B) and 2251, rebutting the majority's reliance on § 848(q)(9) and policy arguments, and emphasizing textual analysis and the habeas statute's established framework. The dissent systematically counters the majority's reasoning, cites the same precedents, and highlights procedural inconsistencies, showing a thorough and meaningful dialogue."
+}
+```

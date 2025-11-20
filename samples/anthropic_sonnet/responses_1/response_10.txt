@@ -1,0 +1,26 @@
+Official Citation: 424 U.S. 507
+
+Looking at this case, I need to evaluate how directly Justice Marshall's dissent engages with the majority opinion written by Justice Stewart.
+
+**Analysis:**
+
+The dissent engages with the majority on multiple levels:
+
+1. **Procedural Engagement**: Marshall directly challenges the majority's decision to reach the constitutional question at all. He argues the case was decided below on purely statutory (NLRA § 7) grounds, not First Amendment grounds, and criticizes the Court for "bypassing" the statutory question to "overrule a constitutionally based decision." This is direct engagement with the majority's approach.
+
+2. **Statutory Analysis**: Marshall addresses the statutory question (Part II of his dissent) that the majority remands, applying the Babcock & Wilcox standard and explaining why alternative means of communication were inadequate. This responds to the majority's framework while offering his own analysis.
+
+3. **Constitutional Engagement**: In Part III, Marshall directly confronts the majority's overruling of Logan Valley. He:
+   - Argues Logan Valley and Lloyd Corp. are reconcilable (contrary to the majority's position)
+   - Responds to the majority's interpretation of these precedents
+   - Addresses the majority's reliance on Marsh v. Alabama
+   - Directly rebuts the majority's concern about content-based distinctions, calling the Court's citation of cases like Mosley "inapposite" and "ironic"
+   - Engages with the majority's formalistic view of private property rights
+
+4. **Direct Rebuttal**: Marshall explicitly states "I simply cannot reconcile the Court's denial of any role for the First Amendment in the shopping center with Marsh's recognition..." - this is direct engagement.
+
+However, there is some divergence: Marshall spends considerable effort on why the Court shouldn't have reached the constitutional question at all, which is somewhat tangential to the majority's substantive analysis. But once he addresses the merits (Part III), he thoroughly engages with the majority's reasoning about Logan Valley, Lloyd, and the First Amendment.
+
+The dissent substantially addresses the majority's key points while also raising procedural objections. It's not a complete point-by-point rebuttal, but it meaningfully engages with the core reasoning.
+
+{"score": 4, "reasoning": "The dissent substantially engages with the majority's reasoning, directly addressing the constitutional analysis and interpretation of Logan Valley, Lloyd, and Marsh. Marshall rebuts key points about shopping centers as public forums and responds to the majority's concerns about content-based distinctions. However, he also devotes significant attention to the procedural question of whether the Court should reach the constitutional issue at all, and offers his own independent statutory analysis, which somewhat dilutes the direct engagement with the majority's substantive constitutional holding."}

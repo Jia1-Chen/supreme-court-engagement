@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points, such as the extension of Younger to civil proceedings, the requirement to exhaust state appellate remedies, and the impact on §1983 actions. It cites the same precedents (e.g., Younger, Mitchum, Monroe) and statutes, providing a detailed rebuttal that challenges the majority's reliance on comity and federalism. However, it also introduces broader concerns about congressional intent and historical context, which slightly shifts focus beyond pure rebuttal."
+}

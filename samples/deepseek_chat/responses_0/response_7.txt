@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 225
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the due process and notice arguments, citing the same precedents (United States v. Balint, Holmes' Common Law), and challenging the majority's distinction between active conduct and passive omission. However, it also introduces broader concerns about the decision's impact on regulatory legislation and characterizes it as an isolated deviation rather than focusing exclusively on rebutting all specific points."
+}

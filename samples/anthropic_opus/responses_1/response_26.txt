@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's three main arguments: (1) challenging the majority's characterization of §107 as creating only an 'implied' rather than 'express' cause of action; (2) rebutting the majority's negative inference from attorney's fees provisions elsewhere in SARA; and (3) directly contesting the majority's interpretation of 'enforcement activities.' The dissent addresses the same statutory provisions (§§107, 113, 101(25)), discusses the same precedent (Runyon, Alyeska), and provides point-by-point rebuttals. While the dissent introduces some independent examples (like references to 'enforceable contracts'), these serve to counter the majority's reasoning rather than shift to a different framework."
+}
+```

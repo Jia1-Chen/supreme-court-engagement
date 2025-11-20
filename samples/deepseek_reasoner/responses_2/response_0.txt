@@ -1,0 +1,6 @@
+Official Citation: 448 U.S. 98
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key points, such as the interpretation of Rakas v. Illinois and the Fourth Amendment's protection of property interests. It cites the same precedents (e.g., Jeffers, Jones, Simmons) and provides a detailed rebuttal, demonstrating meaningful dialogue rather than talking past."
+}

@@ -1,0 +1,3 @@
+Official Citation: 535 U.S. 789
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s central holding that §406(b) gives primacy to contingent-fee agreements subject to reasonableness review. It argues for a lodestar baseline, critiques the Court’s hybrid approach as unworkable, and addresses the same statutory text, legislative backdrop, and precedents (e.g., Hensley, Dague). It responds point-by-point: ex ante vs. ex post reasonableness, the 1965 enactment and later-developed lodestar, the adhesion-like nature of Social Security fee contracts, the 1990 §406(a) cap, and the treatment of delay. This is a detailed rebuttal using the majority’s framework and authorities, reflecting meaningful dialogue."}

@@ -1,0 +1,6 @@
+Official Citation: 365 U.S. 167
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Frankfurter demonstrates strong engagement with the majority opinion by directly addressing its core reasoning on the meaning of 'under color of' law under R.S. § 1979. It thoroughly rebuts the majority's interpretation by examining the same legislative history, statutory language, and precedents (e.g., United States v. Classic, Screws v. United States), while providing a detailed counterargument based on the original intent of the Ku Klux Act of 1871 and concerns for federalism. The dissent does not ignore key points but systematically challenges the majority's expansion of federal jurisdiction over state officer misconduct unauthorized by state law."
+}

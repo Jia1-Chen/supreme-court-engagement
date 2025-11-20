@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Frankfurter directly addresses the majority's interpretation of 'under color of law,' examining the same legislative history of the Civil Rights Acts (particularly the Ku Klux Act of 1871) and engaging with the same precedents (Classic, Screws, Williams). The dissent provides detailed rebuttal to the majority's construction of the statute, arguing that the phrase 'under color of law' should be limited to conduct authorized by state law rather than conduct merely performed by state officials in violation of state law. While the dissent introduces broader federalism concerns and policy considerations about the appropriate role of federal vs. state courts, these are directly responsive to the majority's expansion of federal jurisdiction. The dissent meticulously works through the legislative debates and history that the majority also examines, reaching opposite conclusions about congressional intent. The engagement is not quite a '5' because the dissent does spend considerable space on federalism principles and policy arguments that extend somewhat beyond pure textual rebuttal, but the core disagreement is clearly framed as a direct response to the majority's statutory interpretation."
+}
+```

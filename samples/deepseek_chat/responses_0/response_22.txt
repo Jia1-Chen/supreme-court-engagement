@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing the key legal arguments, citing the same precedents (Safety Appliance Act and Boiler Inspection Act cases), and providing a detailed rebuttal that challenges the majority's extension of absolute liability principles to the Coast Guard regulation under the Jones Act. It systematically contrasts the statutory relationships and congressional intent, demonstrating meaningful dialogue rather than talking past the majority."
+}

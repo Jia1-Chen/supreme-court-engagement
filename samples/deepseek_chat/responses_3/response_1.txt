@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's reliance on Segal v. Rochelle and Local Loan Co. v. Hunt by suggesting these precedents actually support the trustee's position, but it primarily focuses on procedural concerns (summary disposition, opaque record, and unresolved California law) and the need for full argument rather than engaging deeply with the majority's reasoning about the nature of vacation pay as property or the fresh start policy. The dissent introduces independent arguments about factual uncertainties and circuit splits, showing minimal direct engagement with the core legal analysis."
+}

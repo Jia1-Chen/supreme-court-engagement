@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+"score": 4,
+"reasoning": "The dissent substantially engages with the majority's reasoning. Justice Brennan directly challenges the majority's extension of Younger v. Harris from criminal to civil proceedings, addresses the majority's characterization of the state proceeding as 'closely related to criminal statutes,' and specifically rebuts the implications for 42 U.S.C. § 1983 actions and Monroe v. Pape. The dissent cites the same key precedents (Younger, Mitchum v. Foster, Monroe v. Pape) and directly confronts the majority's exhaustion requirement and federalism concerns. While the dissent also introduces broader policy concerns about the Anti-Injunction Act's history and congressional intent behind § 1983, these arguments are deployed specifically to counter the majority's holdings rather than simply talking past them. The dissent could score a 5 if it engaged even more granularly with the majority's specific doctrinal moves, but it provides substantial point-by-point engagement with the core legal reasoning."
+}

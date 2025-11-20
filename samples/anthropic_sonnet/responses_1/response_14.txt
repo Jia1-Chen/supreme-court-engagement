@@ -1,0 +1,8 @@
+Official Citation: 481 U.S. 520
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's application of the Rhode Island v. Innis standard for 'interrogation,' challenges the majority's interpretation of the factual record (particularly regarding advance warning and police intent), and disputes the majority's conclusion that no 'functional equivalent' of interrogation occurred. The dissent quotes the same precedents (Miranda, Innis, Edwards), analyzes the same legal framework, and systematically rebuts the majority's key points—including the characterization of police intent, the relevance of security concerns, and whether the suspect felt coerced. While the dissent emphasizes different aspects of the record and reaches opposite conclusions about police intent, it remains firmly grounded in responding to the majority's specific arguments rather than introducing an entirely separate legal framework. The engagement is not quite a '5' because the dissent does introduce some broader institutional concerns (about Supreme Court review of state court factual findings) that go beyond direct rebuttal of the majority's core legal reasoning."
+}
+```

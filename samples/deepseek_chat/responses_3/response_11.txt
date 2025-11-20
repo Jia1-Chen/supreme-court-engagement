@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's core reasoning about the 'amount of power' versus 'quality of power' distinction, responding to the majority's statutory interpretation of Sections 5(d)(1)(A) and (B), and engaging with the same legislative history and precedents. However, it also introduces some independent arguments about BPA's inconsistent interpretations and broader policy concerns, which slightly reduces the focus on direct rebuttal of all majority points."
+}
+```

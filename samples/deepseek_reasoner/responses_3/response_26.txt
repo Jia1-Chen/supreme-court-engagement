@@ -1,0 +1,6 @@
+Official Citation: 511 U.S. 809
+
+{
+  "score": 5,
+  "reasoning": "Justice Scalia's dissent thoroughly engages with the majority's reasoning by directly addressing all three key arguments: (1) disputing the characterization of the cause of action as implied and arguing it is express, (2) countering the need for explicit 'attorney's fees' language by asserting 'enforcement activities' is sufficiently explicit, and (3) providing an alternative interpretation of 'enforcement activities' to include private actions. The dissent cites the same statutory provisions (§ 107, § 101(25)) and precedents (Alyeska, Runyon) and offers a point-by-point rebuttal, demonstrating a detailed and meaningful dialogue."
+}

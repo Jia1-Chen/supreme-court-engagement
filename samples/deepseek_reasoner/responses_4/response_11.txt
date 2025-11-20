@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points such as the 'amount of power' vs. 'quality' distinction, legislative history, and deference to the Administrator. It cites the same statutory provisions and some precedents, providing a detailed rebuttal. However, it also introduces broader concerns like rate implications and questions the significance of second quartile changes, which slightly shifts focus from the core arguments."
+}

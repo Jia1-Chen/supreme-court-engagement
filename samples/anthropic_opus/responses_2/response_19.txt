@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning throughout. Scalia systematically addresses the majority's key arguments about strike replacements' union sentiments, the Board's no-presumption approach, and policy considerations. He directly quotes and rebuts specific passages from the majority opinion (e.g., responding to the majority's economic concerns argument, the claim that unions don't inevitably demand displacement, and policy rationales). The dissent uses the same legal framework (substantial evidence review, Board precedents like Station KKHI, Service Electric) and explicitly counters the majority's interpretation of these authorities. This represents the highest level of substantive dialogue between opinions."
+}
+```

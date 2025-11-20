@@ -1,0 +1,6 @@
+Official Citation: 499 U.S. 621
+
+{
+"score": 4,
+"reasoning": "The dissent substantially engages with the majority's reasoning. Justice Stevens directly addresses the majority's central argument that common-law definitions of arrest and seizure should control Fourth Amendment analysis. He systematically rebuts the majority's reliance on common law by invoking Katz v. United States and Terry v. Ohio to show the Court has moved beyond narrow common-law definitions. He directly confronts the majority's interpretation of the Mendenhall test, arguing the majority incorrectly treats it as only a necessary (not sufficient) condition for seizure. The dissent also engages with the majority's specific examples and hypotheticals, including the Brower and Hester cases. While the dissent does introduce broader policy concerns about police conduct and civil liberties, these arguments are framed as consequences of the majority's interpretation rather than wholly independent grounds. The dissent maintains focus on the core disagreement: whether a seizure occurs when an officer makes a show of authority that a reasonable person would not feel free to disregard, even if the person does not submit."
+}

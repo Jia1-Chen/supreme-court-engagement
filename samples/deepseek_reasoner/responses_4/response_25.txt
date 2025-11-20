@@ -1,0 +1,6 @@
+Official Citation: 447 U.S. 429
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points such as the market participant doctrine from Hughes v. Alexandria Scrap Corp., distinguishing it on the grounds that South Dakota's policy creates a trade barrier rather than merely subsidizing in-state interests. It rebuts the majority's arguments about protectionism, natural resources, and state sovereignty, while citing the same precedents. However, it also introduces broader concerns about the distinction between state as government and state as trader, which slightly shifts focus but remains responsive to the majority's framework."
+}

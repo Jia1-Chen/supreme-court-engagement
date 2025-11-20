@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent exhibits strong, direct engagement with the majority's reasoning. Justice Thomas systematically addresses the majority's key points: (1) directly challenges the majority's interpretation of 'felony punishable under the CSA' by arguing the plain text doesn't support adding 'as a felony'; (2) confronts the majority's reliance on ordinary meaning of 'illicit trafficking' and points out inconsistencies in the majority's own logic regarding possession offenses; (3) responds to the majority's statutory interpretation arguments about other sections of §924; (4) addresses the majority's concerns about anomalies and state-federal disparities; and (5) rebuts the majority's use of the penultimate sentence of §1101(a)(43). The dissent uses the same statutory provisions, engages with the same precedents, and provides point-by-point refutation of the majority's textual and consequentialist arguments. This represents thorough dialogic engagement rather than talking past the majority."
+}
+```

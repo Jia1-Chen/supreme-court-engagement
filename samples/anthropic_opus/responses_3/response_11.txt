@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments about the meaning of 'amount of power' versus 'quality' of power, analyzes the same statutory provisions (§5(d)(1)(A) and §5(d)(1)(B)), and systematically rebuts the majority's interpretation of interruptibility provisions. While the dissent introduces some broader policy concerns about DSI rate subsidies, it primarily focuses on contesting the majority's specific legal reasoning about statutory interpretation and the Administrator's authority, making this substantial engagement with the majority opinion."
+}
+```

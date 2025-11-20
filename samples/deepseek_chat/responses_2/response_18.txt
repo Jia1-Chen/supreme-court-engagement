@@ -1,0 +1,6 @@
+Official Citation: 549 U.S. 47
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's statutory interpretation arguments, citing the same statutory provisions and precedents, and systematically rebutting the majority's reasoning point by point, including textual analysis, structural arguments, and policy concerns."
+}

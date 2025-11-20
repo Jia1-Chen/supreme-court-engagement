@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key points such as the interpretation of Donaldson v. United States, the good-faith requirement, and the introduction of the 'institutional good faith' test. It cites the same precedents (e.g., Donaldson, Powell) and statutory framework, providing a detailed rebuttal that challenges the majority's approach as unworkable and unjustified, demonstrating strong and thorough engagement."
+}

@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+    "score": 5,
+    "reasoning": "The dissent demonstrates strong engagement by directly addressing all three of the majority's key arguments: (1) it challenges the characterization of §107 as creating only an 'implied' right of action, arguing it expressly creates a cause of action; (2) it rebuts the majority's 'explicit authorization' requirement by arguing 'enforcement activities' naturally includes attorney's fees without needing magic words; and (3) it directly counters the majority's interpretation of 'enforcement activities' by providing alternative definitions and examples. The dissent systematically responds to each major point using the same statutory provisions and precedents."
+}
+```

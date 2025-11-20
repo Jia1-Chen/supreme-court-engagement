@@ -1,0 +1,6 @@
+Official Citation: 365 U.S. 167
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Frankfurter thoroughly engages with the majority's reasoning by directly addressing the key statutory interpretation of 'under color of' law, citing the same precedents (e.g., United States v. Classic, Screws v. United States) and legislative history of the Ku Klux Act of 1871. It provides a detailed rebuttal by arguing that Congress intended the statute to cover only state-sanctioned actions, not lawless conduct, and challenges the majority's reliance on prior cases as flawed. The dissent does not ignore the majority's points but systematically counters them with historical and federalism concerns, demonstrating meaningful dialogue."
+}

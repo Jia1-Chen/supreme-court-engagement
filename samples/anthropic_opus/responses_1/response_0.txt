@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holdings and reasoning. Marshall systematically addresses: (1) the majority's interpretation of Rakas and its application to property interests vs. privacy interests, citing the same cases (Jones, Simmons, Jeffers) but arguing for opposite conclusions; (2) the majority's analysis of whether petitioner's statements were fruit of illegal detention, directly disputing the majority's application of Brown v. Illinois factors; and (3) the fundamental question of Fourth Amendment scope. While the dissent also raises broader constitutional concerns about erosion of Fourth Amendment protections, it primarily focuses on rebutting the majority's specific legal arguments using the same precedents and analytical framework."
+}
+```

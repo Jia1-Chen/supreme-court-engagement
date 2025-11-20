@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's key arguments, including its reliance on FELA precedents like Layton and Urie, and statutory interpretations. It provides a detailed rebuttal by emphasizing the unique relationship between FELA and specific safety statutes, arguing that the Coast Guard regulation lacks similar congressional intent for absolute liability. The dissent cites the same legal framework and precedents, showing a thorough and meaningful dialogue with the majority's reasoning."
+}

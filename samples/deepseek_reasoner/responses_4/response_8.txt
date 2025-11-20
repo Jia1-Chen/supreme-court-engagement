@@ -1,0 +1,6 @@
+Official Citation: 421 U.S. 542
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Rehnquist demonstrates strong engagement by directly addressing the majority's key arguments, including statutory interpretation under the Economic Stabilization Act and constitutional analysis under the Commerce Clause and Tenth Amendment. It thoroughly critiques the majority's reliance on precedents like Maryland v. Wirtz and United States v. California, provides a detailed rebuttal of the intergovernmental immunity reasoning, and engages with the same legal framework while advocating for a re-examination of foundational cases to protect state sovereignty."
+}

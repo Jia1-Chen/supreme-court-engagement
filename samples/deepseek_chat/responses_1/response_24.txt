@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core legal reasoning about Section 2 Seventh of the Railway Labor Act, specifically challenging the majority's interpretation that courts can authorize contract changes during strikes. Justice White systematically rebuts the majority's balancing of carrier self-help against statutory restrictions, cites the same key precedent (Steele), and argues the majority's approach effectively undermines congressional intent regarding strikes and bargaining procedures."
+}

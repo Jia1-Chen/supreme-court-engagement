@@ -1,0 +1,8 @@
+Official Citation: 384 U.S. 238
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's core reasoning and directly challenges its interpretation of Section 2 Seventh of the Railway Labor Act. Justice White acknowledges the majority's position ('The Court agrees that § 2 Seventh forbids the carrier itself to make any changes...') and then systematically rebuts it, arguing that the court-authorized exception contradicts the 'unequivocal language' of the statute. The dissent addresses the majority's concerns about the carrier's duty to operate and the public service aspects, explicitly noting 'as the majority recognizes, no such duty has been placed on the railroads.' It also engages with the policy considerations underlying the Act, including Congress's rejection of compulsory arbitration. The dissent does introduce some broader concerns about congressional policy and expert supervision, and notes practical consequences (strike prolongation), which prevents it from being a perfect score 5, but overall it provides a detailed, point-by-point rebuttal grounded in the same statutory framework."
+}
+```

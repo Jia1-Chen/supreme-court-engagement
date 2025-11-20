@@ -1,0 +1,8 @@
+Official Citation: 447 U.S. 429
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's reliance on Alexandria Scrap, providing a detailed rebuttal of how that case should be interpreted (arguing it involved a two-step analysis where no burden on commerce was found). The dissent responds to the majority's market participant/market regulator distinction, arguing it's a 'pretense' to equate state action with private business. It also challenges the majority's attempts to distinguish natural resources cases and addresses the majority's concerns about state sovereignty. While the dissent does introduce its own framework emphasizing 'integral governmental operations' versus market participation, this is offered as a direct counter to the majority's approach rather than talking past it. The dissent engages with most of the majority's key arguments, though it emphasizes different constitutional values (preventing economic Balkanization) more than exploring every nuance of the majority's position."
+}
+```

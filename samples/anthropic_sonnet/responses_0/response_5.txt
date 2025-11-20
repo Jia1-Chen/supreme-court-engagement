@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Rehnquist directly addresses the majority's core analytical framework, particularly its reliance on the Sixth Amendment 'fair cross-section' requirement versus equal protection analysis. He challenges the majority's treatment of this case as an 'exclusion' case when 15% of women are represented, distinguishes it from Taylor, and critiques the majority's statistical approach and its practical implications for state jury systems. The dissent also engages with the majority's key precedents (Taylor, Ballard, Smith) and questions the coherence of the 'fair cross-section' doctrine itself. While the dissent introduces broader concerns about administrative burdens and questions the underlying constitutional framework more fundamentally than the majority, it does so while directly responding to the majority's specific arguments, statutory interpretations, and holdings. The extensive engagement with the majority's reasoning in footnote 1 of the dissent particularly demonstrates substantive dialogue, even as Rehnquist argues the majority's approach is fundamentally flawed."
+}

@@ -1,0 +1,6 @@
+Official Citation: 512 U.S. 849
+
+{
+  "score": 5,
+  "reasoning": "The dissent by Justice Thomas directly and thoroughly engages with the majority's reasoning, addressing key statutory interpretations (e.g., §§ 848(q)(4)(B), 2251, 2254), critiquing the majority's reliance on practical concerns over textual analysis, and rebutting points such as the initiation of habeas proceedings and the interplay between statutes. It cites the same precedents and legal frameworks, providing a detailed rebuttal that demonstrates meaningful dialogue without shifting focus to unrelated issues."
+}

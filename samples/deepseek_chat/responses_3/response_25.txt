@@ -1,0 +1,6 @@
+Official Citation: 447 U.S. 429
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning, particularly the market participant doctrine from Hughes v. Alexandria Scrap. It systematically rebuts the majority's application of this precedent, distinguishes the facts of Alexandria Scrap, and challenges the majority's characterization of cement production versus natural resources. The dissent consistently references the same constitutional principles and precedents while offering a detailed alternative framework for when state proprietary activities should be subject to Commerce Clause scrutiny."
+}

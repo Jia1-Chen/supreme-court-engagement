@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core arguments about abstention doctrine, judicial efficiency, and federal-state comity. Justice Clark specifically addresses the majority's claim that abstention would cause 'added expense' and 'prolonged denial,' arguing the opposite is true. He directly contests the majority's interpretation of how the dual proceedings would work, challenges their view on comity satisfaction, and provides a detailed rebuttal about why 'exceptional circumstances' do exist here. While the dissent does introduce some independent practical concerns about case management, it maintains substantial dialogue with the majority's legal framework and reasoning throughout."
+}
+```

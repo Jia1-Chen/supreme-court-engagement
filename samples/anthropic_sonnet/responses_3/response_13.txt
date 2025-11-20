@@ -1,0 +1,8 @@
+Official Citation: 365 U.S. 167
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Frankfurter directly addresses the majority's central holding regarding the 'under color of law' requirement in Section 1979, extensively analyzes the same legislative history of the Ku Klux Act of 1871, and challenges the majority's interpretation of the Classic and Screws precedents. The dissent examines the same statutory language and debates that the majority relies upon, but reaches opposite conclusions about congressional intent. While the dissent does introduce some broader federalism concerns and policy considerations about the proper division between state and federal courts, these arguments are deployed as part of a direct rebuttal to the majority's construction of the statute. The dissent explicitly criticizes the majority's reading of the legislative history and offers detailed alternative interpretations of the same sources. This represents more than minimal engagement, though the dissent's extensive independent analysis of federalism principles and alternative frameworks prevents it from achieving the 'strong engagement' of a score of 5."
+}
+```

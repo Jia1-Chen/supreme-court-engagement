@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Strong engagement. The dissent directly rebuts the majority’s core holdings: it disputes the majority’s characterization of §954(d)(1) as merely hortatory, challenges the panel-diversity compliance reading, and argues that even ‘considering’ decency/respect is viewpoint discrimination. It counters the majority’s Rust/Rosenberger framework by asserting that NEA funding is patronage of private speech and that Rosenberger controls despite scarcity/competition. It also addresses facial challenge standards by invoking the First Amendment overbreadth doctrine, and even agrees with the majority on vagueness, showing direct dialogue. The dissent cites and analyzes the same precedents (Rosenberger, Rust, Regan, Leathers, Pacifica, Reno, Lakewood, Forsyth), offering detailed, case-specific rebuttals throughout."
+}

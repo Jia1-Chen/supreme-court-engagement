@@ -1,0 +1,3 @@
+Official Citation: 355 U.S. 426
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly confronts the majority’s core move—extending FELA’s strict-liability doctrine from Safety Appliance/Boiler Inspection Act violations to a Coast Guard navigation rule. It uses the same precedents (Layton, Gotschall, Wolfe, Swinson, Coray, Urie, Wagner, Carter, O’Donnell), parses FELA §§1, 3, 4 and the navigation statute (§§157–158), and argues congressional intent confines non-negligence liability to the safety statutes. It also addresses and rebuts the majority’s rejection of the Gorris v. Scott limitation and its broader policy about evolving FELA remedies. This is a detailed, point-by-point rebuttal, not talking past the majority."}

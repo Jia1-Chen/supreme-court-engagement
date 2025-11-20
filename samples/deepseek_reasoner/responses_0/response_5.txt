@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the definition of 'systematic exclusion,' the fair-cross-section test from Taylor, and the justification standard, while critiquing the hybrid doctrine. However, it also introduces broader concerns about practical implications and equal protection, which shifts some focus away from pure rebuttal."
+}

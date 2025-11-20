@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the extension of Younger to civil proceedings, critiquing the majority's reliance on comity and federalism, and challenging the new exhaustion requirement for §1983 actions. It references shared precedents like Mitchum v. Foster and Monroe v. Pape to rebut the majority's conclusions, though it also introduces broader concerns about congressional intent and historical context."
+}

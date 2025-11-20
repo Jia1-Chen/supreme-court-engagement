@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. Justice Alito directly addresses the majority's core holding regarding the 'money-mandating' test under the Tucker Act, challenging the framework the majority uses to infer a private right of action. The dissent engages with the same precedents (Testan, White Mountain Apache Tribe, Bowen v. Massachusetts) and statutory provisions that the majority discusses. It attempts to create tension between the majority's approach and recent Supreme Court precedents on implied rights of action (Comcast, Hernández, Sandoval). The dissent also responds to specific arguments in the majority opinion through footnotes. However, the dissent does not extensively engage with Parts I-III of the majority opinion (explicitly stating agreement 'for the sake of argument'), focusing instead on Part IV regarding the Tucker Act remedy. This selective engagement, while still substantive, prevents a score of 5."
+}
+```

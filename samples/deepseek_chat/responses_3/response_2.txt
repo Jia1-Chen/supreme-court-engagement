@@ -1,0 +1,6 @@
+Official Citation: 437 U.S. 298
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement by directly addressing the majority's core reasoning, statutory interpretation, and precedential analysis. It specifically critiques the majority's 'institutional good faith' standard as unworkable, contrasts it with the 'objective test' from Donaldson, and engages with the same statutory framework and case law (including Powell and Morgan Guaranty) while offering a detailed rebuttal of the majority's approach."
+}

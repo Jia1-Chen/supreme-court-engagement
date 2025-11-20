@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly and extensively engages with the majority's core reasoning about when a 'seizure' occurs under the Fourth Amendment. Justice Stevens systematically rebuts the majority's reliance on common law definitions, directly addresses their interpretation of Terry and Mendenhall, and challenges their distinction between touching and show of authority. The dissent quotes specific passages from the majority opinion, analyzes the same precedents (Terry, Katz, Mendenhall, Brower), and provides detailed counter-arguments to the majority's central holding that submission is required for a seizure to occur. While the dissent also raises broader policy concerns about the decision's implications, the primary focus is a point-by-point rebuttal of the majority's legal framework."
+}
+```

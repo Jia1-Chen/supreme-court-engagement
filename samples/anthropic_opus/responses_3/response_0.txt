@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core holdings and reasoning. Marshall systematically addresses the majority's interpretation of Rakas v. Illinois, challenges their reading of precedents like Jones and Jeffers, and directly confronts their analysis of both the standing issue and the fruit-of-the-poisonous-tree doctrine. The dissent quotes specific language from the majority opinion, cites the same cases, and provides detailed counterarguments to the majority's legal framework. While the dissent also raises broader concerns about Fourth Amendment protections, it maintains substantial engagement with the majority's specific reasoning throughout."
+}
+```

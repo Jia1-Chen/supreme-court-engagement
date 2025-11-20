@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's legal framework. While both opinions discuss the same ordinance and First Amendment issues, the dissent largely talks past the majority's core reasoning. The majority conducts a detailed analysis of the ordinance's overbreadth, examines the Borough's justifications, and applies strict First Amendment scrutiny. The dissent, however, reframes the case narrowly as being only about nude dancing in an adult bookstore, dismisses overbreadth concerns, and relies on community values and local control arguments that don't directly rebut the majority's constitutional analysis. The dissent acknowledges Young v. American Mini Theatres but doesn't engage with the majority's distinction of that case. It briefly references the majority's position but primarily advances an independent framework based on local autonomy rather than addressing the majority's specific First Amendment doctrinal points."
+}
+```

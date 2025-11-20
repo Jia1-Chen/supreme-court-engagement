@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's reliance on Segal and Local Loan Co. but primarily focuses on procedural concerns (summary disposition, opaque record) and California law uncertainties. It does not substantially engage with the majority's core reasoning about vacation pay's role in wage earners' fresh start or the economic survival analysis."
+}

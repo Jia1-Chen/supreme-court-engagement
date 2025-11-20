@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent strongly engages with the majority opinion, directly addressing and rebutting its key arguments. Justice Souter systematically challenges the majority's three main interpretations: (1) that the statute is not viewpoint-based, (2) that diverse panels satisfy the statute, and (3) that 'taking into consideration' creates no constitutional problem. The dissent cites the same precedents (Rosenberger, Rust v. Sullivan, R.A.V.) and directly contests the majority's application of them. It addresses the majority's competition/scarcity distinction, its educational program examples, and its reluctance to address hypothetical applications. The dissent also engages with the majority's overbreadth analysis, explaining why the doctrine applies despite the Court's suggestions otherwise. This represents thorough, point-by-point engagement with the majority's reasoning rather than talking past it."
+}
+```

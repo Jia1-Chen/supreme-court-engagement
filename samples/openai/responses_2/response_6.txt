@@ -1,0 +1,3 @@
+Official Citation: 140 S. Ct. 1308
+
+{"score": 4, "reasoning": "The dissent expressly accepts the majority’s conclusions on the statutory obligation and implied-repeal issues and focuses its disagreement on the Tucker Act remedy. It engages the majority’s ‘money-mandating’ framework, challenges the lineage and legitimacy of the fair-interpretation test (citing Testan, White Mountain Apache, Bowen, Sandoval, Ziglar, Hernández), and argues for caution in implying damages remedies. While it introduces broader concerns about implied rights of action and urges reargument rather than fully applying the test to §1342, it nonetheless directly addresses the core remedial holding and the same doctrinal terrain. This is substantial, but not complete, engagement."}

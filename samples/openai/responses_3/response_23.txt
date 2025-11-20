@@ -1,0 +1,6 @@
+Official Citation: 524 U.S. 569
+
+{
+  "score": 5,
+  "reasoning": "Strong engagement. The dissent directly rebuts the majority’s core holdings point-by-point: it argues the statute is inherently viewpoint based despite its imprecision; rejects the majority’s ‘hortatory’/panel-diversity reading and explains why ‘taking into consideration’ still mandates unconstitutional criteria; contests the majority’s reliance on the subsidy context and distinguishes government-as-speaker/buyer from government-as-patron; squarely disputes the majority’s attempt to distinguish Rosenberger and addresses scarcity/competition; challenges the majority’s reliance on permissible applications and insists on facial overbreadth; and, while agreeing on vagueness, explains why that does not resolve the First Amendment problem. It cites and analyzes the same precedents and legislative context, demonstrating sustained, detailed dialogue with the majority’s reasoning."
+}

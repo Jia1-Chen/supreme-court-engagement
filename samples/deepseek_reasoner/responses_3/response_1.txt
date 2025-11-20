@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 3,
+  "reasoning": "The dissent engages moderately with the majority by directly addressing the application of key precedents (Segal and Local Loan) and arguing they support the trustee's position, but it shifts focus to procedural issues (e.g., summary disposition, factual uncertainties) and the circuit split, rather than thoroughly rebutting the majority's core reasoning on the fresh start policy and the nature of vacation pay."
+}

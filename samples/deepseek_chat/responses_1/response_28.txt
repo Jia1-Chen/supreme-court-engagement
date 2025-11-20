@@ -1,0 +1,8 @@
+Official Citation: 360 U.S. 185
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's reasoning about abstention doctrine, comity concerns, and the practical consequences of splitting litigation between state and federal courts. Justice Clark specifically responds to the majority's arguments about avoiding friction in federal-state relations, counters the majority's interpretation of Pennsylvania procedural law, and challenges the majority's conclusion about what constitutes 'exceptional circumstances' for abstention. While the dissent introduces some independent concerns about judicial efficiency, it consistently engages with the core legal framework and reasoning established by the majority."
+}
+```

@@ -1,0 +1,6 @@
+Official Citation: 140 S. Ct. 1308
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the key issue of whether a private right of action exists under the Tucker Act for the statutory obligation. It cites relevant precedents (e.g., Testan, Comcast, Hernández) and argues that the majority's 'money-mandating' test conflicts with broader jurisprudence on inferring private rights of action. However, the dissent assumes the majority's statutory interpretation for argument's sake and introduces broader concerns about judicial caution, which prevents it from being a thorough, point-by-point rebuttal of the entire opinion."
+}

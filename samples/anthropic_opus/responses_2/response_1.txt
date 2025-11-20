@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent barely engages with the majority's core reasoning about vacation pay as wages necessary for a 'fresh start.' Instead, Harlan focuses primarily on procedural concerns (summary disposition, overcrowded docket) and factual details about accrual rates. While he briefly mentions that Segal and Local Loan could actually support the trustee's position rather than the bankrupt's, he doesn't develop this counterargument or address the majority's distinction between business tax refunds and wages needed for economic survival. The dissent is more concerned with why the case deserves full argument than with rebutting the majority's substantive legal analysis."
+}
+```

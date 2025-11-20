@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 2,
+  "reasoning": "While Rehnquist's dissent acknowledges the majority's reliance on Maryland v. Wirtz and addresses the Commerce Clause framework, it largely develops an independent constitutional argument about state sovereignty and federalism. The dissent focuses primarily on the Tenth Amendment, the history of intergovernmental immunity, and broader principles of federalism that the majority opinion does not substantively engage with. Though Rehnquist does reference the majority's cases (Wirtz, United States v. California), he uses them mainly as a launching point to construct a separate theoretical framework about the limits of federal power over states, rather than directly rebutting the majority's specific reasoning about wage controls and economic stabilization."
+}
+```

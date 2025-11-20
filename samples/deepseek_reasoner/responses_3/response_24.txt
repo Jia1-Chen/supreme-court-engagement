@@ -1,0 +1,6 @@
+Official Citation: 384 U.S. 238
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key points, such as the interpretation of § 2 Seventh and the 'reasonably necessary' standard, and rebutting the majority's allowance of court-approved changes. It cites the same statutory provisions and some precedents (e.g., Steele v. Louisville & N. R. Co.) but also introduces broader concerns about congressional intent, judicial intervention, and policy consequences, which shifts focus slightly from a detailed rebuttal of all majority arguments."
+}

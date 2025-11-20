@@ -1,0 +1,8 @@
+Official Citation: 455 U.S. 586
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's core Ross v. Moffitt holding and directly addresses the majority's state action argument in footnote 4. However, Marshall primarily develops an independent due process theory based on reasonable reliance that the majority doesn't discuss. While he acknowledges and responds to the majority's Sixth Amendment analysis, he shifts focus to alternative constitutional grounds (due process) and broader fairness concerns that aren't central to the majority's reasoning. The engagement is meaningful but split between direct rebuttal and advancing separate legal theories."
+}
+```

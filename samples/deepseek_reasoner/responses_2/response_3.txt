@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key points such as the extension of Younger to civil proceedings, the exhaustion requirement, and comity concerns, citing the same precedents (e.g., Younger, Steffel, Monroe) and providing a detailed rebuttal based on historical context, statutory interpretation, and congressional intent."
+}

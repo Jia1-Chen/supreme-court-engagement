@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, thorough engagement with the majority opinion. Justice Souter directly addresses the majority's key arguments point-by-point: (A) he refutes the majority's claim that the statute is not viewpoint-based by analyzing the 'decency and respect' language; (B) he challenges the majority's interpretation about diverse panel composition; (C) he contests the majority's reading that the statute merely requires 'consideration' rather than mandating decisions; he directly engages with the majority's discussion of Rosenberger and explains why it controls; he addresses the majority's government-as-patron theory; and he critiques the majority's rejection of facial overbreadth analysis. The dissent cites the same cases, analyzes the same statutory language, and systematically rebuts each major strand of the majority's reasoning. This is a model of direct judicial dialogue."
+}
+```

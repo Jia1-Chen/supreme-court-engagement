@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent briefly acknowledges the majority's main argument about extending Younger to civil proceedings, but primarily focuses on independent concerns about the broader implications for federal jurisdiction, § 1983 actions, and the erosion of Monroe v. Pape. While the dissent mentions the majority's characterization of the proceeding as 'in aid of and closely related to criminal statutes,' it quickly pivots to arguing about different issues like the ease of initiating civil proceedings versus criminal prosecutions and congressional intent behind the 1871 and 1875 Acts. The dissent is more concerned with systemic effects than directly rebutting the majority's federalism and comity analysis."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Frankfurter directly addresses the majority's core holding that passive conduct (failure to register) requires actual knowledge or proof of probable knowledge to satisfy due process. He confronts this by citing the same precedent (United States v. Balint) and challenges the majority's distinction between acts and omissions as a 'Year Book distinction between feasance and nonfeasance.' He specifically engages with Holmes's quote that the majority relies upon, providing fuller context to argue it doesn't support the majority's conclusion. The dissent also addresses the hardship argument by comparing this case to harsher penalties upheld in other contexts. While the dissent introduces some broader concerns about the scope of strict liability laws, it primarily focuses on rebutting the majority's key analytical framework and constitutional line-drawing. The engagement is direct and substantive, though not as exhaustively detailed as a score of 5 would require."
+}
+```

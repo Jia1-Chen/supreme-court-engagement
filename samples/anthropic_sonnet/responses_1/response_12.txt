@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. Justice Thomas directly addresses the majority's statutory interpretation of §848(q)(4)(B) and §2251, challenging the majority's conclusion that a 'post conviction proceeding' begins with a motion for counsel rather than a formal habeas petition. The dissent engages with the same statutory text, examines the same provisions (particularly §848(q)(9)), and provides detailed counter-arguments about when a 'proceeding' commences under the habeas statute. It explicitly critiques the majority's methodology ('bootstrapping'), responds to the majority's practical concerns about providing meaningful assistance, and addresses the majority's policy rationales. The dissent also engages with Justice O'Connor's concurrence and builds upon her arguments. This represents thorough, point-by-point engagement with the majority's legal reasoning and interpretive approach."
+}
+```

@@ -1,0 +1,3 @@
+Official Citation: 424 U.S. 507
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly challenges the majority’s rationale for reaching the constitutional issue, arguing the case should be decided on §7 grounds and that the Board and Court of Appeals relied on statute, not the First Amendment. It squarely rebuts the majority’s reading that Lloyd overruled Logan Valley, argues the two are reconcilable, and invokes the same precedents (Marsh, Logan Valley, Lloyd, Central Hardware, Babcock & Wilcox, Republic Aviation). It also answers the majority’s content-discrimination concern (Mosley) and applies Babcock’s alternative-means test to the facts. This is a detailed, point-by-point dialogue with the majority’s analysis."}

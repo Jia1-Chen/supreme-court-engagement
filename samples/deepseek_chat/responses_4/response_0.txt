@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent demonstrates substantial engagement by directly addressing the majority's key legal arguments, particularly the Fourth Amendment standing analysis. Justice Marshall methodically rebuts the majority's reliance on Rakas v. Illinois, cites the same precedents (Jeffers, Jones, Simmons), and challenges the majority's interpretation that only privacy interests in the place searched - not property interests in items seized - trigger Fourth Amendment protection. The dissent also engages with the majority's fruit-of-the-poisonous-tree analysis regarding the detention. However, the dissent introduces broader constitutional philosophy about Fourth Amendment protections that extends beyond direct rebuttal of the majority's specific reasoning."
+}
+```

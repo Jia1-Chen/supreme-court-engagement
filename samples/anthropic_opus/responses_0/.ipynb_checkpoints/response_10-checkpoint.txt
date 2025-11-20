@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core constitutional holding about overruling Logan Valley and the First Amendment's applicability to shopping centers. Marshall systematically addresses the majority's reasoning about the relationship between Logan Valley, Lloyd, and Marsh, provides detailed rebuttals to the majority's interpretation of precedents, and argues why Logan Valley should remain good law. While the dissent also raises procedural objections about reaching the constitutional question and discusses the statutory issue at length, it thoroughly engages with the majority's central First Amendment analysis and reasoning for overruling Logan Valley."
+}
+```

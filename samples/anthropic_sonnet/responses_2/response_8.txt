@@ -1,0 +1,8 @@
+Official Citation: 421 U.S. 542
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Rehnquist directly addresses the majority's reliance on Maryland v. Wirtz and United States v. California, challenges the analytical framework used by the majority regarding Commerce Clause power over states, and provides detailed rebuttals to the majority's constitutional interpretation. He engages with the same precedents cited by the majority and contests their application. The dissent does introduce broader federalism concerns and suggests alternative frameworks (distinguishing governmental vs. proprietary functions), but the core of the opinion directly confronts the majority's legal reasoning about whether Congress can regulate state employees under the Commerce Clause. The dissent explicitly acknowledges the majority's position (noting 'Today's decision...is plausible on its facts') while systematically arguing why it is constitutionally flawed. This represents substantial, though not completely exhaustive, engagement with the majority opinion."
+}
+```

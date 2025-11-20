@@ -1,0 +1,8 @@
+Official Citation: 499 U.S. 621
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal reasoning about what constitutes a 'seizure' under the Fourth Amendment. Stevens systematically rebuts Scalia's common-law analysis by citing Katz and Terry to show the Court had already rejected such narrow interpretations. He addresses the majority's specific arguments about the Mendenhall test, the distinction between touching and showing authority, and the timing of seizures. While the dissent also raises broader policy concerns about encouraging police misconduct, it primarily focuses on demonstrating why the majority's interpretation contradicts established precedent, making this substantial rather than complete engagement."
+}
+```

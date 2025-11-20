@@ -1,0 +1,6 @@
+Official Citation: 400 U.S. 18
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing key precedents like Segal v. Rochelle and Local Loan Co. v. Hunt, arguing they support the trustee's position rather than the bankrupt's, and rebutting the majority's application of the 'fresh start' policy. However, it also shifts focus to procedural issues like the overcrowded docket and opaque record, which dilutes the direct legal engagement."
+}

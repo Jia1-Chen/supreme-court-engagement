@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. It directly addresses the majority's central argument that FELA cases involving Safety Appliance and Boiler Inspection Acts establish absolute liability for statutory violations regardless of negligence. The dissent responds by explaining why those cases rest on a 'peculiar relationship' between those specific Acts and the FELA, emphasizing congressional intent to create absolute liability in those contexts. It critiques the majority's extension of this principle to the Coast Guard regulation, arguing the majority overlooks critical distinctions between the statutes. The dissent cites the same precedents (Urie, Wagner, Carter, etc.) and directly rebuts the majority's interpretation of them. While the dissent also raises broader concerns about judicial lawmaking under the FELA, it primarily focuses on dismantling the majority's statutory interpretation through careful analysis of the same cases and statutory provisions. This represents substantial, though not complete, engagement—the dissent could have addressed more thoroughly the majority's dismissal of the 'safety statute' distinction."
+}
+```

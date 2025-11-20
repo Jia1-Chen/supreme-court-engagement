@@ -1,0 +1,6 @@
+Official Citation: 360 U.S. 185
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key points such as comity, the absence of exceptional circumstances, and the efficiency of federal adjudication. It cites the same legal framework (e.g., Railroad Comm'n v. Pullman Co.) and rebuts the majority's claim that the District Court would act like a state court, arguing instead that split litigation causes delay and friction. However, the dissent shifts focus to broader concerns about judicial administration and does not thoroughly engage with all majority arguments, such as the precedents on federal eminent domain practice or the clarity of state law."
+}

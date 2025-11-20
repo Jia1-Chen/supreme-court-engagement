@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning across multiple fronts. In Part I, it directly challenges the majority's interpretation of Rakas v. Illinois and the 'legitimate expectation of privacy' standard, arguing that the majority misreads precedent and the Fourth Amendment itself. The dissent systematically addresses the same cases cited by the majority (Rakas, Jones, Simmons, Jeffers) and provides alternative interpretations. In Part II, the dissent responds to the majority's Brown v. Illinois analysis regarding whether petitioner's statements were fruit of illegal detention, though it disagrees with the majority's factual characterization. In Part III, the dissent offers broader normative critique. While the dissent does introduce some independent arguments about property rights and Fourth Amendment history, it primarily functions as a direct rebuttal to the majority's core legal reasoning, citing the same precedents and engaging with the same analytical frameworks. The dissent could score a 5 if it more thoroughly addressed every element of the majority's three-part analysis, but it provides substantial point-by-point engagement with the majority's primary holdings."
+}
+```

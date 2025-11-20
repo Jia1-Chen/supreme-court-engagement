@@ -1,0 +1,8 @@
+Official Citation: 448 U.S. 98
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the core Fourth Amendment issues, citing the same precedents (Rakas, Jones, Katz, Jeffers), and providing detailed rebuttals to the majority's privacy expectation analysis. Justice Marshall systematically challenges the majority's interpretation that only privacy interests in the place searched (not property interests in items seized) trigger Fourth Amendment protection, directly responding to the majority's key legal framework. However, the dissent also introduces broader constitutional philosophy about Fourth Amendment protections that extends beyond direct engagement with the majority's specific factual application."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 455 U.S. 586
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's core holding about Ross v. Moffitt and the lack of constitutional right to counsel for discretionary appeals. Justice Marshall directly addresses this reasoning but primarily to reject Ross itself rather than engage with its application. The dissent also responds to the majority's state action footnote with a detailed rebuttal citing Cuyler v. Sullivan. However, the dissent shifts significant focus to an alternative due process theory based on reasonable reliance that the majority doesn't address, suggesting partial talking past. The engagement is substantive where it occurs but incomplete overall."
+}
+```

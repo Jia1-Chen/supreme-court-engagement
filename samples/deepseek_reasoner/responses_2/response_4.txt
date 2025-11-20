@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key legal arguments, such as the application of Fortnightly and Teleprompter, and citing the same precedents like Buck v. Jewell-LaSalle to rebut the majority's conclusion. It argues that Aiken's commercial use of the broadcast constitutes performance under Buck and distinguishes the facts from the CATV cases. However, the dissent also introduces broader concerns about legislative action, which, while relevant, does not fully engage with the majority's practical arguments on unenforceability and equity."
+}

@@ -1,0 +1,8 @@
+Official Citation: 467 U.S. 380
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core reasoning about the meaning of 'amount of power' in §5(d)(1)(B), specifically rebutting the majority's distinction between 'quantity' and 'quality' of power. Justice Stevens addresses the majority's statutory interpretation arguments, discusses the same provisions (§5(d)(1)(A) and §5(d)(1)(B)), analyzes the same legislative history passages, and provides alternative readings of the evidence cited by the majority. While the dissent does raise some independent points about deference and ratemaking, the core of the opinion is a direct response to and engagement with the majority's central holding."
+}
+```

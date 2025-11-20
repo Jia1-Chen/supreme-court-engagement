@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "Justice Souter's dissent demonstrates strong engagement with the majority opinion by directly addressing Justice O'Connor's key arguments. He systematically rebuts the majority's claims that the statute is viewpoint-neutral, challenges the interpretation that diverse panels satisfy the statutory requirement, and confronts the majority's distinction from Rosenberger. The dissent cites the same precedents and statutory provisions while providing detailed counterarguments to the majority's reasoning about facial challenges, vagueness, and the government's role as patron versus regulator."
+}
+```

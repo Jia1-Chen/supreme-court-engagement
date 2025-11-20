@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. Justice Thomas directly addresses the majority's statutory interpretation of both 21 U.S.C. § 848(q)(4)(B) and 28 U.S.C. § 2251, challenging the majority's textual analysis point-by-point. The dissent engages with the same statutory provisions, discusses the same procedural requirements for habeas proceedings, and directly rebuts the majority's policy arguments about when counsel should be appointed. The dissent explicitly references and responds to the majority's reasoning (e.g., 'The Court appears to acknowledge...', 'The Court rejects this interpretation'), critiques the majority's use of § 848(q)(9), and offers an alternative interpretation grounded in traditional habeas corpus procedures. Both opinions grapple with the central question of what constitutes a 'proceeding' under the relevant statutes, making this a clear example of direct dialogue rather than talking past each other."
+}
+```

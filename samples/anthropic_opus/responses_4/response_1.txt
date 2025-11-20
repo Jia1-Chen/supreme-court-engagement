@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent barely engages with the majority's core reasoning. While both opinions discuss Segal v. Rochelle and Local Loan Co. v. Hunt, the dissent primarily focuses on procedural concerns (summary disposition, overcrowded docket, unclear record) and factual details about vacation accrual rates. It briefly suggests these cases might actually support the trustee rather than the bankrupt, directly contradicting the majority, but doesn't develop this counterargument or address the majority's key distinction between business assets in Segal and wage-earner vacation pay needed for basic economic survival. The dissent's main thrust is that the case deserves full argument rather than summary treatment, essentially talking past the substantive legal analysis."
+}
+```

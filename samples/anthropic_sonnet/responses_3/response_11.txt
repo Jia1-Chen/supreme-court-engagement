@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong and direct engagement with the majority's reasoning throughout. Justice Stevens systematically challenges the majority's core distinction between 'quantity' and 'quality' of power, arguing that kilowatts are fungible and that interruptibility affects amount, not quality. The dissent directly addresses the majority's interpretation of § 5(d)(1)(B), engages with the same statutory provisions (§ 5(d)(1)(A), § 3(17)), responds to the majority's use of legislative history, and specifically rebuts the majority's analysis of the second quartile provisions. The dissent even addresses the majority's deference argument and concludes by responding to the majority's policy rationale in Part II-C. This is a textbook example of 'talking with' rather than 'talking past' the majority opinion."
+}

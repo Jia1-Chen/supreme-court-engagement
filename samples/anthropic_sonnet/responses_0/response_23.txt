@@ -1,0 +1,8 @@
+Official Citation: 524 U.S. 569
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates exceptionally strong engagement with the majority opinion. Justice Souter directly addresses the majority's core arguments point-by-point: he rebuts the majority's claim that the statute is not viewpoint-based (Section II-A), challenges the interpretation that diverse panels satisfy the statute (Section II-B), contests the majority's reading of 'taking into consideration' as merely hortatory (Section II-C), and systematically dismantles the majority's distinction of Rosenberger v. University of Virginia. The dissent cites the same precedents (Rosenberger, Rust v. Sullivan, Regan), engages with the same statutory language, and responds to each of the majority's three main constitutional arguments. The dissent also addresses the majority's facial challenge analysis and overbreadth doctrine application. Rather than talking past the majority, Justice Souter engages in detailed legal dialogue, explicitly stating 'The Court says otherwise' and 'That is not a fair reading' while providing comprehensive counterarguments to each majority position."
+}
+```

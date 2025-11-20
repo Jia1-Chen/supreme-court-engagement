@@ -1,0 +1,3 @@
+Official Citation: 478 U.S. 597
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s plain-meaning analysis (focusing on “damage” vs. “damages”), rebuts the majority’s dictionary and case citations (including American Stevedores), and offers an alternative statutory reading tied to the proviso in §702c. It engages the same legislative history the majority cites, disputes the majority’s characterization of sponsorship and context, and situates the analysis alongside FTCA and Sponenbarger/Dalehite. The dissent addresses the majority’s core points and provides detailed counterarguments rather than shifting to a different framework."}

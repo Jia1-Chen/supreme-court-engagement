@@ -1,0 +1,6 @@
+Official Citation: 499 U.S. 621
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing key legal arguments, citing the same precedents (e.g., Katz, Terry, Mendenhall), and providing a detailed rebuttal. It critiques the majority's reliance on common law distinctions, argues for a broader interpretation of 'seizure' based on prior case law, and systematically responds to the majority's points, demonstrating meaningful dialogue rather than ignoring or shifting focus away from the core issues."
+}

@@ -1,0 +1,8 @@
+Official Citation: 512 U.S. 849
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core statutory interpretation arguments. Justice Thomas addresses the majority's reading of §848(q)(4)(B), challenges their interpretation of when a 'post conviction proceeding' commences, disputes their reliance on §848(q)(9), and directly rebuts the majority's analysis of §2251's stay jurisdiction. The dissent cites the same statutes, analyzes the same textual provisions, and provides alternative interpretations of the key legal questions. While the dissent also raises broader federalism concerns, it maintains substantial engagement with the majority's specific reasoning throughout."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+    "score": 5,
+    "reasoning": "Justice Scalia's dissent demonstrates strong engagement by directly addressing all three of the majority's key arguments: (1) he contests the characterization of §107 as creating only an 'implied' right of action, arguing it expressly creates a private cause of action; (2) he rebuts the 'explicit authorization' requirement by arguing that 'enforcement activities' naturally includes attorney's fees without needing magic words; and (3) he directly challenges the majority's interpretation of 'enforcement activities' as excluding private actions, providing textual analysis and alternative interpretations. The dissent systematically engages with the majority's statutory interpretation framework and uses the same precedents and textual analysis."
+}
+```

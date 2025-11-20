@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+"score": 4,
+"reasoning": "The dissent demonstrates substantial engagement with the majority's reasoning. It directly addresses the majority's extension of Younger v. Harris to civil proceedings, challenging the analogy between criminal and civil cases. The dissent engages with key precedents cited by the majority (Younger, Mitchum v. Foster, Monroe v. Pape) and argues that the majority's holding contradicts established § 1983 jurisprudence and the exhaustion doctrine. It responds to the majority's characterization of the nuisance proceeding as 'closely related to criminal statutes' and explains why this extension threatens congressional objectives behind § 1983. However, the dissent also introduces broader policy concerns about federal-state relations and the Anti-Injunction Act's history that go somewhat beyond direct rebuttal of the majority's specific legal reasoning, preventing a score of 5."
+}

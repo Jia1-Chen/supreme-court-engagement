@@ -1,0 +1,8 @@
+Official Citation: 424 U.S. 507
+
+```json
+{
+    "score": 4,
+    "reasoning": "Justice Marshall's dissent demonstrates substantial engagement with the majority opinion by directly addressing its constitutional analysis, challenging the majority's interpretation of precedent (particularly Lloyd Corp. and Logan Valley), and offering a detailed alternative statutory framework. The dissent systematically responds to the majority's reasoning about the First Amendment's inapplicability to private shopping centers, critiques the majority's overruling of Logan Valley as unnecessary given the statutory grounds available, and provides a comprehensive defense of the functional equivalence doctrine. However, the dissent also introduces broader concerns about judicial restraint and the proper role of constitutional adjudication, which slightly shifts focus from the core legal arguments."
+}
+```

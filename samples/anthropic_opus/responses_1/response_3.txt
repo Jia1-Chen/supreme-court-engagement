@@ -1,0 +1,8 @@
+Official Citation: 420 U.S. 592
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's reasoning. It directly addresses the majority's core argument about extending Younger to civil proceedings and challenges the characterization of the nuisance proceeding as quasi-criminal. However, the dissent primarily develops its own independent framework about the historical importance of federal jurisdiction under § 1983 and the congressional intent behind the 1871 Act, spending considerable space on broader concerns about federalism and access to federal forums rather than systematically rebutting the majority's specific applications of Younger principles and comity analysis."
+}
+```

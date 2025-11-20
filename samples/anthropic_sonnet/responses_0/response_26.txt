@@ -1,0 +1,8 @@
+Official Citation: 511 U.S. 809
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. Justice Scalia systematically addresses each of the majority's three main arguments: (1) he directly challenges the majority's characterization of the right as 'implied' versus 'express,' arguing this is a false distinction; (2) he rebuts the majority's negative inference from other fee provisions, calling it a 'watered-down version' of the magic words argument; and (3) he directly confronts the majority's core interpretation of 'enforcement activities,' providing alternative statutory language and examples to support a broader reading. The dissent engages with the same statutory provisions (§§107, 113, 101(25)), the same precedent (Alyeska, Runyon), and directly responds to each point in the majority's reasoning structure. This is a paradigmatic example of 'talking with' the majority opinion."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+    "score": 2,
+    "reasoning": "The dissent demonstrates minimal engagement with the majority's core reasoning. While Justice Alito acknowledges the majority's statutory interpretation analysis 'for the sake of argument,' he shifts focus entirely to a separate legal framework - questioning the legitimacy of inferring private rights of action under the Tucker Act. The dissent ignores the majority's detailed analysis of statutory interpretation, appropriations law, and implied repeal doctrine, instead introducing an independent argument about judicial restraint in recognizing implied rights of action that was not central to the majority's reasoning."
+}
+```

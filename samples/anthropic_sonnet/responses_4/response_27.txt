@@ -1,0 +1,8 @@
+Official Citation: 478 U.S. 597
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning at every level. It directly challenges the majority's plain meaning analysis by focusing on the critical distinction between 'damage' (property harm) and 'damages' (monetary compensation), using the same interpretive methodology. The dissent addresses the majority's reliance on American Stevedores, showing those very authorities support the opposite conclusion. It engages with the statutory structure the majority analyzes, offering an alternative reading of §702c and its proviso. The dissent responds to the majority's legislative history arguments, countering that the debates focused on property damage allocation without mentioning personal injury. It also addresses the majority's sovereign immunity discussion and challenges the notion that Congress intended such a 'perverse' result. Throughout, the dissent uses the majority's own analytical framework—plain meaning, legislative history, and statutory purpose—to reach the opposite conclusion, demonstrating direct and comprehensive engagement."
+}
+```

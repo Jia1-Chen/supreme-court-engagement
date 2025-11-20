@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning by directly addressing key precedents like Fortnightly, Teleprompter, and Buck v. Jewell-LaSalle, arguing that they do not support the majority's conclusion and that the respondent's commercial use constitutes performance. It rebuts the majority's functional analysis and policy arguments, but also introduces broader concerns about legislative action, which slightly shifts focus."
+}

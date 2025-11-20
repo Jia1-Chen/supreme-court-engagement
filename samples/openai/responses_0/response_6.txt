@@ -1,0 +1,6 @@
+Official Citation: 140 S. Ct. 1308
+
+{
+  "score": 4,
+  "reasoning": "The dissent expressly accepts the majority’s conclusions on the first two issues (statutory obligation and no implied repeal) and focuses its disagreement on the third: whether §1342 supports a damages remedy under the Tucker Act. It directly engages the majority’s ‘money‑mandating’ analysis, contests its doctrinal foundation, and argues tension with Sandoval/Comcast/Hernández implied-right jurisprudence, while discussing many of the same precedents (Testan, White Mountain Apache, Bormes, Bowen, Navajo Nation). Although it does not rebut the majority’s first two holdings, it meaningfully dialogues on the key remedial question. Hence substantial but not complete engagement."
+}

@@ -1,0 +1,8 @@
+Official Citation: 549 U.S. 47
+
+```json
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong engagement with the majority's reasoning throughout. Justice Thomas directly addresses the majority's statutory interpretation of 'felony punishable under the Controlled Substances Act,' challenges the majority's focus on the ordinary meaning of 'illicit trafficking,' rebuts the majority's textual arguments point-by-point, and addresses the specific anomalies the majority identifies. The dissent uses the same statutory provisions (§924(c)(2), §1101(a)(43)(B)), engages with the same textual analysis, and systematically responds to each of the majority's concerns about state-federal disparities and anomalous results. While offering a competing interpretation, the dissent maintains continuous dialogue with the majority's specific legal arguments rather than pursuing an independent framework."
+}
+```

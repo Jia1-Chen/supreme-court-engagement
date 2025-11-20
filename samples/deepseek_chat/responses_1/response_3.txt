@@ -1,0 +1,6 @@
+Official Citation: 420 U.S. 592
+
+{
+  "score": 4,
+  "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the extension of Younger to civil proceedings, critiquing the majority's 'in aid of and closely related to criminal statutes' framework, and challenging the new exhaustion requirement for §1983 claims. It references shared precedents (Younger, Monroe v. Pape, Mitchum v. Foster) and statutory history (Anti-Injunction Act), while highlighting perceived contradictions with congressional intent and federalism principles. However, it also introduces broader concerns about undermining §1983's purpose and historical equity jurisprudence, slightly shifting focus from the majority's specific comity analysis."
+}

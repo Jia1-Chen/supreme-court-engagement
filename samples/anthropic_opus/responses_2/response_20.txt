@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal interpretations on both main issues. On § 1101(f)(6), White agrees with the majority that materiality is not required but argues the majority should affirm denaturalization based on the existing record rather than remand. On § 1451(a), White accepts the majority's materiality test but disputes its application, arguing that misrepresentations at the visa stage should be considered and that the fact of lying itself (not just the underlying facts) should influence materiality analysis. The dissent systematically addresses the majority's reasoning while reaching different conclusions on application."
+}
+```

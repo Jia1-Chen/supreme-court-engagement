@@ -1,0 +1,3 @@
+Official Citation: 556 U.S. 332
+
+{"score": 5, "reasoning": "Strong engagement. The dissent directly contests the majority’s narrow reading of Belton and application of Chimel, argues at length on stare decisis and reliance, and critiques the majority’s new two-part rule (including its provenance from Justice Scalia’s Thornton concurrence and its standards). It cites and analyzes the same core precedents (Belton, Thornton, Chimel, Dickerson, Payne) and responds point-by-point on workability, changed circumstances, and consistency. While it gives less attention to the majority’s privacy rationale, overall it meaningfully engages the majority’s reasoning and framework."}

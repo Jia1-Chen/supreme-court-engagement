@@ -1,0 +1,8 @@
+Official Citation: 556 U.S. 332
+
+```json
+{
+    "score": 4,
+    "reasoning": "The dissent engages substantially with the majority's reasoning by directly addressing the stare decisis arguments, challenging the majority's interpretation of Belton, and responding to the majority's concerns about police reliance interests. However, it also introduces broader concerns about workability and doctrinal stability that extend beyond direct rebuttal of the majority's core Fourth Amendment analysis."
+}
+```

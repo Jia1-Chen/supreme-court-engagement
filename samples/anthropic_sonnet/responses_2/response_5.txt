@@ -1,0 +1,6 @@
+Official Citation: 439 U.S. 357
+
+{
+"score": 4,
+"reasoning": "The dissent substantially engages with the majority's reasoning. Rehnquist directly addresses the majority's Sixth Amendment 'fair-cross-section' framework, challenges the distinction between 'exclusion' and 'underrepresentation,' questions the constitutional significance of the 15% threshold, and critiques the practical implications of the majority's standard for state jury selection systems. The dissent also engages with the same precedents (Taylor, Hoyt) and addresses the majority's three-part prima facie test. However, the dissent dedicates significant attention to arguing that the case is really about equal protection rather than the Sixth Amendment—a broader jurisprudential critique that somewhat shifts focus from directly rebutting each element of the majority's analysis. The extensive footnote challenging the theoretical foundations of the fair-cross-section doctrine also represents a partial departure into independent argumentation. Nevertheless, the core of the dissent directly confronts the majority's key holdings and reasoning."
+}

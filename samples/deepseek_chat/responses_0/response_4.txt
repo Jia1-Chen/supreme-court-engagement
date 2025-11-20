@@ -1,0 +1,6 @@
+Official Citation: 422 U.S. 151
+
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing key precedents (Buck v. Jewell-LaSalle, Fortnightly, Teleprompter), critiques the majority's application of the 'functional analysis' from CATV cases to radio, and argues that the respondent's commercial use of broadcasts constitutes performance under existing case law. However, it also emphasizes legislative inaction and broader policy concerns, slightly shifting focus from purely legal rebuttal."
+}

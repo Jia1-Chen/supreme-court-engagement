@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 225
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Frankfurter directly addresses the majority's central holding that due process requires actual knowledge or proof of probability of knowledge before conviction under the registration ordinance. He challenges this by citing the same precedent (United States v. Balint) and arguing that numerous laws impose strict liability without knowledge requirements. He specifically rebuts the majority's 'wholly passive conduct' distinction by calling it a return to 'feasance and nonfeasance' distinctions that should not constitute a constitutional line. He even addresses the majority's use of Holmes's quote about 'blameworthiness,' providing fuller context to argue against the majority's interpretation. The dissent does introduce some broader policy concerns about the scope of the decision, but these are secondary to the direct engagement with the majority's core legal reasoning. The only reason this is not a '5' is that the dissent could have more thoroughly addressed the majority's specific notice requirement analysis and the civil procedure cases cited by the majority."
+}
+```

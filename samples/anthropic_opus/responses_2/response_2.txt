@@ -1,0 +1,8 @@
+Official Citation: 437 U.S. 298
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges and quotes the majority's 'institutional good faith' standard and criticizes it as 'unworkable,' the dissent primarily advances its own independent interpretation of Donaldson and argues the majority is adding requirements 'from out of nowhere.' Rather than systematically rebutting the majority's statutory analysis of § 7602's purposes or its policy concerns about criminal discovery, the dissent simply asserts the statute contains no limitations and relies heavily on Judge Friendly's opinion. The dissent talks past the majority's detailed analysis of the intertwined civil-criminal nature of tax investigations."
+}
+```

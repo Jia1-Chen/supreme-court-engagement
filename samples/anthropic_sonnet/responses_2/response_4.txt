@@ -1,0 +1,8 @@
+Official Citation: 422 U.S. 151
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Chief Justice Burger directly addresses the majority's reliance on Fortnightly and Teleprompter, disputes the majority's limitation of Buck v. Jewell-LaSalle, and challenges the majority's functional analysis distinguishing passive listeners from active performers. The dissent specifically rebuts the majority's characterization of the respondent as a 'passive beneficiary,' arguing instead that he 'took the transmission and used that transmission for commercial entertainment in his own profit enterprise.' The dissent also engages with the statutory interpretation issues and the majority's policy concerns about enforceability. However, the dissent does introduce an additional independent theme—the strong emphasis on the need for Congressional action—that somewhat shifts focus from pure engagement with the majority's legal analysis. Despite this broader framing, the dissent provides detailed rebuttals to the majority's key holdings and reasoning."
+}
+```

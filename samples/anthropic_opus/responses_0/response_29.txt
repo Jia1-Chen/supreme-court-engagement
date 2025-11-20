@@ -1,0 +1,8 @@
+Official Citation: 452 U.S. 61
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent minimally engages with the majority's reasoning. While it acknowledges the majority's characterization of the ordinance as a 'ban on live entertainment' and briefly references Young v. American Mini-Theatres (a key case discussed by the majority), it primarily reframes the issue entirely - focusing on Mount Ephraim as a small bedroom community with the right to exclude nude dancing specifically, rather than addressing the majority's detailed First Amendment overbreadth analysis. The dissent doesn't meaningfully engage with the majority's scrutiny of the Borough's justifications, its analysis of adequate alternative channels, or its examination of the ordinance's breadth. Instead, it pursues an independent argument about local community values and characterizes the case as being solely about nude dancing rather than the broader live entertainment ban."
+}
+```

@@ -1,0 +1,8 @@
+Official Citation: 400 U.S. 18
+
+```json
+{
+  "score": 3,
+  "reasoning": "The dissent moderately engages with the majority's reasoning. Harlan directly addresses the majority's reliance on Segal v. Rochelle and Local Loan Co. v. Hunt, arguing these cases actually support the trustee rather than 'compel a decision for the bankrupt.' He engages with the majority's 'fresh start' principle by noting that Frederick would accrue the same vacation pay post-bankruptcy. However, the dissent pivots to procedural concerns about summary disposition and record inadequacy, and doesn't fully engage with the majority's distinction between wage earners and business assets or the economic survival rationale that forms the core of the majority's analysis."
+}
+```

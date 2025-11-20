@@ -1,0 +1,8 @@
+Official Citation: 494 U.S. 775
+
+```json
+{
+"score": 5,
+"reasoning": "The dissent demonstrates strong and thorough engagement with the majority opinion. Justice Scalia directly addresses the majority's central reasoning about whether the Board must presume striker replacements oppose the union. He challenges the majority's characterization of the issue (factfinding vs. policy), disputes the majority's factual analysis point-by-point (addressing economic motivations, union demands for displacement, and conflicts of interest), and engages extensively with the same Board precedents (Station KKHI, Service Electric, Leveld Wholesale). He also directly responds to specific arguments in the majority opinion, including footnote-level exchanges about whether the union demanded displacement of replacements in this case. The dissent rebuts the majority's policy rationales and provides detailed alternative interpretations of the same evidence and legal standards. This represents extensive dialogue rather than talking past the majority."
+}
+```

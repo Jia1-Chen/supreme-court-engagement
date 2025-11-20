@@ -1,0 +1,6 @@
+Official Citation: 365 U.S. 167
+
+{
+  "score": 5,
+  "reasoning": "The dissent thoroughly engages with the majority's reasoning by directly addressing its interpretation of 'under color of' state law, critiquing the precedents (Classic, Screws, Williams) cited by the majority, and offering a detailed rebuttal based on the same legislative history. It systematically challenges the majority's key points without ignoring them, demonstrating meaningful dialogue rather than talking past."
+}

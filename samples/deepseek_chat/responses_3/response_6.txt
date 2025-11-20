@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 2,
+  "reasoning": "The dissent shows minimal engagement with the majority's core reasoning. While it acknowledges the majority's statutory interpretation analysis in Parts I-III, it shifts focus to an entirely separate legal framework - the propriety of inferring private rights of action under the Tucker Act. The dissent largely ignores the majority's detailed analysis of statutory construction, appropriations riders, and implied repeal doctrine, instead introducing independent arguments about judicial restraint and recent jurisprudence on implied rights of action that the majority did not substantially address."
+}
+```

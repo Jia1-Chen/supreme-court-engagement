@@ -1,0 +1,6 @@
+Official Citation: 467 U.S. 380
+
+{
+  "score": 5,
+  "reasoning": "The dissent demonstrates strong, direct engagement with the majority's reasoning. Justice Stevens systematically addresses the majority's key arguments: (1) he directly challenges the majority's 'quantity vs. quality' distinction for power, calling it 'nonexistent'; (2) he rebuts the majority's interpretation of §5(d)(1)(A) and §5(d)(1)(B); (3) he contests the majority's use of legislative history with counterevidence from the same sources; (4) he addresses the majority's deference arguments; and (5) he responds to the majority's discussion of the DSI-exchange program relationship. The dissent cites the same statutory provisions, uses the same legislative history sources, and directly refutes each major point the majority makes. This is a model of judicial dialogue where the dissent engages point-by-point with the majority's legal reasoning."
+}

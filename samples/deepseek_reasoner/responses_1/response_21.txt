@@ -1,0 +1,6 @@
+Official Citation: 499 U.S. 621
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly and thoroughly engages with the majority's reasoning by addressing key legal arguments, such as the common law definition of seizure, the Mendenhall test, and precedents like Katz and Terry. It provides a detailed rebuttal, cites the same cases, and systematically challenges the majority's interpretation, demonstrating meaningful dialogue rather than talking past."
+}

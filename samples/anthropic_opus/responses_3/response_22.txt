@@ -1,0 +1,8 @@
+Official Citation: 355 U.S. 426
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's central reasoning about extending FELA's absolute liability doctrine to Coast Guard regulations under the Jones Act. It thoroughly addresses the majority's reliance on Safety Appliance Act cases, analyzes the same precedents (Layton, Gotschall, Davis, Swinson, Coray, Urie), and provides detailed counterarguments about why those cases don't apply here. The dissent directly confronts the majority's interpretation of statutory purpose, the relationship between FELA and safety statutes, and the scope of 'negligence' under these acts. While it also raises broader policy concerns about judicial lawmaking, the core of the dissent is a point-by-point rebuttal of the majority's legal framework."
+}
+```

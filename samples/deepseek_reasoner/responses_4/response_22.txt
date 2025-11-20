@@ -1,0 +1,6 @@
+Official Citation: 355 U.S. 426
+
+{
+  "score": 5,
+  "reasoning": "The dissent directly engages with the majority's reasoning by addressing the same precedents (e.g., Safety Appliance and Boiler Inspection Acts cases), rebutting the extension of absolute liability to the navigation statute, and challenging the majority's interpretation of FELA and Jones Act intent, providing a detailed and thorough rebuttal."
+}

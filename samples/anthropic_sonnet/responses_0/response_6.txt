@@ -1,0 +1,8 @@
+Official Citation: 140 S. Ct. 1308
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent substantially engages with the majority's reasoning. Justice Alito directly addresses the majority's central holding about the 'money-mandating' test under the Tucker Act and § 1342's creation of a damages remedy. The dissent challenges the majority's framework for inferring private rights of action, explicitly discussing the same precedents (Testan, White Mountain Apache, Bowen) and questioning how the majority's approach reconciles with recent jurisprudence on implied rights of action (Comcast, Hernández). The dissent responds to the majority's footnote 12 defense and critiques the money-mandating test's foundation. While the dissent does introduce broader concerns about judicial creation of rights of action and requests supplemental briefing, it consistently returns to engage with the majority's specific legal analysis. The dissent doesn't simply talk past the majority but rather mounts a substantial critique of its core reasoning, though it focuses somewhat more on methodological concerns than on all details of Parts I-III of the majority opinion."
+}
+```

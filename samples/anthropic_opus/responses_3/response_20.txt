@@ -1,0 +1,8 @@
+Official Citation: 485 U.S. 759
+
+```json
+{
+  "score": 4,
+  "reasoning": "The dissent directly engages with the majority's core legal reasoning on both main issues. On the materiality standard for § 1451(a), White accepts the majority's general test but disputes its application, arguing the majority wrongly excludes visa proceedings and misinterprets what makes misrepresentations material. On § 1101(f)(6), White agrees no materiality requirement exists but challenges the majority's decision to remand, arguing the evidence already establishes the statutory elements. Throughout, White addresses the same statutory provisions, precedents (Fedorenko, Chaunt), and factual record, providing detailed rebuttals rather than pursuing independent arguments."
+}
+```
