@@ -133,7 +133,7 @@ LLMs use the same 1–5 rubric as human coders.
 
 Opinions come from:
 - **Harvard Caselaw Access Project (CAP)** for full opinion text  
-- **Supreme Court Database (Spaeth et al.)** for metadata and issue coding  
+- **Supreme Court Database** for metadata and issue coding  
 
 ---
 
