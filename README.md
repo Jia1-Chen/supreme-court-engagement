@@ -7,7 +7,7 @@ The project combines human-coded engagement scores with outputs from multiple la
 
 ## 📁 Data Files
 
-The `data/` and `results_filtered/` folders contain several zipped CSV files.  
+The `data/`, `results_filtered/` and 'samples/' folders contain several zipped CSV files.  
 Large CSVs are stored as ZIP files due to GitHub’s 100MB file limit.
 
 ### **Main data files:**
