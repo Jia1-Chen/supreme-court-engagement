@@ -119,7 +119,7 @@ LLMs use the same 1–5 rubric as human coders.
 
 ## 📝 Usage
 
-1. **Unzip the CSV files** inside `data/` and `results_filtered/`.
+1. **Unzip the CSV files** inside `results_filtered/`.
 2. Use the Python scripts in the repo to reproduce:
    - topic models  
    - LLM scoring experiments  
