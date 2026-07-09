@@ -10,7 +10,7 @@ The project combines computational text-similarity measures, human-coded engagem
 
 | Path | Description |
 |------|-------------|
-| `data/` | Raw and intermediate data files used in the replication pipeline. Some large raw files are not tracked directly because of GitHub size limits. |
+| `data/` | Raw data files used in the replication pipeline. |
 | `results_filtered/` | Main processed outputs for the filtered majority–dissent corpus, including topic-model, doc2vec, Sentence-BERT, Legal-BERT, and merged metadata files. |
 | `samples/` | Smaller sample files and LLM scoring outputs used for validation. |
 | `topic_model_filtered.py` | Reproduces the LDA topic-model measure. |
