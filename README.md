@@ -9,357 +9,329 @@ The project combines computational text-similarity measures, human-coded engagem
 ## Repository Structure
 
 | Path | Description |
-|------|-------------|
-| `data/` | Raw data files used in the replication pipeline. |
-| `results_filtered/` | Main processed outputs for the filtered majority–dissent corpus, including topic-model, doc2vec, Sentence-BERT, Legal-BERT, and merged metadata files. |
-| `samples/` | Smaller sample files and LLM scoring outputs used for validation. |
-| `topic_model_filtered.py` | Reproduces the LDA topic-model measure. |
-| `doc2vec_filtered.py` | Reproduces the doc2vec embedding measure. |
-| `SBERT_filtered.py` | Reproduces the Sentence-BERT embedding measure. |
-| `LegalBERT_filtered.py` | Reproduces the Legal-BERT embedding measure. |
+|---|---|
+| `data/` | Raw-data workspace used by the opinion-download and preprocessing pipeline. |
+| `results_filtered/` | Processed data and model outputs for the filtered majority–dissent corpus. |
+| `results_filtered/pair_metadata.zip` | Majority–dissent metadata with the original majority and dissent opinion text, but without the final computational scores. Use this file when rerunning the computational-measure scripts. |
+| `results_filtered/pair_metadata_w_scores.csv` | Main analysis dataset containing case metadata, computational scores, standardized retained measures, and the final composite divergence measure. |
+| `samples/` | Validation sample and LLM-scoring outputs. |
+| `data_download_replication.py` | Demonstrates downloading opinion data and constructing majority–dissent pairs. |
+| `topic_model_filtered.py` | Reproduces the LDA/KL-divergence measure. |
+| `doc2vec_filtered.py` | Reproduces the doc2vec measure. |
+| `SBERT_filtered.py` | Reproduces the Sentence-BERT measure evaluated during model selection. |
+| `LegalBERT_filtered.py` | Reproduces the Legal-BERT measure evaluated during model selection. |
+| `voyage_filtered.py` | Generates VoyageAI embeddings and majority–dissent cosine distances. |
 | `openai_sample.py` | Runs GPT-5 scoring on the validation sample. |
 | `anthropic_sample_opus.py` | Runs Claude Opus scoring on the validation sample. |
 | `anthropic_sample_sonnet.py` | Runs Claude Sonnet scoring on the validation sample. |
 | `deepseek_sample_chat.py` | Runs DeepSeek Chat scoring on the validation sample. |
 | `deepseek_sample_reasoner.py` | Runs DeepSeek Reasoner scoring on the validation sample. |
-| `data_download_replication.py` | Demonstrates the data download and opinion-pair construction pipeline. |
-
-Large CSV files are stored as ZIP files when needed because GitHub does not allow files larger than 100 MB.
 
 ---
 
 ## Main Data Files
 
-| File | Description |
-|------|-------------|
-| `results_filtered/pair_metadata_w_scores.zip` | Zipped pair-level dataset containing majority–dissent metadata, opinion text, SCDB variables, human scores where available, and computed engagement measures. |
-| `samples/30_pairs_with_all_scores.csv` | Validation sample containing 30 majority–dissent pairs with human ratings and repeated LLM-generated engagement scores. |
+### `results_filtered/pair_metadata_w_scores.csv`
 
-Unzip `results_filtered/pair_metadata_w_scores.zip` locally to access the full CSV.
+This is the main pair-level dataset used in the revised analysis. It contains one row per majority–dissent pair.
 
-```bash
-unzip results_filtered/pair_metadata_w_scores.zip -d results_filtered/
-```
+Unlike `pair_metadata.zip`, this file does not include the full opinion text. Instead, it contains the metadata and computational variables needed for the final statistical analysis.
 
----
+| Column | Description |
+|---|---|
+| `case_key` | Internal case identifier. |
+| `case_name_abbreviation` | Abbreviated case name. |
+| `dissent_ind` | Index of the dissent within the case. |
+| `majority_word_count` | Word count of the majority opinion. |
+| `dissent_word_count` | Word count of the dissenting opinion. |
+| `officialcitation` | Official reporter citation. |
+| `issuearea` | Supreme Court Database issue-area code. |
+| `majvotes` | Number of votes in the majority. |
+| `minvotes` | Number of votes in dissent. |
+| `year` | Decision year. |
+| `kldiv_score` | KL divergence between the majority and dissent topic distributions. |
+| `d2v_cosdist_score` | Cosine distance between the majority and dissent doc2vec embeddings. |
+| `sbert_cosdist_score` | Cosine distance between the majority and dissent Sentence-BERT embeddings. Evaluated but not retained in the final composite. |
+| `legalbert_cosdist_score` | Cosine distance between the majority and dissent Legal-BERT embeddings. Evaluated but not retained in the final composite. |
+| `voyage3_cosdist` | Cosine distance between the majority and dissent Voyage 3 Large embeddings. |
+| `voyagelaw_cosdist` | Cosine distance between the majority and dissent Voyage Law 2 embeddings. Evaluated but not retained in the final composite. |
+| `z_kldiv` | Standardized KL-divergence score. |
+| `z_d2v` | Standardized doc2vec cosine-distance score. |
+| `z_voyage3` | Standardized Voyage 3 Large cosine-distance score. |
+| `composite_div` | Final composite divergence measure constructed from `z_kldiv`, `z_d2v`, and `z_voyage3`. |
 
-## Column Descriptions
+Higher distance or divergence values indicate that the majority and dissent are farther apart in the corresponding representation.
 
-## 1. `pair_metadata_w_scores.csv`
+### `results_filtered/pair_metadata.zip`
 
-This file is stored as:
+This archive contains the majority–dissent metadata together with the original majority and dissent opinion text, but without the final computational scores.
+
+Use this file when you want to rerun the computational-measure scripts, because those scripts require the original text fields, including:
 
 ```text
-results_filtered/pair_metadata_w_scores.zip
+majority_text
+dissent_text
 ```
 
-It contains the full filtered majority–dissent pair dataset.
+Extract it with:
 
-| Column | Description |
-|--------|-------------|
-| `case_key` | Internal ID for linking across datasets. |
-| `case_name` | Full case name. |
-| `case_name_abbreviation` | Abbreviated case name. |
-| `decision_date` | Date the Supreme Court issued the decision. |
-| `opinion_type` | Opinion type field. |
-| `dissent_ind` | Index of the dissenting opinion within the same case. Cases may have multiple dissents; these are indexed 0, 1, 2, etc. |
-| `majority_text` | Full text of the majority opinion from the Caselaw Access Project. |
-| `majority_word_count` | Word count of the majority opinion. |
-| `dissent_text` | Full text of the dissenting opinion. |
-| `dissent_word_count` | Word count of the dissenting opinion. |
-| `official citation` / `officialcitation` | Reporter citation fields used for linking CAP and SCDB records. |
-| `precedentAlteration` | Whether the decision alters precedent, from SCDB. |
-| `issue` | Specific case issue code from SCDB. |
-| `issueArea` | Broad issue-area code from SCDB. |
-| `decisionDirection` | Ideological direction of the majority decision, from SCDB. |
-| `decisionDirectionDissent` | Ideological direction of the dissent, from SCDB. |
-| `authorityDecision1` | Institutional authority variable from SCDB. |
-| `authorityDecision2` | Secondary authority variable from SCDB. |
-| `majVotes` | Number of votes on the majority side. |
-| `minVotes` | Number of votes on the dissenting side. |
-| `kldiv_score` | KL divergence between LDA topic distributions of majority and dissent. Higher values indicate greater topical divergence. |
-| `d2v_cossim_score` | Cosine similarity between doc2vec embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `sbert_cossim_score` | Cosine similarity between Sentence-BERT embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `legalbert_cossim_score` | Cosine similarity between Legal-BERT embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `d2v_cosdist_score` | Cosine distance between doc2vec embeddings of majority and dissent, computed as `1 - d2v_cossim_score`. Higher values indicate greater textual divergence. |
-| `sbert_cosdist_score` | Cosine distance between Sentence-BERT embeddings of majority and dissent, computed as `1 - sbert_cossim_score`. Higher values indicate greater textual divergence. |
-| `legalbert_cosdist_score` | Cosine distance between Legal-BERT embeddings of majority and dissent, computed as `1 - legalbert_cossim_score`. Higher values indicate greater textual divergence. |
+```bash
+unzip results_filtered/pair_metadata.zip -d results_filtered/
+```
 
-### SCDB Documentation
+This should produce:
 
-- Full SCDB documentation: <http://scdb.wustl.edu/documentation.php>
-- Issue Area codebook: <http://scdb.wustl.edu/documentation.php?var=issueArea>
+```text
+results_filtered/pair_metadata.csv
+```
 
----
+The computational scripts read `pair_metadata.csv` and write their model-specific outputs under `results_filtered/`.
 
-## 2. `samples/30_pairs_with_all_scores.csv`
+### `samples/30_pairs_with_all_scores.csv`
 
-This file contains the 30-pair validation sample with human scores, LLM scores, and computational measures.
+This is the canonical 30-pair validation sample. It contains case metadata, human engagement ratings, repeated LLM-generated scores, and computational measures.
 
-### A. Metadata Columns
-
-| Column | Description |
-|--------|-------------|
-| `key` | Internal unique index. |
-| `row` | Original extraction row index. |
-| `case_key` | Link to other datasets. |
-| `case_name`, `case_name_abbreviation`, `decision_date` | Case identifiers. |
-| `opinion_type`, `dissent_ind` | Opinion metadata. |
-| `majority_text` | Full text of the majority opinion. |
-| `dissent_text` | Full text of the dissenting opinion. |
-| `majority_word_count`, `dissent_word_count` | Opinion word counts. |
-| `official citation`, `officialcitation` | Reporter citation fields. |
-| `precedentAlteration` | SCDB precedent-alteration variable. |
-| `issue`, `issueArea` | SCDB issue variables. |
-| `decisionDirection`, `decisionDirectionDissent` | SCDB ideological-direction variables. |
-| `authorityDecision1`, `authorityDecision2` | SCDB authority variables. |
-| `majVotes`, `minVotes` | Vote counts. |
-
-### B. Computational Measure Columns
-
-| Column | Description |
-|--------|-------------|
-| `kldiv_score` | KL divergence between LDA topic distributions of majority and dissent. Higher values indicate greater topical divergence. |
-| `d2v_cossim_score` | Cosine similarity between doc2vec embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `sbert_cossim_score` | Cosine similarity between Sentence-BERT embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `legalbert_cossim_score` | Cosine similarity between Legal-BERT embeddings of majority and dissent. Higher values indicate greater textual similarity. |
-| `d2v_cosdist_score` | Cosine distance between doc2vec embeddings of majority and dissent. Higher values indicate greater textual divergence. |
-| `sbert_cosdist_score` | Cosine distance between Sentence-BERT embeddings of majority and dissent. Higher values indicate greater textual divergence. |
-| `legalbert_cosdist_score` | Cosine distance between Legal-BERT embeddings of majority and dissent. Higher values indicate greater textual divergence. |
-
-### C. Human Engagement Scores
-
-| Column | Description |
-|--------|-------------|
-| `cb_score`, `eg_score`, `jm_score`, `st_score`, `sz_score`, `rs_score` | Human coder engagement ratings on a 1–5 scale. |
-| `score_mean` | Mean human coder score. |
-| `binaryRA` | Binary engagement indicator derived from human scores. |
-
-### D. LLM Engagement Scores
-
-Each LLM evaluates each of the 30 validation pairs five times. Columns follow the pattern `model_score_0` through `model_score_4`, plus a model-specific mean score.
-
-| Model | Columns |
-|-------|---------|
-| GPT-5 | `openai_score_0` … `openai_score_4`, `openai_score_mean` |
-| DeepSeek Chat | `deepseek_chat_score_0` … `deepseek_chat_score_4`, `deepseek_chat_score_mean` |
-| DeepSeek Reasoner | `deepseek_reasoner_score_0` … `deepseek_reasoner_score_4`, `deepseek_reasoner_score_mean` |
-| Claude Sonnet | `anthropic_sonnet_score_0` … `anthropic_sonnet_score_4`, `anthropic_sonnet_score_mean` |
-| Claude Opus | `anthropic_opus_score_0` … `anthropic_opus_score_4`, `anthropic_opus_score_mean` |
-
-All human and LLM scores use the same 1–5 rubric, where higher scores indicate greater deliberative engagement.
+Each LLM evaluates each pair five times. Model columns generally follow the pattern `model_score_0` through `model_score_4`, together with a model-specific mean.
 
 ---
 
 ## Computational Measures
 
-The repository includes four main computational measures of the textual relationship between each majority opinion and dissenting opinion.
+The final composite divergence measure retains three components:
 
-### 1. Topic Model
+1. Topic-model divergence
+2. Doc2vec cosine distance
+3. Voyage 3 Large cosine distance
 
-Script:
+Their standardized values are stored as:
+
+```text
+z_kldiv
+z_d2v
+z_voyage3
+```
+
+and combined in:
+
+```text
+composite_div
+```
+
+Sentence-BERT, Legal-BERT, and Voyage Law 2 were also evaluated during model selection but were not retained in the final composite. Their outputs remain in the repository for transparency and comparison.
+
+### Topic model
+
+Run:
 
 ```bash
 python topic_model_filtered.py
 ```
 
-This script fits an LDA topic model to the filtered opinion corpus and represents each opinion as a topic distribution. Majority–dissent divergence is measured using KL divergence.
+The topic-model script represents each opinion as a topic distribution and computes KL divergence between the majority and dissent.
 
-Outputs are stored in:
-
-```text
-results_filtered/topic_model/
-```
-
-The main pair-level score is:
+The main score is:
 
 ```text
 kldiv_score
 ```
 
-Higher values indicate greater topical divergence between the majority and dissent.
+### Doc2vec
 
----
-
-### 2. Doc2vec
-
-Script:
+Run:
 
 ```bash
 python doc2vec_filtered.py
 ```
 
-This script trains a doc2vec model over majority and dissenting opinions and computes majority–dissent similarity in the learned document-embedding space.
-
-Outputs are stored in:
+The main score is:
 
 ```text
-results_filtered/doc2vec/
-```
-
-The main pair-level scores are:
-
-```text
-d2v_cossim_score
 d2v_cosdist_score
 ```
 
-`d2v_cossim_score` is the cosine similarity between the majority and dissent document embeddings.
+### Sentence-BERT
 
-`d2v_cosdist_score` is the corresponding cosine distance.
-
----
-
-### 3. Sentence-BERT
-
-Script:
+Run:
 
 ```bash
 python SBERT_filtered.py
 ```
 
-The Sentence-BERT script uses:
+The main score is:
 
 ```text
-sentence-transformers/all-distilroberta-v1
-```
-
-Long opinions are split into token chunks using the GPT-2 tokenizer from `tiktoken`. Each chunk has at most 512 tokens with a 50-token overlap. The script embeds each chunk using Sentence-BERT with normalized embeddings, then averages chunk embeddings to obtain one document-level embedding per opinion.
-
-Outputs are stored in:
-
-```text
-results_filtered/sbert/
-```
-
-Main outputs include:
-
-| File | Description |
-|------|-------------|
-| `results_filtered/sbert/document_mapping.csv` | Mapping from document index to case and opinion label. |
-| `results_filtered/sbert/document_embeddings.npy` | Document-level Sentence-BERT embeddings. |
-| `results_filtered/sbert/cosine_similarities.npy` | Majority–dissent cosine similarities. |
-| `results_filtered/sbert/cosine_similarity_metadata.csv` | Pair-level cosine similarity metadata. |
-
-The main pair-level scores are:
-
-```text
-sbert_cossim_score
 sbert_cosdist_score
 ```
 
-`sbert_cossim_score` is the cosine similarity between the majority and dissent Sentence-BERT embeddings.
+Sentence-BERT was evaluated but not retained in the final composite measure.
 
-`sbert_cosdist_score` is the corresponding cosine distance.
+### Legal-BERT
 
----
-
-### 4. Legal-BERT
-
-Script:
+Run:
 
 ```bash
 python LegalBERT_filtered.py
 ```
 
-The Legal-BERT script uses:
+The main score is:
 
 ```text
-nlpaueb/legal-bert-base-uncased
-```
-
-Long opinions are split using the Legal-BERT tokenizer into chunks of at most 512 tokens, including special tokens, with a 50-token overlap. For each chunk, the script extracts the final hidden states and mean-pools token embeddings using the attention mask. Chunk embeddings are L2-normalized, averaged into a document-level embedding, and the final document embedding is normalized again.
-
-Outputs are stored in:
-
-```text
-results_filtered/legalbert/
-```
-
-Main outputs include:
-
-| File | Description |
-|------|-------------|
-| `results_filtered/legalbert/document_mapping.csv` | Mapping from document index to case and opinion label. |
-| `results_filtered/legalbert/document_embeddings.npy` | Document-level Legal-BERT embeddings. |
-| `results_filtered/legalbert/cosine_similarities.npy` | Majority–dissent cosine similarities. |
-| `results_filtered/legalbert/cosine_similarity_metadata.csv` | Pair-level cosine similarity metadata. |
-
-The main pair-level scores are:
-
-```text
-legalbert_cossim_score
 legalbert_cosdist_score
 ```
 
-`legalbert_cossim_score` is the cosine similarity between the majority and dissent Legal-BERT embeddings.
-
-`legalbert_cosdist_score` is the corresponding cosine distance.
+Legal-BERT was evaluated but not retained in the final composite measure.
 
 ---
 
-## LLM Scoring
+## VoyageAI
 
-The repository includes scripts for scoring the 30-pair validation sample with multiple LLMs.
+Run:
+
+```bash
+python voyage_filtered.py
+```
+
+The script uses two VoyageAI embedding models:
+
+```text
+voyage-3-large
+voyage-law-2
+```
+
+It embeds each majority and dissent opinion and computes cosine distance for each pair.
+
+The main scores are:
+
+```text
+voyage3_cosdist
+voyagelaw_cosdist
+```
+
+`voyage3_cosdist` is retained in the final composite measure. `voyagelaw_cosdist` was evaluated but not retained.
+
+The script reads:
+
+```text
+results_filtered/pair_metadata.csv
+```
+
+and writes its outputs to:
+
+```text
+results_filtered/voyage/
+```
+
+Running the script requires the `voyageai` package and a `VOYAGE_API_KEY`.
+
+---
+
+## LLM Validation Scores
+
+The repository includes scripts for scoring the 30-pair validation sample with several LLM families.
 
 | Script | Model family |
-|--------|-------------|
+|---|---|
 | `openai_sample.py` | OpenAI GPT-5 |
 | `anthropic_sample_opus.py` | Claude Opus |
 | `anthropic_sample_sonnet.py` | Claude Sonnet |
 | `deepseek_sample_chat.py` | DeepSeek Chat |
 | `deepseek_sample_reasoner.py` | DeepSeek Reasoner |
 
-Each script asks the model to rate whether the dissent is “talking with” or “talking past” the majority on a 1–5 scale and stores the resulting score and reasoning.
+All human and LLM engagement ratings use the same 1–5 rubric, where higher values indicate greater deliberative engagement.
+
+Running these scripts requires the relevant provider credentials and may incur API charges.
 
 ---
 
-## Usage
+## Reconstructing the Opinion-Pair Data
 
-A typical workflow is:
+`data_download_replication.py` demonstrates how to:
 
-1. Clone the repository.
+1. Download U.S. Supreme Court archives from the Harvard Caselaw Access Project.
+2. Extract case and opinion text.
+3. Construct majority–dissent pairs.
+4. Optionally merge the resulting pairs with Supreme Court Database variables.
+
+Run:
+
+```bash
+python data_download_replication.py
+```
+
+Large CAP archives are downloaded into:
+
+```text
+data/zip/
+```
+
+These downloaded archives are generated locally and should not be committed to Git.
+
+The optional Supreme Court Database merge is a template and may require adapting local filenames and citation-field names.
+
+---
+
+## Typical Workflow
+
+Clone the repository:
 
 ```bash
 git clone git@github.com:Jia1-Chen/supreme-court-engagement.git
 cd supreme-court-engagement
 ```
 
-2. Unzip the main processed dataset.
+For analysis using the already-computed measures, use:
 
-```bash
-unzip results_filtered/pair_metadata_w_scores.zip -d results_filtered/
+```text
+results_filtered/pair_metadata_w_scores.csv
 ```
 
-3. Run the desired replication scripts.
+For rerunning the text-based computational scripts, extract:
 
-```bash
-python topic_model_filtered.py
-python doc2vec_filtered.py
-python SBERT_filtered.py
-python LegalBERT_filtered.py
+```text
+results_filtered/pair_metadata.zip
 ```
 
-4. Use `samples/30_pairs_with_all_scores.csv` to reproduce validation analyses involving human and LLM scores.
+and use the resulting:
+
+```text
+results_filtered/pair_metadata.csv
+```
+
+For the human and LLM validation analyses, use:
+
+```text
+samples/30_pairs_with_all_scores.csv
+```
 
 ---
 
-## Source of Opinions
+## Source Data
 
 Opinion texts come from the Harvard Caselaw Access Project.
 
 Case metadata and issue coding come from the Supreme Court Database.
 
+Users should consult the source projects for their documentation, coverage, licensing, and citation requirements.
+
 ---
 
 ## Notes on Interpretation
 
-The computational measures are oriented in two different ways:
+The main computational variables are distances or divergences. Higher values indicate a greater representational difference between the majority and dissent.
 
-- Similarity scores, such as `d2v_cossim_score`, `sbert_cossim_score`, and `legalbert_cossim_score`, are higher when majority and dissent are more textually similar.
-- Distance or divergence scores, such as `kldiv_score`, `d2v_cosdist_score`, `sbert_cosdist_score`, and `legalbert_cosdist_score`, are higher when majority and dissent are more textually divergent.
+In this project, greater divergence is generally interpreted as less deliberative engagement, while lower divergence is generally interpreted as greater engagement. This interpretation should be considered together with the human-coded and LLM-based validation analyses rather than treating any single computational measure as a direct behavioral label.
 
-In the engagement interpretation used in this project, greater textual divergence is generally interpreted as less deliberative engagement, while greater textual similarity is generally interpreted as more deliberative engagement.
+---
+
+## Reproducibility Notes
+
+- The main scored dataset does not include the original opinion text.
+- `pair_metadata.zip` provides the opinion text needed to rerun the computational scripts.
+- External APIs and hosted model versions may change.
+- VoyageAI embedding generation requires `VOYAGE_API_KEY` and may incur charges.
+- Saved VoyageAI embedding files are relatively large.
+- Raw CAP archives downloaded into `data/zip/` should remain untracked.
+- Randomized models and external LLM calls may not produce byte-identical outputs unless model versions, provider behavior, package versions, and random seeds are fixed.
 
 ---
 
