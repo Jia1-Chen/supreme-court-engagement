@@ -2,12 +2,14 @@
 Embed SCOTUS majority and dissent opinions with Voyage (whole-document, no chunking),
 compute majority-dissent cosine distance for two models.
 
-- Reads:  data/pair_metadata_w_scores.csv   (case_key, dissent_ind, majority_text, dissent_text)
-- Writes: output/voyage_cosdist.csv          (pair_id, case_key, dissent_ind,
-                                               voyage3_cosdist, voyagelaw_cosdist)
+- Reads:  results_filtered/pair_metadata.csv
+          (case_key, dissent_ind, majority_text, dissent_text)
+- Writes: results_filtered/voyage/voyage_cosdist.csv
+          (pair_id, case_key, dissent_ind, voyage3_cosdist, voyagelaw_cosdist)
 
-Safe to stop and restart: embeddings are checkpointed to output/emb_*.pkl and
-resumed automatically. Run again after an interruption and it picks up where it left off.
+Safe to stop and restart: embeddings are checkpointed to
+results_filtered/voyage/emb_*.pkl and resumed automatically.
+Run again after an interruption and it picks up where it left off.
 
 To TEST first, set LIMIT = 20 below, run, check the output looks sane, then set
 LIMIT = None and run the full corpus.
@@ -22,7 +24,7 @@ import voyageai
 # ------------------------------------------------------------------ config
 LIMIT = None          # set to e.g. 20 to test on a few pairs first; None = full corpus
 DATA = "results_filtered/pair_metadata.csv"
-OUTDIR = "output"
+OUTDIR = "results_filtered/voyage"
 MODELS = {"voyage3": "voyage-3-large", "voyagelaw": "voyage-law-2"}
 TOKEN_BUDGET = 60_000    # generous safety margin under the 120K hard cap
 ITEM_CAP = 32            # fewer texts per request so long ones can't stack
